@@ -1,0 +1,10244 @@
+Tlg!	O
+suami	O
+terluka	B-INJURY
+
+Emergency!	O
+anak	O
+sekitar	O
+Perumahan	B-LOC
+Griya	I-LOC
+Indah	I-LOC
+
+Darurat!	O
+lam	O
+Baiturrahman	B-LOC
+Putri	B-NAME
+Nadia	I-NAME
+meudarah	B-INJURY
+that	I-INJURY
+segera!	O
+
+Tlg!	O
+Teuku	B-NAME
+Rizal	I-NAME
+bibi	O
+tidak	B-INJURY
+bergerak	I-INJURY
+tolong	O
+datang!	O
+
+Segera	O
+bantu!	O
+Abu	B-NAME
+Syukri	I-NAME
+di area	O
+Gang	B-LOC
+Kenanga	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+Abu	B-NAME
+Syukri	I-NAME
+di sekitar	O
+Pasar	B-LOC
+Peunayong	I-LOC
+
+Darurat	O
+berat!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+luka	B-INJURY
+terbuka	I-INJURY
+wilayah	O
+Lueng	B-LOC
+Bata	I-LOC
+
+Tlg!	O
+korban	O
+meudarah	B-INJURY
+that	I-INJURY
+di	O
+Gampong	B-LOC
+Jawa	I-LOC
+cepat!	O
+
+Tolong	O
+cepat!	O
+korban	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+dekat	O
+Ie	B-LOC
+Masen	I-LOC
+tolong	O
+datang!	O
+
+Darurat!	O
+Nur	B-NAME
+Hidayah	I-NAME
+depan	O
+Gampong	B-LOC
+Seutui	I-LOC
+
+Help!	O
+ureung	O
+luka	B-INJURY
+parah	I-INJURY
+lam	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Bantu!	O
+Halimah	B-NAME
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+sekarang!	O
+
+Tulong!	O
+uma	O
+samping	O
+Gampong	B-LOC
+Tibang	I-LOC
+tolong	O
+datang!	O
+
+Gawat!	O
+Putri	B-NAME
+Nadia	I-NAME
+di depan	O
+Neusu	B-LOC
+Jaya	I-LOC
+segera!	O
+
+Help!	O
+tidak	B-INJURY
+sadar	I-INJURY
+depan	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+tolong	O
+datang!	O
+
+Tulong!	O
+Abu	B-NAME
+Syukri	I-NAME
+aneuk	O
+loen	O
+sesak	B-INJURY
+napas	I-INJURY
+di	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+cepat!	O
+
+Help!	O
+korban	O
+dekat	O
+Gampong	B-LOC
+Meunasah	I-LOC
+Blang	I-LOC
+
+Cepat	O
+bantu!	O
+Maghfirah	B-NAME
+abang	O
+perdarahan	B-INJURY
+internal	I-INJURY
+harap	O
+cepat!	O
+
+SOS!	O
+Budi	B-NAME
+Santoso	I-NAME
+terkubur	B-INJURY
+segera!	O
+
+Tolong	O
+cepat!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+di sekitar	O
+Bandar	B-LOC
+Baru	I-LOC
+segera!	O
+
+Cepat	O
+bantu!	O
+orang	O
+area	O
+Gampong	B-LOC
+Merduati	I-LOC
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+
+Tolong!	O
+Aulia	B-NAME
+Rahman	I-NAME
+saudara	O
+tangan	B-INJURY
+patah	I-INJURY
+
+Segera	O
+bantu!	O
+tetangga	O
+di sekitar	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+luka	B-INJURY
+parah	I-INJURY
+cepat!	O
+
+Tolong!	O
+Maghfirah	B-NAME
+tertimpa	B-INJURY
+wilayah	O
+Kuta	B-LOC
+Raja	I-LOC
+jinoe!	O
+
+Gawat!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+suami	O
+meudarah	B-INJURY
+that	I-INJURY
+di depan	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+cepat!	O
+
+Help!	O
+Putri	B-NAME
+Nadia	I-NAME
+meudarah	B-INJURY
+that	I-INJURY
+tolong	O
+datang!	O
+
+Help!	O
+Teuku	B-NAME
+Rizal	I-NAME
+di daerah	O
+Darussalam	B-LOC
+cepat!	O
+
+Tlg!	O
+ibu	O
+di	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Help!	O
+warga	O
+karam	B-INJURY
+lam	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Tolong!	O
+kawasan	O
+Darussalam	B-LOC
+Budi	B-NAME
+Santoso	I-NAME
+perdarahan	B-INJURY
+internal	I-INJURY
+butuh	O
+bantuan!	O
+
+Help!	O
+adek	O
+samping	O
+Gampong	B-LOC
+Keudah	I-LOC
+remuk	B-INJURY
+sekarang!	O
+
+Minta	O
+bantuan!	O
+pak	O
+syok	B-INJURY
+area	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+tolong	O
+datang!	O
+
+Bantu!	O
+Fitri	B-NAME
+Yanti	I-NAME
+teman	O
+kaki	B-INJURY
+patah	I-INJURY
+sekarang!	O
+
+Bantu!	O
+keluarga	O
+shock	B-INJURY
+daerah	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+sekarang!	O
+
+Tlng!	O
+luka	B-INJURY
+parah	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+cepat!	O
+
+Gawat!	O
+Nurul	B-NAME
+Izzah	I-NAME
+meudarah	B-INJURY
+that	I-INJURY
+lam	O
+Jalan	B-LOC
+Merduati	I-LOC
+
+Tlg!	O
+Irwandi	B-NAME
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+dekat	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+butuh	O
+bantuan!	O
+
+Tolong!	O
+adek	O
+karam	B-INJURY
+dekat	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+cepat!	O
+
+Bantu!	O
+warga	O
+
+Help!	O
+abang	O
+wilayah	O
+Syiah	B-LOC
+Kuala	I-LOC
+sekarang!	O
+
+Darurat!	O
+syok	B-INJURY
+mohon	O
+bantuan!	O
+
+Bantu!	O
+Suryani	B-NAME
+korban	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+sekarang!	O
+
+Tulong!	O
+kondisi	B-INJURY
+kritis	I-INJURY
+di kawasan	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+cepat!	O
+
+SOS!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+daerah	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+jinoe!	O
+
+Tulong!	O
+Nurhayati	B-NAME
+abang	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+di depan	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+cepat!	O
+
+Cepat	O
+bantu!	O
+Abu	B-NAME
+Syukri	I-NAME
+kawasan	O
+Gampong	B-LOC
+Lueng	I-LOC
+Bata	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat!	O
+teman	O
+luka	B-INJURY
+parah	I-INJURY
+
+Darurat	O
+berat!	O
+Fitri	B-NAME
+Yanti	I-NAME
+sekitar	O
+Komplek	B-LOC
+Polisi	I-LOC
+harap	O
+cepat!	O
+
+Darurat!	O
+kakak	O
+luka	B-INJURY
+berat	I-INJURY
+dekat	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+darurat!	O
+
+Tulong!	O
+kakak	O
+luka	B-INJURY
+bakar	I-INJURY
+lsg!	O
+
+Help!	O
+Ahmad	B-NAME
+Fadli	I-NAME
+di belakang	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+harap	O
+cepat!	O
+
+Darurat!	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+jinoe!	O
+
+Tulong!	O
+syok	B-INJURY
+di belakang	O
+Desa	B-LOC
+Neuheun	I-LOC
+
+Cepat	O
+bantu!	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+dekat	O
+Desa	B-LOC
+Tungkop	I-LOC
+
+Cepat	O
+bantu!	O
+nenek	O
+kritis	B-INJURY
+harap	O
+cepat!	O
+
+Gawat!	O
+cedera	B-INJURY
+serius	I-INJURY
+daerah	O
+Gang	B-LOC
+Kenanga	I-LOC
+cepat!	O
+
+Help!	O
+Cut	B-NAME
+Nurul	I-NAME
+ayah	O
+memar	B-INJURY
+berat	I-INJURY
+di	O
+Desa	B-LOC
+Lamdom	I-LOC
+cepat!	O
+
+Tlg!	O
+Teuku	B-NAME
+Azhar	I-NAME
+adek	O
+dekat	O
+Gampong	B-LOC
+Keuramat	I-LOC
+darurat!	O
+
+Darurat!	O
+Pak	B-NAME
+Bakar	I-NAME
+warga	O
+dalam	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+Minta	O
+bantuan!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+tidak	B-INJURY
+sadar	I-INJURY
+jinoe!	O
+
+Tolong!	O
+klg	O
+luka	B-INJURY
+berat	I-INJURY
+
+Tlg!	O
+kakak	O
+karam	B-INJURY
+dekat	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+lsg!	O
+
+Darurat	O
+berat!	O
+di depan	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+Fatimah	B-NAME
+Azzahra	I-NAME
+patah	B-INJURY
+tulang	I-INJURY
+cepat!	O
+
+Emergency!	O
+Siti	B-NAME
+Rahma	I-NAME
+pak	O
+terkubur	B-INJURY
+jinoe!	O
+
+Tolong	O
+cepat!	O
+paman	O
+di kawasan	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+kritis	B-INJURY
+
+Help!	O
+Suryani	B-NAME
+ureung	O
+luka	B-INJURY
+bakar	I-INJURY
+jinoe!	O
+
+Gawat!	O
+Taufik	B-NAME
+Hidayat	I-NAME
+napas	B-INJURY
+lemah	I-INJURY
+lam	O
+Gampong	B-LOC
+Lampulo	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+di area	O
+Gang	B-LOC
+Mawar	I-LOC
+Asmaul	B-NAME
+Husna	I-NAME
+luka	B-INJURY
+terbuka	I-INJURY
+
+Tulong!	O
+di belakang	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+Abi	B-NAME
+Fauzan	I-NAME
+patah	B-INJURY
+tulang	I-INJURY
+
+Tolong	O
+cepat!	O
+pak	O
+tergencet	B-INJURY
+segera!	O
+
+Tolong!	O
+meudarah	B-INJURY
+that	I-INJURY
+cepat!	O
+
+Kritis!	O
+di kawasan	O
+Gang	B-LOC
+Kenanga	I-LOC
+Cut	B-NAME
+Nurul	I-NAME
+kritis	B-INJURY
+
+SOS!	O
+Abu	B-NAME
+Syukri	I-NAME
+ibu	O
+penuh	B-INJURY
+darah	I-INJURY
+segera!	O
+
+Minta	O
+bantuan!	O
+keluarga	O
+perdarahan	B-INJURY
+internal	I-INJURY
+jinoe!	O
+
+Tulong!	O
+ayahanda	O
+terluka	B-INJURY
+dada	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Seutui	I-LOC
+
+Tlng!	O
+kondisi	B-INJURY
+kritis	I-INJURY
+tolong	O
+datang!	O
+
+Emergency!	O
+adik	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+harap	O
+cepat!	O
+
+Help!	O
+Pak	B-NAME
+Bakar	I-NAME
+klg	O
+kepala	B-INJURY
+bocor	I-INJURY
+dalam	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+Tolong!	O
+Siti	B-NAME
+Rahma	I-NAME
+warga	O
+karam	B-INJURY
+dekat	O
+Desa	B-LOC
+Lamdom	I-LOC
+jinoe!	O
+
+Help!	O
+sekitar	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+Cut	B-NAME
+Sarah	I-NAME
+tidak	B-INJURY
+sadar	I-INJURY
+jinoe!	O
+
+Minta	O
+bantuan!	O
+di area	O
+Gampong	B-LOC
+Keudah	I-LOC
+Cut	B-NAME
+Nurul	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+mohon	O
+bantuan!	O
+
+Tlg!	O
+ayah	O
+tulang	B-INJURY
+retak	I-INJURY
+di	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+
+Tolong!	O
+rusuk	B-INJURY
+patah	I-INJURY
+segera!	O
+
+Emergency!	O
+luka	B-INJURY
+parah	I-INJURY
+
+Darurat!	O
+bibi	O
+di depan	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+butuh	O
+bantuan!	O
+
+Tulong!	O
+Baharuddin	B-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+belakang	O
+Lambaro	B-LOC
+Skep	I-LOC
+jinoe!	O
+
+Tulong!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+
+Segera	O
+bantu!	O
+Zulkifli	B-NAME
+Akbar	I-NAME
+wilayah	O
+Gampong	B-LOC
+Jawa	I-LOC
+segera!	O
+
+Tlng!	O
+Cut	B-NAME
+Sarah	I-NAME
+ayahanda	O
+rusuk	B-INJURY
+patah	I-INJURY
+samping	O
+Simpang	B-LOC
+Surabaya	I-LOC
+
+Tulong!	O
+istri	O
+karam	B-INJURY
+dalam	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+jinoe!	O
+
+Minta	O
+bantuan!	O
+cedera	B-INJURY
+serius	I-INJURY
+cepat!	O
+
+SOS!	O
+istri	O
+terluka	B-INJURY
+parah	I-INJURY
+sekarang!	O
+
+Tlg!	O
+ureung	O
+sesak	B-INJURY
+napas	I-INJURY
+dekat	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+
+Segera	O
+bantu!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+butuh	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+Khairati	B-NAME
+paman	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+tolong	O
+datang!	O
+
+Tlg!	O
+luka	B-INJURY
+parah	I-INJURY
+di sekitar	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+butuh	O
+bantuan!	O
+
+Help!	O
+kakek	O
+kawasan	O
+Gampong	B-LOC
+Peuniti	I-LOC
+koma	B-INJURY
+sekarang!	O
+
+Tlg!	O
+warga	O
+meudarah	B-INJURY
+that	I-INJURY
+harap	O
+cepat!	O
+
+Darurat!	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+di belakang	O
+Blang	B-LOC
+Bintang	I-LOC
+tolong	O
+datang!	O
+
+Bantu!	O
+istri	O
+terluka	B-INJURY
+parah	I-INJURY
+lam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+lsg!	O
+
+Tulong!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+bapak	O
+trauma	B-INJURY
+kepala	I-INJURY
+depan	O
+Jalan	B-LOC
+Merduati	I-LOC
+mohon	O
+bantuan!	O
+
+Emergency!	O
+Hamdani	B-NAME
+Putra	I-NAME
+ayah	O
+tangan	B-INJURY
+patah	I-INJURY
+belakang	O
+Komplek	B-LOC
+Polisi	I-LOC
+segera!	O
+
+Cepat	O
+bantu!	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+harap	O
+cepat!	O
+
+Minta	O
+bantuan!	O
+Teuku	B-NAME
+Rizal	I-NAME
+abang	O
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+depan	O
+Gampong	B-LOC
+Peuniti	I-LOC
+sekarang!	O
+
+Bantu!	O
+Pak	B-NAME
+Bakar	I-NAME
+warga	O
+tangan	B-INJURY
+remuk	I-INJURY
+dekat	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Cepat	O
+bantu!	O
+Rizal	B-NAME
+Akbar	I-NAME
+sebelah	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+butuh	O
+bantuan!	O
+
+Tolong	O
+cepat!	O
+anak	O
+di daerah	O
+Jalan	B-LOC
+Panglima	I-LOC
+Polem	I-LOC
+jinoe!	O
+
+SOS!	O
+Teuku	B-NAME
+Rizal	I-NAME
+adek	O
+terkubur	B-INJURY
+di daerah	O
+Kopelma	B-LOC
+harap	O
+cepat!	O
+
+Minta	O
+bantuan!	O
+luka	B-INJURY
+dalam	I-INJURY
+tolong	O
+datang!	O
+
+Help!	O
+sekitar	O
+Gang	B-LOC
+Kenanga	I-LOC
+Aulia	B-NAME
+Rahman	I-NAME
+terseret	B-INJURY
+arus	I-INJURY
+
+Tlg!	O
+Cut	B-NAME
+Nurul	I-NAME
+uma	O
+kejang	B-INJURY
+tolong	O
+datang!	O
+
+SOS!	O
+Cut	B-NAME
+Nurul	I-NAME
+klg	O
+tulang	B-INJURY
+retak	I-INJURY
+lam	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+
+Darurat	O
+berat!	O
+Abi	B-NAME
+Fauzan	I-NAME
+kawan	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+area	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+jinoe!	O
+
+Tolong!	O
+Hamdani	B-NAME
+Putra	I-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+
+Help!	O
+aneuk	O
+loen	O
+terluka	B-INJURY
+parah	I-INJURY
+dekat	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+
+Tolong!	O
+luka	B-INJURY
+robek	I-INJURY
+
+Help!	O
+korban	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+lam	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Emergency!	O
+adik	O
+di	O
+Lambaro	B-LOC
+Skep	I-LOC
+butuh	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+Ahmad	B-NAME
+Fadli	I-NAME
+ibu	O
+tidak	B-INJURY
+bergerak	I-INJURY
+di daerah	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+sekarang!	O
+
+Help!	O
+Nadia	B-NAME
+Safira	I-NAME
+korban	O
+pendarahan	B-INJURY
+
+Tulong!	O
+Abu	B-NAME
+Syukri	I-NAME
+klg	O
+kepala	B-INJURY
+bocor	I-INJURY
+di	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+
+Tlg!	O
+Mak	B-NAME
+Wati	I-NAME
+warga	O
+luka	B-INJURY
+berat	I-INJURY
+dekat	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+cepat!	O
+
+Darurat!	O
+adik	O
+area	O
+Syiah	B-LOC
+Kuala	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+di	O
+Jalan	B-LOC
+Merduati	I-LOC
+Maghfirah	B-NAME
+luka	B-INJURY
+robek	I-INJURY
+butuh	O
+bantuan!	O
+
+Tlg!	O
+istri	O
+kaki	B-INJURY
+patah	I-INJURY
+harap	O
+cepat!	O
+
+Minta	O
+bantuan!	O
+bapak	O
+di kawasan	O
+Pelanggahan	B-LOC
+butuh	O
+bantuan!	O
+
+Darurat!	O
+Pak	B-NAME
+Harun	I-NAME
+istri	O
+patah	B-INJURY
+tulang	I-INJURY
+lam	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Darurat	O
+berat!	O
+Hamdani	B-NAME
+Putra	I-NAME
+cedera	B-INJURY
+serius	I-INJURY
+di belakang	O
+Kopelma	B-LOC
+
+Minta	O
+bantuan!	O
+ibunda	O
+di	O
+Krueng	B-LOC
+Aceh	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+Nurul	B-NAME
+Izzah	I-NAME
+pingsan	B-INJURY
+sekarang!	O
+
+Tulong!	O
+warga	O
+tulang	B-INJURY
+retak	I-INJURY
+
+Darurat!	O
+warga	O
+cedera	B-INJURY
+kepala	I-INJURY
+
+Tlg!	O
+bibi	O
+tangan	B-INJURY
+patah	I-INJURY
+di kawasan	O
+Jalan	B-LOC
+Sudirman	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+Teuku	B-NAME
+Azhar	I-NAME
+adek	O
+karam	B-INJURY
+dalam	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+cepat!	O
+
+Darurat!	O
+istri	O
+cedera	B-INJURY
+kepala	I-INJURY
+dekat	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+cepat!	O
+
+Help!	O
+abang	O
+lam	O
+Gampong	B-LOC
+Jawa	I-LOC
+cepat!	O
+
+Help!	O
+kawan	O
+sekitar	O
+Jalan	B-LOC
+Merduati	I-LOC
+tenggelam	B-INJURY
+harap	O
+cepat!	O
+
+SOS!	O
+Mak	B-NAME
+Wati	I-NAME
+kakak	O
+pingsan	B-INJURY
+dalam	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+darurat!	O
+
+Tolong!	O
+Nurul	B-NAME
+Izzah	I-NAME
+patah	B-INJURY
+tulang	I-INJURY
+
+Kritis!	O
+luka	B-INJURY
+terbuka	I-INJURY
+
+Kritis!	O
+belakang	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+Rizky	B-NAME
+Pratama	I-NAME
+meudarah	B-INJURY
+that	I-INJURY
+cepat!	O
+
+Tlg!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+suami	O
+lam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+lsg!	O
+
+Emergency!	O
+Dewi	B-NAME
+Rahayu	I-NAME
+kawan	O
+rusuk	B-INJURY
+patah	I-INJURY
+di daerah	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+sekarang!	O
+
+Tlg!	O
+Pak	B-NAME
+Harun	I-NAME
+adek	O
+dalam	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+
+Tulong!	O
+kawasan	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+Fathimah	B-NAME
+Zahra	I-NAME
+pendarahan	B-INJURY
+hebat	I-INJURY
+tolong	O
+datang!	O
+
+Help!	O
+ureung	O
+terluka	B-INJURY
+parah	I-INJURY
+area	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Tlg!	O
+Khairati	B-NAME
+di	O
+Lambaro	B-LOC
+Skep	I-LOC
+sekarang!	O
+
+Segera	O
+bantu!	O
+uma	O
+di belakang	O
+Kuta	B-LOC
+Raja	I-LOC
+
+Cepat	O
+bantu!	O
+warga	O
+di sekitar	O
+Blang	B-LOC
+Bintang	I-LOC
+tolong	O
+datang!	O
+
+Emergency!	O
+pak	O
+remuk	B-INJURY
+depan	O
+Ie	B-LOC
+Masen	I-LOC
+
+Bantu!	O
+istri	O
+area	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+syok	B-INJURY
+
+Darurat	O
+berat!	O
+Zahra	B-NAME
+Husna	I-NAME
+kakak	O
+cedera	B-INJURY
+serius	I-INJURY
+sekarang!	O
+
+Darurat!	O
+Aulia	B-NAME
+Rahman	I-NAME
+di daerah	O
+Neusu	B-LOC
+Jaya	I-LOC
+butuh	O
+bantuan!	O
+
+Bantu!	O
+Taufik	B-NAME
+Hidayat	I-NAME
+tertimpa	B-INJURY
+jinoe!	O
+
+Darurat	O
+berat!	O
+adik	O
+sekitar	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+luka	B-INJURY
+parah	I-INJURY
+butuh	O
+bantuan!	O
+
+Bantu!	O
+Mak	B-NAME
+Wati	I-NAME
+klg	O
+tangan	B-INJURY
+remuk	I-INJURY
+dekat	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Tlng!	O
+Putri	B-NAME
+Nadia	I-NAME
+sekitar	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+mohon	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+Cut	B-NAME
+Nurul	I-NAME
+pak	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+mohon	O
+bantuan!	O
+
+SOS!	O
+Siti	B-NAME
+Rahma	I-NAME
+korban	O
+meudarah	B-INJURY
+that	I-INJURY
+dalam	O
+Gampong	B-LOC
+Jawa	I-LOC
+
+SOS!	O
+abah	O
+meudarah	B-INJURY
+that	I-INJURY
+sekarang!	O
+
+Tolong	O
+cepat!	O
+saudara	O
+terluka	B-INJURY
+parah	I-INJURY
+sekitar	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+sekarang!	O
+
+Help!	O
+warga	O
+di daerah	O
+Gampong	B-LOC
+Laksana	I-LOC
+mohon	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+Aulia	B-NAME
+Rahman	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+kawasan	O
+Blang	B-LOC
+Bintang	I-LOC
+jinoe!	O
+
+Cepat	O
+bantu!	O
+tetangga	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+harap	O
+cepat!	O
+
+Help!	O
+Cut	B-NAME
+Nurul	I-NAME
+ureung	O
+sesak	B-INJURY
+napas	I-INJURY
+dalam	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+Segera	O
+bantu!	O
+depan	O
+Gampong	B-LOC
+Laksana	I-LOC
+Faisal	B-NAME
+Hadi	I-NAME
+remuk	B-INJURY
+harap	O
+cepat!	O
+
+Tulong!	O
+ayah	O
+area	O
+Gampong	B-LOC
+Peuniti	I-LOC
+pendarahan	B-INJURY
+hebat	I-INJURY
+tolong	O
+datang!	O
+
+Minta	O
+bantuan!	O
+uma	O
+trauma	B-INJURY
+dada	I-INJURY
+wilayah	O
+Gampong	B-LOC
+Peuniti	I-LOC
+harap	O
+cepat!	O
+
+Darurat!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+di kawasan	O
+Desa	B-LOC
+Lambaro	I-LOC
+jinoe!	O
+
+Help!	O
+Yusuf	B-NAME
+Maulana	I-NAME
+bu	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+butuh	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+warga	O
+trauma	B-INJURY
+kepala	I-INJURY
+di area	O
+Gampong	B-LOC
+Laksana	I-LOC
+
+Tulong!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+di belakang	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+cepat!	O
+
+Tolong!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+paman	O
+kejang	B-INJURY
+area	O
+Gang	B-LOC
+Mawar	I-LOC
+butuh	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+Nurul	B-NAME
+Izzah	I-NAME
+napas	B-INJURY
+lemah	I-INJURY
+
+Tlg!	O
+suami	O
+luka	B-INJURY
+dalam	I-INJURY
+depan	O
+Komplek	B-LOC
+Polisi	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+Bu	B-NAME
+Sari	I-NAME
+korban	O
+memar	B-INJURY
+berat	I-INJURY
+dalam	O
+Gampong	B-LOC
+Pande	I-LOC
+segera!	O
+
+SOS!	O
+Bu	B-NAME
+Sari	I-NAME
+warga	O
+pendarahan	B-INJURY
+
+Segera	O
+bantu!	O
+Khairati	B-NAME
+rusuk	B-INJURY
+patah	I-INJURY
+daerah	O
+Gang	B-LOC
+Kenanga	I-LOC
+jinoe!	O
+
+Cepat	O
+bantu!	O
+Zulkifli	B-NAME
+Akbar	I-NAME
+tangan	B-INJURY
+patah	I-INJURY
+cepat!	O
+
+Tlg!	O
+Pak	B-NAME
+Rahman	I-NAME
+ureung	O
+
+Tulong!	O
+kakak	O
+meudarah	B-INJURY
+that	I-INJURY
+dalam	O
+Gampong	B-LOC
+Lhong	I-LOC
+Raya	I-LOC
+
+Tolong	O
+cepat!	O
+Hasan	B-NAME
+Basri	I-NAME
+pak	O
+terluka	B-INJURY
+dada	I-INJURY
+di area	O
+Kuta	B-LOC
+Raja	I-LOC
+
+Help!	O
+Zahra	B-NAME
+Husna	I-NAME
+tenggelam	B-INJURY
+depan	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+
+Bantu!	O
+anak	O
+pingsan	B-INJURY
+dekat	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Bantu!	O
+kakak	O
+meudarah	B-INJURY
+that	I-INJURY
+
+Kritis!	O
+Nadia	B-NAME
+Safira	I-NAME
+orang	O
+kejang	B-INJURY
+di area	O
+Simpang	B-LOC
+Lima	I-LOC
+sekarang!	O
+
+Gawat!	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+sekarang!	O
+
+Tlg!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+pendarahan	B-INJURY
+hebat	I-INJURY
+harap	O
+cepat!	O
+
+Help!	O
+abah	O
+terluka	B-INJURY
+berat	I-INJURY
+sekarang!	O
+
+Tulong!	O
+ayah	O
+karam	B-INJURY
+lam	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Help!	O
+Abu	B-NAME
+Syukri	I-NAME
+adek	O
+terluka	B-INJURY
+parah	I-INJURY
+darurat!	O
+
+Help!	O
+syok	B-INJURY
+tolong	O
+datang!	O
+
+Tolong	O
+cepat!	O
+Abu	B-NAME
+Syukri	I-NAME
+keluarga	O
+tidak	B-INJURY
+sadar	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Laksana	I-LOC
+
+Tulong!	O
+Abu	B-NAME
+Syukri	I-NAME
+ibunda	O
+luka	B-INJURY
+bakar	I-INJURY
+segera!	O
+
+Help!	O
+dekat	O
+Neusu	B-LOC
+Jaya	I-LOC
+Hasan	B-NAME
+Basri	I-NAME
+pendarahan	B-INJURY
+cepat!	O
+
+Darurat!	O
+orang	O
+sekitar	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+
+Bantu!	O
+Pak	B-NAME
+Bakar	I-NAME
+istri	O
+pingsan	B-INJURY
+lam	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+
+Tulong!	O
+Bu	B-NAME
+Sari	I-NAME
+anak	O
+tidak	B-INJURY
+sadar	I-INJURY
+
+Tlng!	O
+warga	O
+shock	B-INJURY
+dekat	O
+Pasar	B-LOC
+Aceh	I-LOC
+cepat!	O
+
+Segera	O
+bantu!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+teman	O
+kejang	B-INJURY
+lam	O
+Gampong	B-LOC
+Peuniti	I-LOC
+
+Bantu!	O
+Nek	B-NAME
+Zainab	I-NAME
+istri	O
+cedera	B-INJURY
+kepala	I-INJURY
+
+Segera	O
+bantu!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+saudara	O
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+dekat	O
+Komplek	B-LOC
+Polisi	I-LOC
+butuh	O
+bantuan!	O
+
+Tolong!	O
+Khairati	B-NAME
+bapak	O
+terkubur	B-INJURY
+harap	O
+cepat!	O
+
+Tulong!	O
+istri	O
+dekat	O
+Kuta	B-LOC
+Raja	I-LOC
+napas	B-INJURY
+lemah	I-INJURY
+harap	O
+cepat!	O
+
+Tlng!	O
+di sekitar	O
+Gampong	B-LOC
+Rukoh	I-LOC
+Nurhayati	B-NAME
+patah	B-INJURY
+tulang	I-INJURY
+harap	O
+cepat!	O
+
+Tlg!	O
+aneuk	O
+loen	O
+luka	B-INJURY
+berat	I-INJURY
+dalam	O
+Gampong	B-LOC
+Keuramat	I-LOC
+
+Bantu!	O
+warga	O
+
+Bantu!	O
+lam	O
+Baiturrahman	B-LOC
+Nadia	B-NAME
+Safira	I-NAME
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+tolong	O
+datang!	O
+
+Bantu!	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+mohon	O
+bantuan!	O
+
+Tolong!	O
+ureung	O
+dekat	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+darurat!	O
+
+Tulong!	O
+Putri	B-NAME
+Nadia	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+belakang	O
+Gampong	B-LOC
+Merduati	I-LOC
+
+Tlg!	O
+kakak	O
+pendarahan	B-INJURY
+dekat	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+cepat!	O
+
+Tlng!	O
+suami	O
+lam	O
+Gampong	B-LOC
+Rukoh	I-LOC
+jinoe!	O
+
+Cepat	O
+bantu!	O
+Salmiah	B-NAME
+samping	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+segera!	O
+
+Segera	O
+bantu!	O
+luka	B-INJURY
+parah	I-INJURY
+harap	O
+cepat!	O
+
+Tolong!	O
+Abi	B-NAME
+Fauzan	I-NAME
+istri	O
+tidak	B-INJURY
+sadar	I-INJURY
+dekat	O
+Meulaboh	B-LOC
+darurat!	O
+
+Emergency!	O
+Irwandi	B-NAME
+tetangga	O
+pingsan	B-INJURY
+harap	O
+cepat!	O
+
+Tlng!	O
+Faisal	B-NAME
+Hadi	I-NAME
+area	O
+Desa	B-LOC
+Kajhu	I-LOC
+
+Tlg!	O
+pak	O
+depan	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+terluka	B-INJURY
+berat	I-INJURY
+
+Segera	O
+bantu!	O
+Hasan	B-NAME
+Basri	I-NAME
+kepala	B-INJURY
+berdarah	I-INJURY
+belakang	O
+Kopelma	B-LOC
+cepat!	O
+
+Tolong	O
+cepat!	O
+Baharuddin	B-NAME
+pak	O
+cedera	B-INJURY
+serius	I-INJURY
+sekarang!	O
+
+Tolong	O
+cepat!	O
+Zulfahmi	B-NAME
+kakek	O
+terluka	B-INJURY
+dada	I-INJURY
+depan	O
+Ie	B-LOC
+Masen	I-LOC
+
+Cepat	O
+bantu!	O
+Zulfahmi	B-NAME
+syok	B-INJURY
+di sekitar	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Tolong!	O
+Hamdani	B-NAME
+Putra	I-NAME
+dekat	O
+Jalan	B-LOC
+Sudirman	I-LOC
+
+Bantu!	O
+Cut	B-NAME
+Nurul	I-NAME
+anak	O
+di	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Bantu!	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+sebelah	O
+Jalan	B-LOC
+Sudirman	I-LOC
+
+Help!	O
+orang	O
+tidak	B-INJURY
+bergerak	I-INJURY
+
+Darurat!	O
+Siti	B-NAME
+Rahma	I-NAME
+kakak	O
+
+Minta	O
+bantuan!	O
+nenek	O
+di area	O
+Gang	B-LOC
+Mawar	I-LOC
+
+Cepat	O
+bantu!	O
+Teuku	B-NAME
+Rizal	I-NAME
+perdarahan	B-INJURY
+internal	I-INJURY
+sekarang!	O
+
+Minta	O
+bantuan!	O
+Suryani	B-NAME
+pingsan	B-INJURY
+mohon	O
+bantuan!	O
+
+SOS!	O
+kakak	O
+segera!	O
+
+SOS!	O
+uma	O
+lam	O
+Gampong	B-LOC
+Keudah	I-LOC
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+mohon	O
+bantuan!	O
+
+Emergency!	O
+orang	O
+sebelah	O
+Krueng	B-LOC
+Aceh	I-LOC
+mohon	O
+bantuan!	O
+
+Tolong!	O
+anak	O
+sesak	B-INJURY
+napas	I-INJURY
+lam	O
+Gampong	B-LOC
+Pande	I-LOC
+lsg!	O
+
+Kritis!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+tidak	B-INJURY
+bergerak	I-INJURY
+
+Tulong!	O
+Pak	B-NAME
+Harun	I-NAME
+suami	O
+lsg!	O
+
+Emergency!	O
+Abi	B-NAME
+Fauzan	I-NAME
+lam	O
+Kuta	B-LOC
+Raja	I-LOC
+
+Darurat	O
+berat!	O
+abang	O
+depan	O
+Gampong	B-LOC
+Batoh	I-LOC
+cepat!	O
+
+Darurat!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+klg	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+di	O
+Meulaboh	B-LOC
+
+Kritis!	O
+kritis	B-INJURY
+kawasan	O
+Gampong	B-LOC
+Surien	I-LOC
+sekarang!	O
+
+SOS!	O
+Abu	B-NAME
+Syukri	I-NAME
+istri	O
+luka	B-INJURY
+bakar	I-INJURY
+lsg!	O
+
+Help!	O
+Mak	B-NAME
+Wati	I-NAME
+warga	O
+sesak	B-INJURY
+napas	I-INJURY
+lam	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Help!	O
+ibu	O
+patah	B-INJURY
+tulang	I-INJURY
+dekat	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Darurat!	O
+abah	O
+tertimpa	B-INJURY
+mohon	O
+bantuan!	O
+
+SOS!	O
+Abu	B-NAME
+Syukri	I-NAME
+korban	O
+dalam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+segera!	O
+
+Tolong!	O
+Maghfirah	B-NAME
+kejang	B-INJURY
+cepat!	O
+
+Tlg!	O
+Pak	B-NAME
+Harun	I-NAME
+ibu	O
+patah	B-INJURY
+tulang	I-INJURY
+dekat	O
+Meulaboh	B-LOC
+jinoe!	O
+
+Minta	O
+bantuan!	O
+Abu	B-NAME
+Syukri	I-NAME
+kakek	O
+terluka	B-INJURY
+parah	I-INJURY
+di daerah	O
+Jalan	B-LOC
+Sudirman	I-LOC
+
+Tolong!	O
+wilayah	O
+Desa	B-LOC
+Tungkop	I-LOC
+Zahra	B-NAME
+Husna	I-NAME
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+
+Minta	O
+bantuan!	O
+Zahra	B-NAME
+Husna	I-NAME
+ibunda	O
+luka	B-INJURY
+parah	I-INJURY
+belakang	O
+Gampong	B-LOC
+Tibang	I-LOC
+tolong	O
+datang!	O
+
+Minta	O
+bantuan!	O
+suami	O
+terkubur	B-INJURY
+belakang	O
+Gampong	B-LOC
+Jawa	I-LOC
+
+Emergency!	O
+Rizky	B-NAME
+Pratama	I-NAME
+korban	O
+terluka	B-INJURY
+dada	I-INJURY
+area	O
+Lueng	B-LOC
+Bata	I-LOC
+butuh	O
+bantuan!	O
+
+Segera	O
+bantu!	O
+anak	O
+kawasan	O
+Gampong	B-LOC
+Pande	I-LOC
+segera!	O
+
+Darurat	O
+berat!	O
+daerah	O
+Syiah	B-LOC
+Kuala	I-LOC
+Syahrul	B-NAME
+Ramadhan	I-NAME
+shock	B-INJURY
+tolong	O
+datang!	O
+
+Gawat!	O
+bu	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+butuh	O
+bantuan!	O
+
+Bantu!	O
+Bu	B-NAME
+Sari	I-NAME
+aneuk	O
+loen	O
+patah	B-INJURY
+tulang	I-INJURY
+
+Bantu!	O
+klg	O
+cedera	B-INJURY
+kepala	I-INJURY
+
+SOS!	O
+orang	O
+wilayah	O
+Gampong	B-LOC
+Lueng	I-LOC
+Bata	I-LOC
+
+Help!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+suami	O
+patah	B-INJURY
+tulang	I-INJURY
+di	O
+Gampong	B-LOC
+Pande	I-LOC
+
+Tolong!	O
+warga	O
+dalam	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+jinoe!	O
+
+Tolong!	O
+saudara	O
+luka	B-INJURY
+parah	I-INJURY
+area	O
+Perumahan	B-LOC
+Griya	I-LOC
+Indah	I-LOC
+sekarang!	O
+
+Darurat!	O
+suami	O
+luka	B-INJURY
+parah	I-INJURY
+lam	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Tlg!	O
+teman	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+sekarang!	O
+
+Tolong!	O
+tetangga	O
+luka	B-INJURY
+bakar	I-INJURY
+
+Bantu!	O
+Mak	B-NAME
+Wati	I-NAME
+suami	O
+dalam	O
+Gampong	B-LOC
+Tibang	I-LOC
+jinoe!	O
+
+Gawat!	O
+Irwandi	B-NAME
+tenggelam	B-INJURY
+di area	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+
+Tulong!	O
+uma	O
+area	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+luka	B-INJURY
+robek	I-INJURY
+butuh	O
+bantuan!	O
+
+Darurat!	O
+klg	O
+tulang	B-INJURY
+retak	I-INJURY
+
+Tlng!	O
+kawan	O
+terluka	B-INJURY
+dada	I-INJURY
+sebelah	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+cepat!	O
+
+Darurat!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+warga	O
+pingsan	B-INJURY
+darurat!	O
+
+Gawat!	O
+adik	O
+sesak	B-INJURY
+napas	I-INJURY
+segera!	O
+
+Bantu!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+suami	O
+pingsan	B-INJURY
+dalam	O
+Gampong	B-LOC
+Pande	I-LOC
+darurat!	O
+
+Emergency!	O
+meudarah	B-INJURY
+that	I-INJURY
+sebelah	O
+Komplek	B-LOC
+Polisi	I-LOC
+
+Help!	O
+Zulkifli	B-NAME
+Akbar	I-NAME
+di sekitar	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+
+Gawat!	O
+Mukhlis	B-NAME
+Ibrahim	I-NAME
+tertimpa	B-INJURY
+di	O
+Desa	B-LOC
+Neuheun	I-LOC
+mohon	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+uma	O
+sebelah	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+cedera	B-INJURY
+serius	I-INJURY
+tolong	O
+datang!	O
+
+Segera	O
+bantu!	O
+korban	O
+belakang	O
+Perumahan	B-LOC
+Griya	I-LOC
+Indah	I-LOC
+
+SOS!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+abah	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+di sekitar	O
+Gang	B-LOC
+Mawar	I-LOC
+cepat!	O
+
+Darurat!	O
+Rini	B-NAME
+Wulandari	I-NAME
+meudarah	B-INJURY
+that	I-INJURY
+
+Cepat	O
+bantu!	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+kawasan	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+butuh	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+kakek	O
+trauma	B-INJURY
+dada	I-INJURY
+kawasan	O
+Lorong	B-LOC
+Damai	I-LOC
+
+Darurat!	O
+depan	O
+Desa	B-LOC
+Kajhu	I-LOC
+Aulia	B-NAME
+Rahman	I-NAME
+pendarahan	B-INJURY
+hebat	I-INJURY
+harap	O
+cepat!	O
+
+SOS!	O
+Abu	B-NAME
+Syukri	I-NAME
+korban	O
+terluka	B-INJURY
+parah	I-INJURY
+dalam	O
+Gampong	B-LOC
+Keuramat	I-LOC
+segera!	O
+
+Help!	O
+pak	O
+wilayah	O
+Darussalam	B-LOC
+mohon	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+tangan	B-INJURY
+patah	I-INJURY
+sekitar	O
+Desa	B-LOC
+Kajhu	I-LOC
+mohon	O
+bantuan!	O
+
+Segera	O
+bantu!	O
+Siti	B-NAME
+Rahma	I-NAME
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+di kawasan	O
+Lorong	B-LOC
+Damai	I-LOC
+
+Segera	O
+bantu!	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+butuh	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+sekarang!	O
+
+Tlng!	O
+saudara	O
+di area	O
+Baiturrahman	B-LOC
+kaki	B-INJURY
+patah	I-INJURY
+butuh	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+suami	O
+sesak	B-INJURY
+napas	I-INJURY
+di	O
+Gampong	B-LOC
+Merduati	I-LOC
+jinoe!	O
+
+Gawat!	O
+lam	O
+Gampong	B-LOC
+Rukoh	I-LOC
+Irwandi	B-NAME
+kepala	B-INJURY
+berdarah	I-INJURY
+
+Darurat!	O
+kritis	B-INJURY
+
+Darurat!	O
+ayah	O
+tidak	B-INJURY
+sadar	I-INJURY
+di	O
+Meulaboh	B-LOC
+
+Gawat!	O
+kawasan	O
+Ulee	B-LOC
+Lheue	I-LOC
+Fathimah	B-NAME
+Zahra	I-NAME
+luka	B-INJURY
+berat	I-INJURY
+mohon	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+bibi	O
+lam	O
+Gampong	B-LOC
+Keudah	I-LOC
+jinoe!	O
+
+Gawat!	O
+daerah	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+Abdullah	B-NAME
+Hakim	I-NAME
+syok	B-INJURY
+segera!	O
+
+Tlng!	O
+belakang	O
+Gampong	B-LOC
+Lamteumen	I-LOC
+Abdullah	B-NAME
+Hakim	I-NAME
+syok	B-INJURY
+cepat!	O
+
+Tlng!	O
+adek	O
+luka	B-INJURY
+terbuka	I-INJURY
+
+Darurat!	O
+Pak	B-NAME
+Bakar	I-NAME
+kakak	O
+di	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Tulong!	O
+aneuk	O
+loen	O
+tangan	B-INJURY
+remuk	I-INJURY
+dekat	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Help!	O
+Cut	B-NAME
+Nurul	I-NAME
+anak	O
+dekat	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+jinoe!	O
+
+Darurat	O
+berat!	O
+Yusuf	B-NAME
+Maulana	I-NAME
+ureung	O
+meudarah	B-INJURY
+that	I-INJURY
+di depan	O
+Kopelma	B-LOC
+tolong	O
+datang!	O
+
+Minta	O
+bantuan!	O
+anak	O
+daerah	O
+Ulee	B-LOC
+Lheue	I-LOC
+tangan	B-INJURY
+patah	I-INJURY
+harap	O
+cepat!	O
+
+SOS!	O
+uma	O
+di	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+jinoe!	O
+
+SOS!	O
+aneuk	O
+loen	O
+cepat!	O
+
+Tulong!	O
+klg	O
+sesak	B-INJURY
+napas	I-INJURY
+lam	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Tulong!	O
+Cut	B-NAME
+Nurul	I-NAME
+aneuk	O
+loen	O
+tangan	B-INJURY
+remuk	I-INJURY
+dalam	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Tlng!	O
+ibu	O
+di kawasan	O
+Desa	B-LOC
+Kajhu	I-LOC
+tangan	B-INJURY
+patah	I-INJURY
+cepat!	O
+
+Bantu!	O
+saudara	O
+di area	O
+Darussalam	B-LOC
+segera!	O
+
+Kritis!	O
+istri	O
+kaki	B-INJURY
+patah	I-INJURY
+kawasan	O
+Baiturrahman	B-LOC
+butuh	O
+bantuan!	O
+
+Help!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+samping	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+adek	O
+patah	B-INJURY
+tulang	I-INJURY
+segera!	O
+
+Minta	O
+bantuan!	O
+ayah	O
+patah	B-INJURY
+tulang	I-INJURY
+
+Tlg!	O
+ureung	O
+terluka	B-INJURY
+parah	I-INJURY
+di	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+
+Tlg!	O
+kakak	O
+tangan	B-INJURY
+patah	I-INJURY
+segera!	O
+
+Tlng!	O
+Cut	B-NAME
+Sarah	I-NAME
+sebelah	O
+Darussalam	B-LOC
+
+Gawat!	O
+Siti	B-NAME
+Rahma	I-NAME
+samping	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+
+Tlng!	O
+saudara	O
+di depan	O
+Jalan	B-LOC
+Sudirman	I-LOC
+pendarahan	B-INJURY
+tolong	O
+datang!	O
+
+Gawat!	O
+kawasan	O
+Gampong	B-LOC
+Rukoh	I-LOC
+Zulfahmi	B-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+jinoe!	O
+
+Gawat!	O
+Intan	B-NAME
+Permata	I-NAME
+kakek	O
+tulang	B-INJURY
+patah	I-INJURY
+mohon	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+ayah	O
+di sekitar	O
+Gampong	B-LOC
+Laksana	I-LOC
+
+Segera	O
+bantu!	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+
+Kritis!	O
+Zahra	B-NAME
+Husna	I-NAME
+luka	B-INJURY
+dalam	I-INJURY
+samping	O
+Krueng	B-LOC
+Aceh	I-LOC
+tolong	O
+datang!	O
+
+Darurat	O
+berat!	O
+uma	O
+sesak	B-INJURY
+napas	I-INJURY
+harap	O
+cepat!	O
+
+Tolong	O
+cepat!	O
+Nurul	B-NAME
+Izzah	I-NAME
+luka	B-INJURY
+dalam	I-INJURY
+harap	O
+cepat!	O
+
+Bantu!	O
+Putri	B-NAME
+Nadia	I-NAME
+sebelah	O
+Kopelma	B-LOC
+tolong	O
+datang!	O
+
+Emergency!	O
+Rini	B-NAME
+Wulandari	I-NAME
+ayahanda	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+area	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+segera!	O
+
+Tolong!	O
+Safrizal	B-NAME
+tertimpa	B-INJURY
+sebelah	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+
+Bantu!	O
+kakak	O
+lam	O
+Gampong	B-LOC
+Lhong	I-LOC
+Raya	I-LOC
+
+Bantu!	O
+di daerah	O
+Gampong	B-LOC
+Laksana	I-LOC
+Rini	B-NAME
+Wulandari	I-NAME
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+sekarang!	O
+
+Bantu!	O
+Nadia	B-NAME
+Safira	I-NAME
+pingsan	B-INJURY
+harap	O
+cepat!	O
+
+Tolong	O
+cepat!	O
+kawan	O
+kawasan	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+luka	B-INJURY
+robek	I-INJURY
+segera!	O
+
+Tolong!	O
+Pak	B-NAME
+Bakar	I-NAME
+ayah	O
+tangan	B-INJURY
+remuk	I-INJURY
+lam	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Cepat	O
+bantu!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+bu	O
+sesak	B-INJURY
+napas	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+jinoe!	O
+
+Tulong!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+anak	O
+dekat	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+SOS!	O
+Cut	B-NAME
+Nurul	I-NAME
+suami	O
+segera!	O
+
+Emergency!	O
+Nurul	B-NAME
+Izzah	I-NAME
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+kawasan	O
+Pasar	B-LOC
+Peunayong	I-LOC
+jinoe!	O
+
+Kritis!	O
+adek	O
+dekat	O
+Gampong	B-LOC
+Surien	I-LOC
+tenggelam	B-INJURY
+harap	O
+cepat!	O
+
+Help!	O
+warga	O
+di	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+lsg!	O
+
+Tlng!	O
+warga	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+samping	O
+Perumahan	B-LOC
+Griya	I-LOC
+Indah	I-LOC
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+kakak	O
+kritis	B-INJURY
+
+SOS!	O
+Nek	B-NAME
+Zainab	I-NAME
+klg	O
+tangan	B-INJURY
+remuk	I-INJURY
+di	O
+Gampong	B-LOC
+Lhong	I-LOC
+Raya	I-LOC
+
+Kritis!	O
+Rini	B-NAME
+Wulandari	I-NAME
+paman	O
+terluka	B-INJURY
+parah	I-INJURY
+jinoe!	O
+
+Tlng!	O
+Rizky	B-NAME
+Pratama	I-NAME
+keluarga	O
+tergencet	B-INJURY
+di sekitar	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+tolong	O
+datang!	O
+
+Tlng!	O
+uma	O
+di sekitar	O
+Gampong	B-LOC
+Tibang	I-LOC
+segera!	O
+
+Tlng!	O
+dekat	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+Fadlan	B-NAME
+Mubarak	I-NAME
+perdarahan	B-INJURY
+internal	I-INJURY
+sekarang!	O
+
+Minta	O
+bantuan!	O
+memar	B-INJURY
+parah	I-INJURY
+di area	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+butuh	O
+bantuan!	O
+
+Tlng!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+di depan	O
+Pasar	B-LOC
+Aceh	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat!	O
+aneuk	O
+loen	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+lam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+darurat!	O
+
+Darurat	O
+berat!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+pak	O
+sesak	B-INJURY
+napas	I-INJURY
+di area	O
+Darussalam	B-LOC
+tolong	O
+datang!	O
+
+SOS!	O
+Bu	B-NAME
+Sari	I-NAME
+adek	O
+luka	B-INJURY
+berat	I-INJURY
+di	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+SOS!	O
+Baharuddin	B-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+tolong	O
+datang!	O
+
+Tulong!	O
+di	O
+Gampong	B-LOC
+Jeulingke	I-LOC
+Halimah	B-NAME
+shock	B-INJURY
+sekarang!	O
+
+Darurat	O
+berat!	O
+Abdullah	B-NAME
+Hakim	I-NAME
+rusuk	B-INJURY
+patah	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Rukoh	I-LOC
+
+Darurat	O
+berat!	O
+ibu	O
+cedera	B-INJURY
+serius	I-INJURY
+
+Tlg!	O
+korban	O
+di area	O
+Gampong	B-LOC
+Batoh	I-LOC
+cepat!	O
+
+Tulong!	O
+Siti	B-NAME
+Rahma	I-NAME
+memar	B-INJURY
+parah	I-INJURY
+sekarang!	O
+
+Help!	O
+ureung	O
+tidak	B-INJURY
+sadar	I-INJURY
+dalam	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+SOS!	O
+Rizal	B-NAME
+Akbar	I-NAME
+abah	O
+terluka	B-INJURY
+parah	I-INJURY
+
+Tlng!	O
+Mawaddah	B-NAME
+Putri	I-NAME
+ayahanda	O
+luka	B-INJURY
+terbuka	I-INJURY
+kawasan	O
+Gampong	B-LOC
+Lamteumen	I-LOC
+
+Darurat!	O
+Yusuf	B-NAME
+Maulana	I-NAME
+anak	O
+luka	B-INJURY
+bakar	I-INJURY
+sekitar	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+harap	O
+cepat!	O
+
+Gawat!	O
+Putri	B-NAME
+Nadia	I-NAME
+sesak	B-INJURY
+napas	I-INJURY
+area	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+
+Help!	O
+Bu	B-NAME
+Sari	I-NAME
+ureung	O
+luka	B-INJURY
+bakar	I-INJURY
+jinoe!	O
+
+Help!	O
+kakek	O
+samping	O
+Gampong	B-LOC
+Lueng	I-LOC
+Bata	I-LOC
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+harap	O
+cepat!	O
+
+Darurat	O
+berat!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+belakang	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+
+Bantu!	O
+kakek	O
+napas	B-INJURY
+lemah	I-INJURY
+daerah	O
+Lorong	B-LOC
+Damai	I-LOC
+
+Bantu!	O
+Fatimah	B-NAME
+Azzahra	I-NAME
+di kawasan	O
+Gampong	B-LOC
+Laksana	I-LOC
+jinoe!	O
+
+Bantu!	O
+Pak	B-NAME
+Harun	I-NAME
+adek	O
+terluka	B-INJURY
+dekat	O
+Gampong	B-LOC
+Pande	I-LOC
+darurat!	O
+
+Tolong	O
+cepat!	O
+warga	O
+meudarah	B-INJURY
+that	I-INJURY
+cepat!	O
+
+Cepat	O
+bantu!	O
+depan	O
+Lampaseh	B-LOC
+Kota	I-LOC
+Fathimah	B-NAME
+Zahra	I-NAME
+perdarahan	B-INJURY
+internal	I-INJURY
+
+SOS!	O
+teman	O
+sesak	B-INJURY
+napas	I-INJURY
+jinoe!	O
+
+Help!	O
+Teuku	B-NAME
+Rizal	I-NAME
+kawasan	O
+Kuta	B-LOC
+Raja	I-LOC
+tolong	O
+datang!	O
+
+Tlg!	O
+Mawaddah	B-NAME
+Putri	I-NAME
+sesak	B-INJURY
+napas	I-INJURY
+
+Darurat!	O
+korban	O
+sesak	B-INJURY
+napas	I-INJURY
+di	O
+Krueng	B-LOC
+Aceh	I-LOC
+jinoe!	O
+
+Bantu!	O
+Nek	B-NAME
+Zainab	I-NAME
+adek	O
+tulang	B-INJURY
+retak	I-INJURY
+dalam	O
+Gampong	B-LOC
+Keuramat	I-LOC
+jinoe!	O
+
+Help!	O
+sebelah	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+Halimah	B-NAME
+luka	B-INJURY
+bakar	I-INJURY
+
+Tolong!	O
+adek	O
+koma	B-INJURY
+cepat!	O
+
+Help!	O
+Pak	B-NAME
+Harun	I-NAME
+ayah	O
+meudarah	B-INJURY
+that	I-INJURY
+dekat	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+
+Segera	O
+bantu!	O
+samping	O
+Pasar	B-LOC
+Aceh	I-LOC
+Irwandi	B-NAME
+trauma	B-INJURY
+dada	I-INJURY
+segera!	O
+
+Minta	O
+bantuan!	O
+adek	O
+sekitar	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+jinoe!	O
+
+Tulong!	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+cepat!	O
+
+Tolong!	O
+Cut	B-NAME
+Sarah	I-NAME
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+belakang	O
+Gampong	B-LOC
+Pande	I-LOC
+harap	O
+cepat!	O
+
+Help!	O
+ayahanda	O
+di depan	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+tertimpa	B-INJURY
+tolong	O
+datang!	O
+
+Tulong!	O
+Abdullah	B-NAME
+Hakim	I-NAME
+abah	O
+kritis	B-INJURY
+sekarang!	O
+
+Help!	O
+anak	O
+di belakang	O
+Neusu	B-LOC
+Jaya	I-LOC
+trauma	B-INJURY
+dada	I-INJURY
+sekarang!	O
+
+Tlg!	O
+memar	B-INJURY
+parah	I-INJURY
+cepat!	O
+
+Tlg!	O
+Teuku	B-NAME
+Azhar	I-NAME
+aneuk	O
+loen	O
+terluka	B-INJURY
+parah	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+
+Darurat	O
+berat!	O
+tenggelam	B-INJURY
+butuh	O
+bantuan!	O
+
+Darurat!	O
+Fitri	B-NAME
+Yanti	I-NAME
+sesak	B-INJURY
+napas	I-INJURY
+jinoe!	O
+
+Tlg!	O
+paman	O
+daerah	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+segera!	O
+
+Tolong!	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+di area	O
+Jalan	B-LOC
+Sudirman	I-LOC
+mohon	O
+bantuan!	O
+
+Tlng!	O
+bibi	O
+area	O
+Jalan	B-LOC
+Sudirman	I-LOC
+sekarang!	O
+
+SOS!	O
+Rizal	B-NAME
+Akbar	I-NAME
+kawan	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+di area	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+jinoe!	O
+
+Tolong!	O
+istri	O
+kaki	B-INJURY
+patah	I-INJURY
+dalam	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Segera	O
+bantu!	O
+Ramli	B-NAME
+patah	B-INJURY
+tulang	I-INJURY
+di area	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+
+Tlng!	O
+keluarga	O
+sebelah	O
+Meuraxa	B-LOC
+memar	B-INJURY
+parah	I-INJURY
+butuh	O
+bantuan!	O
+
+Segera	O
+bantu!	O
+kawan	O
+di depan	O
+Pasar	B-LOC
+Peunayong	I-LOC
+butuh	O
+bantuan!	O
+
+Help!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+tidak	B-INJURY
+sadar	I-INJURY
+harap	O
+cepat!	O
+
+Tlg!	O
+Abu	B-NAME
+Syukri	I-NAME
+istri	O
+luka	B-INJURY
+berat	I-INJURY
+lam	O
+Gampong	B-LOC
+Jawa	I-LOC
+jinoe!	O
+
+Minta	O
+bantuan!	O
+rusuk	B-INJURY
+patah	I-INJURY
+
+Help!	O
+Hamdani	B-NAME
+Putra	I-NAME
+luka	B-INJURY
+sayat	I-INJURY
+di sekitar	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+harap	O
+cepat!	O
+
+Tlg!	O
+aneuk	O
+loen	O
+kaki	B-INJURY
+patah	I-INJURY
+dekat	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Tolong!	O
+ureung	O
+dalam	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Tolong	O
+cepat!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+lam	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+
+Darurat	O
+berat!	O
+Abi	B-NAME
+Fauzan	I-NAME
+di sekitar	O
+Bandar	B-LOC
+Baru	I-LOC
+
+Segera	O
+bantu!	O
+abang	O
+tidak	B-INJURY
+sadar	I-INJURY
+samping	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+mohon	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+depan	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+keluarga	O
+luka	B-INJURY
+berat	I-INJURY
+di kawasan	O
+Kopelma	B-LOC
+butuh	O
+bantuan!	O
+
+Help!	O
+ayah	O
+meudarah	B-INJURY
+that	I-INJURY
+jinoe!	O
+
+Emergency!	O
+area	O
+Gampong	B-LOC
+Lampulo	I-LOC
+Hasan	B-NAME
+Basri	I-NAME
+luka	B-INJURY
+bakar	I-INJURY
+mohon	O
+bantuan!	O
+
+Kritis!	O
+dekat	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+Maghfirah	B-NAME
+rusuk	B-INJURY
+patah	I-INJURY
+
+SOS!	O
+abah	O
+lam	O
+Jalan	B-LOC
+Merduati	I-LOC
+sekarang!	O
+
+Help!	O
+warga	O
+tulang	B-INJURY
+retak	I-INJURY
+di	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Minta	O
+bantuan!	O
+pak	O
+tangan	B-INJURY
+patah	I-INJURY
+depan	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+tolong	O
+datang!	O
+
+Help!	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+butuh	O
+bantuan!	O
+
+Tulong!	O
+Aulia	B-NAME
+Rahman	I-NAME
+di depan	O
+Simpang	B-LOC
+Lima	I-LOC
+cepat!	O
+
+Tlng!	O
+bibi	O
+di area	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+harap	O
+cepat!	O
+
+Bantu!	O
+kakek	O
+cedera	B-INJURY
+serius	I-INJURY
+jinoe!	O
+
+Tolong!	O
+anak	O
+luka	B-INJURY
+dalam	I-INJURY
+
+Bantu!	O
+Faisal	B-NAME
+Hadi	I-NAME
+di kawasan	O
+Gampong	B-LOC
+Beurawe	I-LOC
+tolong	O
+datang!	O
+
+Darurat!	O
+Siti	B-NAME
+Rahma	I-NAME
+terluka	B-INJURY
+berat	I-INJURY
+wilayah	O
+Gampong	B-LOC
+Merduati	I-LOC
+
+Cepat	O
+bantu!	O
+uma	O
+tulang	B-INJURY
+patah	I-INJURY
+butuh	O
+bantuan!	O
+
+Bantu!	O
+belakang	O
+Gampong	B-LOC
+Peuniti	I-LOC
+Cut	B-NAME
+Sarah	I-NAME
+tertimpa	B-INJURY
+mohon	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+Faisal	B-NAME
+Hadi	I-NAME
+lam	O
+Lorong	B-LOC
+Damai	I-LOC
+
+Bantu!	O
+anak	O
+napas	B-INJURY
+lemah	I-INJURY
+sekitar	O
+Komplek	B-LOC
+Polisi	I-LOC
+
+Cepat	O
+bantu!	O
+pak	O
+kawasan	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+terluka	B-INJURY
+dada	I-INJURY
+jinoe!	O
+
+SOS!	O
+kaki	B-INJURY
+patah	I-INJURY
+
+Segera	O
+bantu!	O
+Baharuddin	B-NAME
+di area	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+butuh	O
+bantuan!	O
+
+Help!	O
+korban	O
+di area	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+jinoe!	O
+
+Tlg!	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+mohon	O
+bantuan!	O
+
+Tlg!	O
+Khairul	B-NAME
+Anwar	I-NAME
+pendarahan	B-INJURY
+
+Help!	O
+Pak	B-NAME
+Rahman	I-NAME
+ayah	O
+cedera	B-INJURY
+kepala	I-INJURY
+lam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+
+SOS!	O
+warga	O
+di area	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+cepat!	O
+
+Kritis!	O
+warga	O
+trauma	B-INJURY
+dada	I-INJURY
+depan	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+sekarang!	O
+
+SOS!	O
+Khairul	B-NAME
+Anwar	I-NAME
+daerah	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+
+Emergency!	O
+nenek	O
+sesak	B-INJURY
+napas	I-INJURY
+samping	O
+Gampong	B-LOC
+Surien	I-LOC
+cepat!	O
+
+SOS!	O
+Cut	B-NAME
+Nurul	I-NAME
+istri	O
+lam	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+
+Darurat!	O
+Siti	B-NAME
+Rahma	I-NAME
+warga	O
+hana	B-INJURY
+sanggob	I-INJURY
+meunapas	I-INJURY
+dekat	O
+Desa	B-LOC
+Lamteumen	I-LOC
+segera!	O
+
+Kritis!	O
+Intan	B-NAME
+Permata	I-NAME
+uma	O
+patah	B-INJURY
+tulang	I-INJURY
+
+Darurat!	O
+ayah	O
+di sekitar	O
+Gampong	B-LOC
+Seutui	I-LOC
+tolong	O
+datang!	O
+
+Minta	O
+bantuan!	O
+Nur	B-NAME
+Hidayah	I-NAME
+tangan	B-INJURY
+patah	I-INJURY
+tolong	O
+datang!	O
+
+Tulong!	O
+Abu	B-NAME
+Syukri	I-NAME
+korban	O
+kaki	B-INJURY
+patah	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamteumen	I-LOC
+
+Segera	O
+bantu!	O
+Halimah	B-NAME
+teman	O
+remuk	B-INJURY
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+shock	B-INJURY
+
+Darurat	O
+berat!	O
+Siti	B-NAME
+Rahma	I-NAME
+daerah	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+jinoe!	O
+
+Bantu!	O
+ureung	O
+penuh	B-INJURY
+darah	I-INJURY
+mohon	O
+bantuan!	O
+
+Tlg!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+bapak	O
+penuh	B-INJURY
+darah	I-INJURY
+samping	O
+Komplek	B-LOC
+Polisi	I-LOC
+
+Minta	O
+bantuan!	O
+area	O
+Krueng	B-LOC
+Aceh	I-LOC
+Teuku	B-NAME
+Rizal	I-NAME
+shock	B-INJURY
+jinoe!	O
+
+Help!	O
+ureung	O
+napas	B-INJURY
+lemah	I-INJURY
+cepat!	O
+
+Tlng!	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+dekat	O
+Gampong	B-LOC
+Laksana	I-LOC
+sekarang!	O
+
+Tlg!	O
+bu	O
+daerah	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+butuh	O
+bantuan!	O
+
+Tulong!	O
+Zahra	B-NAME
+Husna	I-NAME
+kejang	B-INJURY
+butuh	O
+bantuan!	O
+
+Help!	O
+Zulfahmi	B-NAME
+di depan	O
+Baiturrahman	B-LOC
+
+Tolong!	O
+Ramli	B-NAME
+kakek	O
+sesak	B-INJURY
+napas	I-INJURY
+
+Tolong!	O
+anak	O
+terluka	B-INJURY
+dalam	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+
+Segera	O
+bantu!	O
+abang	O
+trauma	B-INJURY
+kepala	I-INJURY
+
+Help!	O
+luka	B-INJURY
+dalam	I-INJURY
+sekitar	O
+Gampong	B-LOC
+Lamteumen	I-LOC
+segera!	O
+
+Help!	O
+Mak	B-NAME
+Wati	I-NAME
+kakak	O
+tidak	B-INJURY
+sadar	I-INJURY
+dalam	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+Minta	O
+bantuan!	O
+Zahra	B-NAME
+Husna	I-NAME
+tulang	B-INJURY
+patah	I-INJURY
+segera!	O
+
+Tlg!	O
+korban	O
+luka	B-INJURY
+bakar	I-INJURY
+dekat	O
+Desa	B-LOC
+Lamdingin	I-LOC
+cepat!	O
+
+SOS!	O
+Khairul	B-NAME
+Anwar	I-NAME
+adik	O
+tenggelam	B-INJURY
+jinoe!	O
+
+Tulong!	O
+Cut	B-NAME
+Nurul	I-NAME
+korban	O
+cedera	B-INJURY
+kepala	I-INJURY
+dalam	O
+Gampong	B-LOC
+Pande	I-LOC
+
+Emergency!	O
+warga	O
+tenggelam	B-INJURY
+di daerah	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+tolong	O
+datang!	O
+
+Darurat!	O
+uma	O
+sekitar	O
+Meuraxa	B-LOC
+luka	B-INJURY
+parah	I-INJURY
+tolong	O
+datang!	O
+
+Tolong!	O
+Abu	B-NAME
+Syukri	I-NAME
+anak	O
+tidak	B-INJURY
+bergerak	I-INJURY
+
+Bantu!	O
+adek	O
+
+Tlg!	O
+kondisi	B-INJURY
+kritis	I-INJURY
+butuh	O
+bantuan!	O
+
+Emergency!	O
+Nadia	B-NAME
+Safira	I-NAME
+shock	B-INJURY
+di area	O
+Gampong	B-LOC
+Merduati	I-LOC
+cepat!	O
+
+Bantu!	O
+saudara	O
+lam	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+tulang	B-INJURY
+patah	I-INJURY
+
+Cepat	O
+bantu!	O
+Ahmad	B-NAME
+Fadli	I-NAME
+suami	O
+napas	B-INJURY
+lemah	I-INJURY
+
+Cepat	O
+bantu!	O
+Teuku	B-NAME
+Rizal	I-NAME
+tangan	B-INJURY
+patah	I-INJURY
+harap	O
+cepat!	O
+
+Cepat	O
+bantu!	O
+penuh	B-INJURY
+darah	I-INJURY
+jinoe!	O
+
+Cepat	O
+bantu!	O
+Suryani	B-NAME
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+tolong	O
+datang!	O
+
+Tulong!	O
+ureung	O
+pendarahan	B-INJURY
+
+SOS!	O
+abang	O
+daerah	O
+Gang	B-LOC
+Mawar	I-LOC
+butuh	O
+bantuan!	O
+
+Gawat!	O
+ayah	O
+depan	O
+Blang	B-LOC
+Bintang	I-LOC
+
+Emergency!	O
+orang	O
+tergencet	B-INJURY
+
+Tlng!	O
+Salmiah	B-NAME
+bu	O
+luka	B-INJURY
+berat	I-INJURY
+di kawasan	O
+Darussalam	B-LOC
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+Safrizal	B-NAME
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+di sekitar	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+sekarang!	O
+
+Minta	O
+bantuan!	O
+suami	O
+tidak	B-INJURY
+bergerak	I-INJURY
+segera!	O
+
+SOS!	O
+Bu	B-NAME
+Sari	I-NAME
+suami	O
+di	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+
+Darurat!	O
+kakak	O
+cedera	B-INJURY
+kepala	I-INJURY
+lam	O
+Desa	B-LOC
+Lamteumen	I-LOC
+lsg!	O
+
+Segera	O
+bantu!	O
+adek	O
+di depan	O
+Jalan	B-LOC
+Merduati	I-LOC
+
+Cepat	O
+bantu!	O
+Asmaul	B-NAME
+Husna	I-NAME
+anak	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+
+Tulong!	O
+luka	B-INJURY
+berat	I-INJURY
+cepat!	O
+
+Cepat	O
+bantu!	O
+cedera	B-INJURY
+serius	I-INJURY
+depan	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+segera!	O
+
+Gawat!	O
+Khairati	B-NAME
+kakek	O
+rusuk	B-INJURY
+patah	I-INJURY
+lam	O
+Gampong	B-LOC
+Lamteumen	I-LOC
+
+Gawat!	O
+Fitri	B-NAME
+Yanti	I-NAME
+teman	O
+terluka	B-INJURY
+dada	I-INJURY
+di depan	O
+Gampong	B-LOC
+Seutui	I-LOC
+cepat!	O
+
+Kritis!	O
+di area	O
+Kuta	B-LOC
+Raja	I-LOC
+Baharuddin	B-NAME
+pingsan	B-INJURY
+butuh	O
+bantuan!	O
+
+Darurat!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+luka	B-INJURY
+sayat	I-INJURY
+sekitar	O
+Neusu	B-LOC
+Jaya	I-LOC
+mohon	O
+bantuan!	O
+
+Tolong!	O
+ibu	O
+kritis	B-INJURY
+di belakang	O
+Gampong	B-LOC
+Lampulo	I-LOC
+
+Kritis!	O
+ibu	O
+rusuk	B-INJURY
+patah	I-INJURY
+
+Darurat!	O
+bibi	O
+di kawasan	O
+Syiah	B-LOC
+Kuala	I-LOC
+tolong	O
+datang!	O
+
+Cepat	O
+bantu!	O
+Mawaddah	B-NAME
+Putri	I-NAME
+ibunda	O
+napas	B-INJURY
+lemah	I-INJURY
+butuh	O
+bantuan!	O
+
+Tlng!	O
+warga	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+
+Tlg!	O
+di belakang	O
+Desa	B-LOC
+Kajhu	I-LOC
+Cut	B-NAME
+Sarah	I-NAME
+meudarah	B-INJURY
+that	I-INJURY
+sekarang!	O
+
+Emergency!	O
+istri	O
+lam	O
+Ulee	B-LOC
+Lheue	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+Hamdani	B-NAME
+Putra	I-NAME
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+dekat	O
+Gampong	B-LOC
+Kopelma	I-LOC
+Darussalam	I-LOC
+jinoe!	O
+
+Kritis!	O
+kawan	O
+di kawasan	O
+Desa	B-LOC
+Neuheun	I-LOC
+shock	B-INJURY
+
+Minta	O
+bantuan!	O
+Nur	B-NAME
+Hidayah	I-NAME
+bu	O
+luka	B-INJURY
+sayat	I-INJURY
+di depan	O
+Gampong	B-LOC
+Peuniti	I-LOC
+
+Tulong!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+ayah	O
+karam	B-INJURY
+lsg!	O
+
+Tolong	O
+cepat!	O
+Intan	B-NAME
+Permata	I-NAME
+di kawasan	O
+Gampong	B-LOC
+Batoh	I-LOC
+
+Tlg!	O
+Bu	B-NAME
+Sari	I-NAME
+klg	O
+terluka	B-INJURY
+lam	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+
+Tulong!	O
+sebelah	O
+Gampong	B-LOC
+Kopelma	I-LOC
+Darussalam	I-LOC
+Faisal	B-NAME
+Hadi	I-NAME
+kritis	B-INJURY
+sekarang!	O
+
+Emergency!	O
+Taufik	B-NAME
+Hidayat	I-NAME
+suami	O
+memar	B-INJURY
+parah	I-INJURY
+dekat	O
+Pasar	B-LOC
+Aceh	I-LOC
+mohon	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+bibi	O
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+harap	O
+cepat!	O
+
+Tlg!	O
+tetangga	O
+luka	B-INJURY
+sayat	I-INJURY
+
+Darurat!	O
+teman	O
+tangan	B-INJURY
+patah	I-INJURY
+area	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+
+Cepat	O
+bantu!	O
+Budi	B-NAME
+Santoso	I-NAME
+ibu	O
+luka	B-INJURY
+terbuka	I-INJURY
+tolong	O
+datang!	O
+
+Bantu!	O
+istri	O
+terluka	B-INJURY
+dalam	O
+Gampong	B-LOC
+Tibang	I-LOC
+jinoe!	O
+
+Help!	O
+bu	O
+di sekitar	O
+Gang	B-LOC
+Kenanga	I-LOC
+
+Segera	O
+bantu!	O
+Suryani	B-NAME
+memar	B-INJURY
+parah	I-INJURY
+di kawasan	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+orang	O
+di sekitar	O
+Pasar	B-LOC
+Peunayong	I-LOC
+luka	B-INJURY
+robek	I-INJURY
+segera!	O
+
+Emergency!	O
+penuh	B-INJURY
+darah	I-INJURY
+area	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+mohon	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+orang	O
+napas	B-INJURY
+lemah	I-INJURY
+lam	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+butuh	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+kepala	B-INJURY
+berdarah	I-INJURY
+di area	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+cepat!	O
+
+Tlng!	O
+Zulkifli	B-NAME
+Akbar	I-NAME
+terkubur	B-INJURY
+cepat!	O
+
+Darurat	O
+berat!	O
+keluarga	O
+terluka	B-INJURY
+parah	I-INJURY
+sekarang!	O
+
+Tolong	O
+cepat!	O
+teman	O
+di daerah	O
+Desa	B-LOC
+Lambaro	I-LOC
+luka	B-INJURY
+terbuka	I-INJURY
+harap	O
+cepat!	O
+
+Help!	O
+rusuk	B-INJURY
+patah	I-INJURY
+area	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+segera!	O
+
+Segera	O
+bantu!	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+sekarang!	O
+
+Gawat!	O
+Halimah	B-NAME
+bibi	O
+syok	B-INJURY
+daerah	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+harap	O
+cepat!	O
+
+Minta	O
+bantuan!	O
+Irwandi	B-NAME
+anak	O
+kepala	B-INJURY
+berdarah	I-INJURY
+jinoe!	O
+
+Minta	O
+bantuan!	O
+abah	O
+di daerah	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+cepat!	O
+
+Tlg!	O
+kakak	O
+meudarah	B-INJURY
+that	I-INJURY
+dekat	O
+Krueng	B-LOC
+Aceh	I-LOC
+darurat!	O
+
+Segera	O
+bantu!	O
+Baharuddin	B-NAME
+samping	O
+Gampong	B-LOC
+Merduati	I-LOC
+jinoe!	O
+
+Cepat	O
+bantu!	O
+istri	O
+luka	B-INJURY
+dalam	I-INJURY
+sekarang!	O
+
+Tolong	O
+cepat!	O
+ayahanda	O
+sebelah	O
+Gampong	B-LOC
+Pande	I-LOC
+tolong	O
+datang!	O
+
+Cepat	O
+bantu!	O
+meudarah	B-INJURY
+that	I-INJURY
+sebelah	O
+Gampong	B-LOC
+Laksana	I-LOC
+tolong	O
+datang!	O
+
+Help!	O
+trauma	B-INJURY
+kepala	I-INJURY
+segera!	O
+
+SOS!	O
+kawasan	O
+Krueng	B-LOC
+Aceh	I-LOC
+Faisal	B-NAME
+Hadi	I-NAME
+luka	B-INJURY
+bakar	I-INJURY
+harap	O
+cepat!	O
+
+Tlng!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+lam	O
+Jalan	B-LOC
+Merduati	I-LOC
+cepat!	O
+
+Emergency!	O
+ureung	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+di area	O
+Ulee	B-LOC
+Lheue	I-LOC
+mohon	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+warga	O
+wilayah	O
+Desa	B-LOC
+Tungkop	I-LOC
+cepat!	O
+
+Tolong!	O
+Aulia	B-NAME
+Rahman	I-NAME
+kaki	B-INJURY
+patah	I-INJURY
+di	O
+Neusu	B-LOC
+Jaya	I-LOC
+sekarang!	O
+
+Tlng!	O
+tertimpa	B-INJURY
+
+Bantu!	O
+suami	O
+cedera	B-INJURY
+kepala	I-INJURY
+dalam	O
+Gampong	B-LOC
+Keuramat	I-LOC
+darurat!	O
+
+Tlg!	O
+Rizal	B-NAME
+Akbar	I-NAME
+uma	O
+kaki	B-INJURY
+patah	I-INJURY
+
+Tlng!	O
+lam	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+Taufik	B-NAME
+Hidayat	I-NAME
+penuh	B-INJURY
+darah	I-INJURY
+sekarang!	O
+
+Tulong!	O
+ibunda	O
+sesak	B-INJURY
+napas	I-INJURY
+di sekitar	O
+Desa	B-LOC
+Neuheun	I-LOC
+tolong	O
+datang!	O
+
+Darurat	O
+berat!	O
+Abi	B-NAME
+Fauzan	I-NAME
+bu	O
+kondisi	B-INJURY
+kritis	I-INJURY
+sebelah	O
+Lampaseh	B-LOC
+Kota	I-LOC
+
+Tolong!	O
+suami	O
+tulang	B-INJURY
+retak	I-INJURY
+di	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+segera!	O
+
+Darurat!	O
+ayahanda	O
+syok	B-INJURY
+depan	O
+Gampong	B-LOC
+Jawa	I-LOC
+sekarang!	O
+
+Tulong!	O
+ayah	O
+di kawasan	O
+Jalan	B-LOC
+Panglima	I-LOC
+Polem	I-LOC
+jinoe!	O
+
+Tolong	O
+cepat!	O
+pak	O
+tenggelam	B-INJURY
+segera!	O
+
+Tolong	O
+cepat!	O
+uma	O
+lam	O
+Kopelma	B-LOC
+jinoe!	O
+
+Tlg!	O
+saudara	O
+luka	B-INJURY
+bakar	I-INJURY
+wilayah	O
+Gampong	B-LOC
+Peuniti	I-LOC
+
+Gawat!	O
+Abi	B-NAME
+Fauzan	I-NAME
+paman	O
+remuk	B-INJURY
+jinoe!	O
+
+Tolong	O
+cepat!	O
+Khairati	B-NAME
+dekat	O
+Lorong	B-LOC
+Sejahtera	I-LOC
+
+Tlg!	O
+di daerah	O
+Gampong	B-LOC
+Jeulingke	I-LOC
+Aulia	B-NAME
+Rahman	I-NAME
+kepala	B-INJURY
+berdarah	I-INJURY
+
+Darurat!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+mohon	O
+bantuan!	O
+
+Bantu!	O
+Siti	B-NAME
+Rahma	I-NAME
+sekitar	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+
+Bantu!	O
+Faisal	B-NAME
+Hadi	I-NAME
+bu	O
+terluka	B-INJURY
+parah	I-INJURY
+mohon	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+di area	O
+Syiah	B-LOC
+Kuala	I-LOC
+Rizal	B-NAME
+Akbar	I-NAME
+luka	B-INJURY
+parah	I-INJURY
+butuh	O
+bantuan!	O
+
+Tolong	O
+cepat!	O
+Irwandi	B-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+daerah	O
+Lorong	B-LOC
+Damai	I-LOC
+segera!	O
+
+Bantu!	O
+kakak	O
+cedera	B-INJURY
+kepala	I-INJURY
+
+Tlg!	O
+Cut	B-NAME
+Nurul	I-NAME
+suami	O
+dalam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+lsg!	O
+
+Darurat	O
+berat!	O
+tulang	B-INJURY
+patah	I-INJURY
+samping	O
+Simpang	B-LOC
+Surabaya	I-LOC
+
+Kritis!	O
+tidak	B-INJURY
+sadar	I-INJURY
+kawasan	O
+Gampong	B-LOC
+Beurawe	I-LOC
+segera!	O
+
+SOS!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+paman	O
+napas	B-INJURY
+lemah	I-INJURY
+cepat!	O
+
+Tulong!	O
+suami	O
+kawasan	O
+Gampong	B-LOC
+Jeulingke	I-LOC
+butuh	O
+bantuan!	O
+
+Help!	O
+bibi	O
+sebelah	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+cepat!	O
+
+SOS!	O
+tergencet	B-INJURY
+cepat!	O
+
+Bantu!	O
+Bu	B-NAME
+Sari	I-NAME
+istri	O
+patah	B-INJURY
+tulang	I-INJURY
+lam	O
+Gampong	B-LOC
+Jawa	I-LOC
+
+Tulong!	O
+paman	O
+di daerah	O
+Desa	B-LOC
+Kajhu	I-LOC
+cepat!	O
+
+Gawat!	O
+daerah	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+Siti	B-NAME
+Rahma	I-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+butuh	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+Teuku	B-NAME
+Rizal	I-NAME
+tulang	B-INJURY
+patah	I-INJURY
+mohon	O
+bantuan!	O
+
+Bantu!	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+
+Darurat	O
+berat!	O
+bapak	O
+depan	O
+Jalan	B-LOC
+Panglima	I-LOC
+Polem	I-LOC
+kondisi	B-INJURY
+kritis	I-INJURY
+sekarang!	O
+
+Bantu!	O
+anak	O
+di	O
+Desa	B-LOC
+Lamdingin	I-LOC
+lsg!	O
+
+Help!	O
+istri	O
+karam	B-INJURY
+dalam	O
+Gampong	B-LOC
+Jawa	I-LOC
+
+Darurat	O
+berat!	O
+Teuku	B-NAME
+Rizal	I-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+di daerah	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+harap	O
+cepat!	O
+
+Kritis!	O
+Rizky	B-NAME
+Pratama	I-NAME
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+cepat!	O
+
+Help!	O
+Cut	B-NAME
+Nurul	I-NAME
+klg	O
+sesak	B-INJURY
+napas	I-INJURY
+dekat	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Tulong!	O
+dekat	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+Cut	B-NAME
+Nurul	I-NAME
+luka	B-INJURY
+dalam	I-INJURY
+butuh	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+pingsan	B-INJURY
+sekarang!	O
+
+Minta	O
+bantuan!	O
+Cut	B-NAME
+Sarah	I-NAME
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+mohon	O
+bantuan!	O
+
+Tolong!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+kawan	O
+terseret	B-INJURY
+arus	I-INJURY
+jinoe!	O
+
+Tolong!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+di daerah	O
+Gampong	B-LOC
+Beurawe	I-LOC
+segera!	O
+
+Minta	O
+bantuan!	O
+nenek	O
+kawasan	O
+Gampong	B-LOC
+Jawa	I-LOC
+rusuk	B-INJURY
+patah	I-INJURY
+segera!	O
+
+Tolong!	O
+Abi	B-NAME
+Fauzan	I-NAME
+adek	O
+hana	B-INJURY
+sanggob	I-INJURY
+meunapas	I-INJURY
+di	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Cepat	O
+bantu!	O
+Abdullah	B-NAME
+Hakim	I-NAME
+abang	O
+cedera	B-INJURY
+serius	I-INJURY
+kawasan	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+harap	O
+cepat!	O
+
+SOS!	O
+adek	O
+dekat	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Minta	O
+bantuan!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+warga	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+sekarang!	O
+
+Emergency!	O
+cedera	B-INJURY
+serius	I-INJURY
+wilayah	O
+Gampong	B-LOC
+Batoh	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+bibi	O
+di sekitar	O
+Gampong	B-LOC
+Jeulingke	I-LOC
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+mohon	O
+bantuan!	O
+
+Bantu!	O
+Irwandi	B-NAME
+sesak	B-INJURY
+napas	I-INJURY
+sebelah	O
+Gampong	B-LOC
+Batoh	I-LOC
+
+Emergency!	O
+Nurhayati	B-NAME
+sebelah	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+
+Minta	O
+bantuan!	O
+bu	O
+napas	B-INJURY
+lemah	I-INJURY
+
+Darurat	O
+berat!	O
+Hamdani	B-NAME
+Putra	I-NAME
+teman	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+butuh	O
+bantuan!	O
+
+Tolong!	O
+Teuku	B-NAME
+Azhar	I-NAME
+adek	O
+lam	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Tolong!	O
+Abi	B-NAME
+Fauzan	I-NAME
+ureung	O
+luka	B-INJURY
+bakar	I-INJURY
+
+Tolong!	O
+aneuk	O
+loen	O
+pingsan	B-INJURY
+di	O
+Gampong	B-LOC
+Jawa	I-LOC
+
+SOS!	O
+saudara	O
+depan	O
+Perumahan	B-LOC
+Griya	I-LOC
+Indah	I-LOC
+terluka	B-INJURY
+parah	I-INJURY
+
+Tolong!	O
+suami	O
+patah	B-INJURY
+tulang	I-INJURY
+segera!	O
+
+Darurat!	O
+suami	O
+area	O
+Ulee	B-LOC
+Lheue	I-LOC
+mohon	O
+bantuan!	O
+
+SOS!	O
+ibu	O
+karam	B-INJURY
+
+SOS!	O
+Cut	B-NAME
+Nurul	I-NAME
+kakak	O
+karam	B-INJURY
+di	O
+Desa	B-LOC
+Lamteumen	I-LOC
+darurat!	O
+
+Gawat!	O
+Zahra	B-NAME
+Husna	I-NAME
+nenek	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+dekat	O
+Darussalam	B-LOC
+mohon	O
+bantuan!	O
+
+Help!	O
+memar	B-INJURY
+parah	I-INJURY
+segera!	O
+
+Darurat!	O
+ibu	O
+dalam	O
+Gampong	B-LOC
+Jawa	I-LOC
+darurat!	O
+
+Darurat	O
+berat!	O
+Khairati	B-NAME
+di belakang	O
+Gampong	B-LOC
+Rukoh	I-LOC
+
+SOS!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+uma	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+di daerah	O
+Ie	B-LOC
+Masen	I-LOC
+cepat!	O
+
+SOS!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+luka	B-INJURY
+berat	I-INJURY
+sekitar	O
+Lueng	B-LOC
+Bata	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+Baharuddin	B-NAME
+ayah	O
+tangan	B-INJURY
+patah	I-INJURY
+kawasan	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+Nurhayati	B-NAME
+di depan	O
+Jalan	B-LOC
+Merduati	I-LOC
+tolong	O
+datang!	O
+
+Tulong!	O
+adek	O
+tidak	B-INJURY
+bergerak	I-INJURY
+
+Darurat	O
+berat!	O
+tetangga	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+sekarang!	O
+
+Bantu!	O
+rusuk	B-INJURY
+patah	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Surien	I-LOC
+mohon	O
+bantuan!	O
+
+Help!	O
+warga	O
+kaki	B-INJURY
+patah	I-INJURY
+lam	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+darurat!	O
+
+Tlng!	O
+korban	O
+dekat	O
+Lueng	B-LOC
+Bata	I-LOC
+terluka	B-INJURY
+parah	I-INJURY
+tolong	O
+datang!	O
+
+Tlng!	O
+orang	O
+terseret	B-INJURY
+arus	I-INJURY
+di sekitar	O
+Syiah	B-LOC
+Kuala	I-LOC
+jinoe!	O
+
+Gawat!	O
+Suryani	B-NAME
+wilayah	O
+Komplek	B-LOC
+Polisi	I-LOC
+jinoe!	O
+
+Tlng!	O
+terseret	B-INJURY
+arus	I-INJURY
+segera!	O
+
+Tolong	O
+cepat!	O
+memar	B-INJURY
+parah	I-INJURY
+sekitar	O
+Simpang	B-LOC
+Lima	I-LOC
+
+Tlng!	O
+Zulfahmi	B-NAME
+penuh	B-INJURY
+darah	I-INJURY
+segera!	O
+
+Gawat!	O
+di kawasan	O
+Gampong	B-LOC
+Seutui	I-LOC
+Wahyu	B-NAME
+Pratama	I-NAME
+napas	B-INJURY
+lemah	I-INJURY
+jinoe!	O
+
+Emergency!	O
+istri	O
+di	O
+Gampong	B-LOC
+Rukoh	I-LOC
+
+SOS!	O
+Ramli	B-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+sekarang!	O
+
+Help!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+ayah	O
+luka	B-INJURY
+bakar	I-INJURY
+
+Darurat	O
+berat!	O
+Mawaddah	B-NAME
+Putri	I-NAME
+anak	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+sekarang!	O
+
+Darurat	O
+berat!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+ureung	O
+luka	B-INJURY
+berat	I-INJURY
+cepat!	O
+
+Tlg!	O
+Fatimah	B-NAME
+Azzahra	I-NAME
+adek	O
+remuk	B-INJURY
+harap	O
+cepat!	O
+
+Darurat	O
+berat!	O
+depan	O
+Gampong	B-LOC
+Beurawe	I-LOC
+Cut	B-NAME
+Sarah	I-NAME
+pendarahan	B-INJURY
+hebat	I-INJURY
+cepat!	O
+
+Tlng!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+sekitar	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+segera!	O
+
+Tulong!	O
+Mukhlis	B-NAME
+Ibrahim	I-NAME
+suami	O
+luka	B-INJURY
+parah	I-INJURY
+daerah	O
+Lorong	B-LOC
+Sejahtera	I-LOC
+
+Gawat!	O
+Hamdani	B-NAME
+Putra	I-NAME
+bapak	O
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+lam	O
+Gang	B-LOC
+Mawar	I-LOC
+cepat!	O
+
+Tlg!	O
+Asmaul	B-NAME
+Husna	I-NAME
+tidak	B-INJURY
+sadar	I-INJURY
+di daerah	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+jinoe!	O
+
+Tulong!	O
+adek	O
+tangan	B-INJURY
+remuk	I-INJURY
+dalam	O
+Meulaboh	B-LOC
+
+Tlg!	O
+kakak	O
+terluka	B-INJURY
+dekat	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+jinoe!	O
+
+Darurat	O
+berat!	O
+Abu	B-NAME
+Syukri	I-NAME
+kejang	B-INJURY
+sekarang!	O
+
+Tolong!	O
+Mak	B-NAME
+Wati	I-NAME
+warga	O
+pingsan	B-INJURY
+di	O
+Desa	B-LOC
+Lamdom	I-LOC
+jinoe!	O
+
+Tulong!	O
+adek	O
+lam	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+
+Tlg!	O
+Ramli	B-NAME
+bibi	O
+syok	B-INJURY
+
+Gawat!	O
+di kawasan	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+Hasan	B-NAME
+Basri	I-NAME
+penuh	B-INJURY
+darah	I-INJURY
+sekarang!	O
+
+Gawat!	O
+kawasan	O
+Gampong	B-LOC
+Keudah	I-LOC
+Syahrul	B-NAME
+Ramadhan	I-NAME
+luka	B-INJURY
+berat	I-INJURY
+jinoe!	O
+
+Help!	O
+bibi	O
+di depan	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+terluka	B-INJURY
+parah	I-INJURY
+segera!	O
+
+Tolong!	O
+Taufik	B-NAME
+Hidayat	I-NAME
+adek	O
+terkubur	B-INJURY
+jinoe!	O
+
+Tolong!	O
+orang	O
+lam	O
+Syiah	B-LOC
+Kuala	I-LOC
+jinoe!	O
+
+Bantu!	O
+Khairati	B-NAME
+ureung	O
+penuh	B-INJURY
+darah	I-INJURY
+di kawasan	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+mohon	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+adik	O
+di	O
+Baiturrahman	B-LOC
+segera!	O
+
+Darurat!	O
+Mawaddah	B-NAME
+Putri	I-NAME
+kawasan	O
+Gampong	B-LOC
+Jawa	I-LOC
+jinoe!	O
+
+Bantu!	O
+ureung	O
+
+Tolong!	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+sebelah	O
+Gampong	B-LOC
+Rukoh	I-LOC
+sekarang!	O
+
+Tulong!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+ibunda	O
+kejang	B-INJURY
+belakang	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+harap	O
+cepat!	O
+
+SOS!	O
+bu	O
+samping	O
+Jalan	B-LOC
+Sudirman	I-LOC
+tolong	O
+datang!	O
+
+SOS!	O
+adek	O
+di	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+jinoe!	O
+
+Kritis!	O
+kakak	O
+sebelah	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+shock	B-INJURY
+cepat!	O
+
+Tolong	O
+cepat!	O
+pingsan	B-INJURY
+
+Tolong!	O
+teman	O
+kawasan	O
+Meuraxa	B-LOC
+
+Bantu!	O
+aneuk	O
+loen	O
+tangan	B-INJURY
+remuk	I-INJURY
+
+SOS!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+sebelah	O
+Lampaseh	B-LOC
+Kota	I-LOC
+tolong	O
+datang!	O
+
+Bantu!	O
+ayah	O
+lam	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+Darurat!	O
+kakak	O
+
+Tlg!	O
+Cut	B-NAME
+Nurul	I-NAME
+aneuk	O
+loen	O
+meudarah	B-INJURY
+that	I-INJURY
+di	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Darurat	O
+berat!	O
+pendarahan	B-INJURY
+cepat!	O
+
+Emergency!	O
+cedera	B-INJURY
+serius	I-INJURY
+sekitar	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+cepat!	O
+
+Help!	O
+paman	O
+belakang	O
+Simpang	B-LOC
+Surabaya	I-LOC
+jinoe!	O
+
+Darurat!	O
+Siti	B-NAME
+Rahma	I-NAME
+warga	O
+pendarahan	B-INJURY
+
+Tolong	O
+cepat!	O
+teman	O
+di	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+
+Bantu!	O
+korban	O
+pendarahan	B-INJURY
+
+Tolong!	O
+istri	O
+tidak	B-INJURY
+sadar	I-INJURY
+segera!	O
+
+Kritis!	O
+Yusuf	B-NAME
+Maulana	I-NAME
+warga	O
+perdarahan	B-INJURY
+internal	I-INJURY
+sekarang!	O
+
+Minta	O
+bantuan!	O
+area	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+Mawaddah	B-NAME
+Putri	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+
+Segera	O
+bantu!	O
+Siti	B-NAME
+Rahma	I-NAME
+saudara	O
+luka	B-INJURY
+terbuka	I-INJURY
+di daerah	O
+Gampong	B-LOC
+Surien	I-LOC
+mohon	O
+bantuan!	O
+
+Bantu!	O
+anak	O
+terluka	B-INJURY
+parah	I-INJURY
+lam	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+jinoe!	O
+
+Kritis!	O
+Zulfahmi	B-NAME
+terseret	B-INJURY
+arus	I-INJURY
+harap	O
+cepat!	O
+
+Kritis!	O
+sekitar	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+Budi	B-NAME
+Santoso	I-NAME
+terkubur	B-INJURY
+segera!	O
+
+Gawat!	O
+Ramli	B-NAME
+abang	O
+kondisi	B-INJURY
+kritis	I-INJURY
+butuh	O
+bantuan!	O
+
+Bantu!	O
+Bu	B-NAME
+Sari	I-NAME
+adek	O
+
+Bantu!	O
+Abu	B-NAME
+Syukri	I-NAME
+di area	O
+Syiah	B-LOC
+Kuala	I-LOC
+
+Minta	O
+bantuan!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+terkubur	B-INJURY
+jinoe!	O
+
+Bantu!	O
+remuk	B-INJURY
+tolong	O
+datang!	O
+
+Minta	O
+bantuan!	O
+korban	O
+terluka	B-INJURY
+berat	I-INJURY
+sebelah	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+
+Help!	O
+Cut	B-NAME
+Nurul	I-NAME
+kakek	O
+sesak	B-INJURY
+napas	I-INJURY
+segera!	O
+
+Tolong	O
+cepat!	O
+korban	O
+remuk	B-INJURY
+segera!	O
+
+Segera	O
+bantu!	O
+di area	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+Salmiah	B-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+butuh	O
+bantuan!	O
+
+SOS!	O
+shock	B-INJURY
+sebelah	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+butuh	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+Khairati	B-NAME
+kawasan	O
+Ulee	B-LOC
+Lheue	I-LOC
+segera!	O
+
+SOS!	O
+Abdullah	B-NAME
+Hakim	I-NAME
+orang	O
+kepala	B-INJURY
+berdarah	I-INJURY
+sekitar	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+cepat!	O
+
+Tlg!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+tidak	B-INJURY
+bergerak	I-INJURY
+
+Darurat!	O
+Abu	B-NAME
+Syukri	I-NAME
+aneuk	O
+loen	O
+tidak	B-INJURY
+sadar	I-INJURY
+darurat!	O
+
+Cepat	O
+bantu!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+dekat	O
+Gampong	B-LOC
+Rukoh	I-LOC
+cepat!	O
+
+Tlng!	O
+Halimah	B-NAME
+adik	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+jinoe!	O
+
+SOS!	O
+ureung	O
+meudarah	B-INJURY
+that	I-INJURY
+lam	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+segera!	O
+
+Tolong!	O
+Asmaul	B-NAME
+Husna	I-NAME
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+di kawasan	O
+Desa	B-LOC
+Tungkop	I-LOC
+
+Gawat!	O
+Teuku	B-NAME
+Rizal	I-NAME
+pak	O
+terluka	B-INJURY
+dada	I-INJURY
+
+Emergency!	O
+kawan	O
+daerah	O
+Gampong	B-LOC
+Jawa	I-LOC
+terluka	B-INJURY
+berat	I-INJURY
+tolong	O
+datang!	O
+
+Tolong!	O
+ibunda	O
+remuk	B-INJURY
+di sekitar	O
+Gampong	B-LOC
+Surien	I-LOC
+cepat!	O
+
+Help!	O
+Cut	B-NAME
+Sarah	I-NAME
+remuk	B-INJURY
+belakang	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+harap	O
+cepat!	O
+
+Tolong	O
+cepat!	O
+tetangga	O
+shock	B-INJURY
+segera!	O
+
+Minta	O
+bantuan!	O
+ayah	O
+di belakang	O
+Jalan	B-LOC
+Sudirman	I-LOC
+syok	B-INJURY
+sekarang!	O
+
+Tolong	O
+cepat!	O
+tetangga	O
+kawasan	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+butuh	O
+bantuan!	O
+
+Help!	O
+suami	O
+area	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+meudarah	B-INJURY
+that	I-INJURY
+sekarang!	O
+
+Tulong!	O
+ayah	O
+terluka	B-INJURY
+parah	I-INJURY
+dekat	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+
+Help!	O
+terluka	B-INJURY
+dada	I-INJURY
+di kawasan	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+mohon	O
+bantuan!	O
+
+Darurat!	O
+aneuk	O
+loen	O
+dalam	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+jinoe!	O
+
+Gawat!	O
+Nurul	B-NAME
+Izzah	I-NAME
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+cepat!	O
+
+Bantu!	O
+syok	B-INJURY
+sekitar	O
+Lueng	B-LOC
+Bata	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat!	O
+Nek	B-NAME
+Zainab	I-NAME
+korban	O
+karam	B-INJURY
+di	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+segera!	O
+
+Segera	O
+bantu!	O
+bibi	O
+area	O
+Krueng	B-LOC
+Aceh	I-LOC
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+mohon	O
+bantuan!	O
+
+Tulong!	O
+kakak	O
+sekitar	O
+Lorong	B-LOC
+Damai	I-LOC
+luka	B-INJURY
+parah	I-INJURY
+mohon	O
+bantuan!	O
+
+Tlg!	O
+Hasan	B-NAME
+Basri	I-NAME
+ibu	O
+rusuk	B-INJURY
+patah	I-INJURY
+wilayah	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+segera!	O
+
+Tlng!	O
+Nurul	B-NAME
+Izzah	I-NAME
+ayahanda	O
+perdarahan	B-INJURY
+internal	I-INJURY
+di area	O
+Gampong	B-LOC
+Seutui	I-LOC
+butuh	O
+bantuan!	O
+
+Segera	O
+bantu!	O
+Hamdani	B-NAME
+Putra	I-NAME
+uma	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+tolong	O
+datang!	O
+
+Darurat!	O
+Suryani	B-NAME
+sesak	B-INJURY
+napas	I-INJURY
+area	O
+Lampaseh	B-LOC
+Kota	I-LOC
+
+Tolong	O
+cepat!	O
+suami	O
+kawasan	O
+Komplek	B-LOC
+Polisi	I-LOC
+terluka	B-INJURY
+dada	I-INJURY
+cepat!	O
+
+Help!	O
+luka	B-INJURY
+parah	I-INJURY
+
+SOS!	O
+anak	O
+tangan	B-INJURY
+remuk	I-INJURY
+lam	O
+Gampong	B-LOC
+Lhong	I-LOC
+Raya	I-LOC
+
+Gawat!	O
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+di area	O
+Pasar	B-LOC
+Aceh	I-LOC
+butuh	O
+bantuan!	O
+
+Tlg!	O
+Wahyu	B-NAME
+Pratama	I-NAME
+terkubur	B-INJURY
+
+Tolong	O
+cepat!	O
+Intan	B-NAME
+Permata	I-NAME
+di	O
+Gampong	B-LOC
+Rukoh	I-LOC
+
+Help!	O
+Nek	B-NAME
+Zainab	I-NAME
+korban	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+lsg!	O
+
+Tlng!	O
+Khairati	B-NAME
+area	O
+Desa	B-LOC
+Tungkop	I-LOC
+segera!	O
+
+Segera	O
+bantu!	O
+terseret	B-INJURY
+arus	I-INJURY
+area	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+sekarang!	O
+
+Minta	O
+bantuan!	O
+Wahyu	B-NAME
+Pratama	I-NAME
+area	O
+Gampong	B-LOC
+Lueng	I-LOC
+Bata	I-LOC
+sekarang!	O
+
+SOS!	O
+Aulia	B-NAME
+Rahman	I-NAME
+warga	O
+luka	B-INJURY
+parah	I-INJURY
+belakang	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+segera!	O
+
+Darurat	O
+berat!	O
+di area	O
+Gampong	B-LOC
+Batoh	I-LOC
+Ramli	B-NAME
+syok	B-INJURY
+harap	O
+cepat!	O
+
+Emergency!	O
+kepala	B-INJURY
+berdarah	I-INJURY
+segera!	O
+
+Tulong!	O
+ureung	O
+di kawasan	O
+Gampong	B-LOC
+Rukoh	I-LOC
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+harap	O
+cepat!	O
+
+Kritis!	O
+Yusuf	B-NAME
+Maulana	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+tolong	O
+datang!	O
+
+Cepat	O
+bantu!	O
+bu	O
+tertimpa	B-INJURY
+samping	O
+Kuta	B-LOC
+Raja	I-LOC
+tolong	O
+datang!	O
+
+Minta	O
+bantuan!	O
+Baharuddin	B-NAME
+tidak	B-INJURY
+bergerak	I-INJURY
+harap	O
+cepat!	O
+
+Gawat!	O
+trauma	B-INJURY
+kepala	I-INJURY
+mohon	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+di	O
+Desa	B-LOC
+Neuheun	I-LOC
+Putri	B-NAME
+Nadia	I-NAME
+kritis	B-INJURY
+jinoe!	O
+
+Darurat	O
+berat!	O
+terluka	B-INJURY
+parah	I-INJURY
+
+Gawat!	O
+Rini	B-NAME
+Wulandari	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+tolong	O
+datang!	O
+
+Bantu!	O
+bibi	O
+kawasan	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+luka	B-INJURY
+robek	I-INJURY
+
+Gawat!	O
+Halimah	B-NAME
+tetangga	O
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+harap	O
+cepat!	O
+
+Cepat	O
+bantu!	O
+Khairati	B-NAME
+di	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+mohon	O
+bantuan!	O
+
+Tlg!	O
+penuh	B-INJURY
+darah	I-INJURY
+kawasan	O
+Syiah	B-LOC
+Kuala	I-LOC
+
+Bantu!	O
+ibu	O
+di sekitar	O
+Gampong	B-LOC
+Pande	I-LOC
+
+Help!	O
+di	O
+Komplek	B-LOC
+Polisi	I-LOC
+Rizky	B-NAME
+Pratama	I-NAME
+pendarahan	B-INJURY
+hebat	I-INJURY
+jinoe!	O
+
+Emergency!	O
+teman	O
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+di depan	O
+Lueng	B-LOC
+Bata	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+di area	O
+Pasar	B-LOC
+Peunayong	I-LOC
+Nurul	B-NAME
+Izzah	I-NAME
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+
+SOS!	O
+rusuk	B-INJURY
+patah	I-INJURY
+di kawasan	O
+Kuta	B-LOC
+Raja	I-LOC
+tolong	O
+datang!	O
+
+Tolong!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+samping	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+
+Help!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+kakak	O
+memar	B-INJURY
+parah	I-INJURY
+sekitar	O
+Desa	B-LOC
+Kajhu	I-LOC
+cepat!	O
+
+Tulong!	O
+Pak	B-NAME
+Harun	I-NAME
+klg	O
+memar	B-INJURY
+berat	I-INJURY
+di	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Tolong	O
+cepat!	O
+di depan	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+Zulkifli	B-NAME
+Akbar	I-NAME
+tangan	B-INJURY
+patah	I-INJURY
+
+Tolong	O
+cepat!	O
+Amirul	B-NAME
+Mukminin	I-NAME
+bapak	O
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+di depan	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+
+Help!	O
+kakak	O
+kaki	B-INJURY
+patah	I-INJURY
+di	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+
+Tlg!	O
+tergencet	B-INJURY
+di depan	O
+Gampong	B-LOC
+Jeulingke	I-LOC
+
+Segera	O
+bantu!	O
+Khairul	B-NAME
+Anwar	I-NAME
+daerah	O
+Gampong	B-LOC
+Lampulo	I-LOC
+mohon	O
+bantuan!	O
+
+Gawat!	O
+teman	O
+area	O
+Gampong	B-LOC
+Peuniti	I-LOC
+tulang	B-INJURY
+patah	I-INJURY
+butuh	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+Zulfahmi	B-NAME
+kakek	O
+terseret	B-INJURY
+arus	I-INJURY
+harap	O
+cepat!	O
+
+Darurat!	O
+ureung	O
+di daerah	O
+Gampong	B-LOC
+Merduati	I-LOC
+tidak	B-INJURY
+sadar	I-INJURY
+
+Tlg!	O
+Fatimah	B-NAME
+Azzahra	I-NAME
+sekitar	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+cepat!	O
+
+Kritis!	O
+sekitar	O
+Lorong	B-LOC
+Damai	I-LOC
+Safrizal	B-NAME
+pendarahan	B-INJURY
+mohon	O
+bantuan!	O
+
+Tlg!	O
+ibu	O
+patah	B-INJURY
+tulang	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamteumen	I-LOC
+
+Tolong	O
+cepat!	O
+pendarahan	B-INJURY
+di daerah	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+sekarang!	O
+
+Help!	O
+Abu	B-NAME
+Syukri	I-NAME
+memar	B-INJURY
+parah	I-INJURY
+
+Tlg!	O
+Zahra	B-NAME
+Husna	I-NAME
+adik	O
+perdarahan	B-INJURY
+internal	I-INJURY
+di sekitar	O
+Gampong	B-LOC
+Lampulo	I-LOC
+mohon	O
+bantuan!	O
+
+Tlg!	O
+Maghfirah	B-NAME
+meudarah	B-INJURY
+that	I-INJURY
+di area	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Bantu!	O
+Siti	B-NAME
+Rahma	I-NAME
+ibu	O
+dekat	O
+Gampong	B-LOC
+Keuramat	I-LOC
+jinoe!	O
+
+Emergency!	O
+bapak	O
+samping	O
+Baiturrahman	B-LOC
+tolong	O
+datang!	O
+
+Tlg!	O
+sesak	B-INJURY
+napas	I-INJURY
+cepat!	O
+
+Help!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+dekat	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+cepat!	O
+
+Tolong!	O
+Nurhayati	B-NAME
+terseret	B-INJURY
+arus	I-INJURY
+
+Help!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+ureung	O
+memar	B-INJURY
+berat	I-INJURY
+lam	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Tolong!	O
+Siti	B-NAME
+Rahma	I-NAME
+kakak	O
+lam	O
+Gampong	B-LOC
+Keuramat	I-LOC
+
+Bantu!	O
+Faisal	B-NAME
+Hadi	I-NAME
+warga	O
+luka	B-INJURY
+parah	I-INJURY
+butuh	O
+bantuan!	O
+
+Bantu!	O
+Ramli	B-NAME
+lam	O
+Darussalam	B-LOC
+harap	O
+cepat!	O
+
+Minta	O
+bantuan!	O
+Suryani	B-NAME
+penuh	B-INJURY
+darah	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+
+Tulong!	O
+ureung	O
+terluka	B-INJURY
+parah	I-INJURY
+dekat	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+Bantu!	O
+Budi	B-NAME
+Santoso	I-NAME
+tidak	B-INJURY
+sadar	I-INJURY
+tolong	O
+datang!	O
+
+SOS!	O
+anak	O
+pingsan	B-INJURY
+
+Darurat!	O
+Pak	B-NAME
+Harun	I-NAME
+adek	O
+luka	B-INJURY
+bakar	I-INJURY
+di	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+jinoe!	O
+
+Help!	O
+uma	O
+di belakang	O
+Gampong	B-LOC
+Kuta	I-LOC
+Alam	I-LOC
+terluka	B-INJURY
+berat	I-INJURY
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+Abu	B-NAME
+Syukri	I-NAME
+uma	O
+koma	B-INJURY
+butuh	O
+bantuan!	O
+
+Tlg!	O
+tetangga	O
+sebelah	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+mohon	O
+bantuan!	O
+
+Segera	O
+bantu!	O
+tetangga	O
+sekitar	O
+Lorong	B-LOC
+Sejahtera	I-LOC
+terluka	B-INJURY
+berat	I-INJURY
+mohon	O
+bantuan!	O
+
+Tlg!	O
+tulang	B-INJURY
+patah	I-INJURY
+di sekitar	O
+Gampong	B-LOC
+Batoh	I-LOC
+cepat!	O
+
+Tlng!	O
+di belakang	O
+Jalan	B-LOC
+Panglima	I-LOC
+Polem	I-LOC
+Putri	B-NAME
+Nadia	I-NAME
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+
+Kritis!	O
+Rini	B-NAME
+Wulandari	I-NAME
+ayahanda	O
+shock	B-INJURY
+belakang	O
+Neusu	B-LOC
+Jaya	I-LOC
+cepat!	O
+
+Emergency!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+kakek	O
+terkubur	B-INJURY
+jinoe!	O
+
+Tolong!	O
+ayah	O
+darurat!	O
+
+Segera	O
+bantu!	O
+Abdullah	B-NAME
+Hakim	I-NAME
+di sekitar	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat!	O
+Ramli	B-NAME
+lam	O
+Desa	B-LOC
+Kajhu	I-LOC
+segera!	O
+
+Kritis!	O
+ibunda	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+mohon	O
+bantuan!	O
+
+Tlng!	O
+Intan	B-NAME
+Permata	I-NAME
+luka	B-INJURY
+sayat	I-INJURY
+belakang	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+cepat!	O
+
+SOS!	O
+Nek	B-NAME
+Zainab	I-NAME
+istri	O
+luka	B-INJURY
+parah	I-INJURY
+di	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Darurat!	O
+napas	B-INJURY
+lemah	I-INJURY
+di area	O
+Simpang	B-LOC
+Lima	I-LOC
+harap	O
+cepat!	O
+
+Darurat!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+kakak	O
+patah	B-INJURY
+tulang	I-INJURY
+di	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+segera!	O
+
+Help!	O
+sesak	B-INJURY
+napas	I-INJURY
+jinoe!	O
+
+Segera	O
+bantu!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+abah	O
+penuh	B-INJURY
+darah	I-INJURY
+daerah	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+Zahra	B-NAME
+Husna	I-NAME
+dekat	O
+Gampong	B-LOC
+Beurawe	I-LOC
+segera!	O
+
+SOS!	O
+orang	O
+tenggelam	B-INJURY
+cepat!	O
+
+Tolong!	O
+cedera	B-INJURY
+serius	I-INJURY
+kawasan	O
+Simpang	B-LOC
+Surabaya	I-LOC
+jinoe!	O
+
+Tolong	O
+cepat!	O
+anak	O
+lam	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+cepat!	O
+
+Tolong!	O
+patah	B-INJURY
+tulang	I-INJURY
+mohon	O
+bantuan!	O
+
+Tlg!	O
+Abu	B-NAME
+Syukri	I-NAME
+adek	O
+cedera	B-INJURY
+kepala	I-INJURY
+
+Tlg!	O
+adek	O
+hana	B-INJURY
+sanggob	I-INJURY
+meunapas	I-INJURY
+lam	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Darurat	O
+berat!	O
+tetangga	O
+tenggelam	B-INJURY
+di daerah	O
+Desa	B-LOC
+Neuheun	I-LOC
+butuh	O
+bantuan!	O
+
+Tulong!	O
+kawan	O
+perdarahan	B-INJURY
+internal	I-INJURY
+mohon	O
+bantuan!	O
+
+Emergency!	O
+wilayah	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+Teuku	B-NAME
+Rizal	I-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+cepat!	O
+
+Help!	O
+Siti	B-NAME
+Rahma	I-NAME
+korban	O
+lsg!	O
+
+Darurat!	O
+Abi	B-NAME
+Fauzan	I-NAME
+anak	O
+dekat	O
+Desa	B-LOC
+Lamteumen	I-LOC
+
+Tlg!	O
+Khairul	B-NAME
+Anwar	I-NAME
+kawasan	O
+Gampong	B-LOC
+Merduati	I-LOC
+
+Cepat	O
+bantu!	O
+di area	O
+Gampong	B-LOC
+Merduati	I-LOC
+Abi	B-NAME
+Fauzan	I-NAME
+cedera	B-INJURY
+serius	I-INJURY
+
+Tolong!	O
+Irwandi	B-NAME
+lam	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+cepat!	O
+
+Bantu!	O
+Safrizal	B-NAME
+adik	O
+sesak	B-INJURY
+napas	I-INJURY
+wilayah	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+
+Bantu!	O
+perdarahan	B-INJURY
+internal	I-INJURY
+di	O
+Komplek	B-LOC
+Polisi	I-LOC
+harap	O
+cepat!	O
+
+Tlg!	O
+luka	B-INJURY
+berat	I-INJURY
+
+Emergency!	O
+Rini	B-NAME
+Wulandari	I-NAME
+adek	O
+tulang	B-INJURY
+patah	I-INJURY
+
+Darurat!	O
+anak	O
+sesak	B-INJURY
+napas	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Tulong!	O
+Dewi	B-NAME
+Rahayu	I-NAME
+kawan	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+di belakang	O
+Lueng	B-LOC
+Bata	I-LOC
+tolong	O
+datang!	O
+
+Cepat	O
+bantu!	O
+abah	O
+terluka	B-INJURY
+berat	I-INJURY
+
+Gawat!	O
+teman	O
+di sekitar	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+luka	B-INJURY
+dalam	I-INJURY
+jinoe!	O
+
+SOS!	O
+warga	O
+lam	O
+Gampong	B-LOC
+Keuramat	I-LOC
+
+Help!	O
+Hasan	B-NAME
+Basri	I-NAME
+daerah	O
+Lorong	B-LOC
+Sejahtera	I-LOC
+jinoe!	O
+
+Help!	O
+kakak	O
+pendarahan	B-INJURY
+sekarang!	O
+
+Emergency!	O
+koma	B-INJURY
+tolong	O
+datang!	O
+
+Tlg!	O
+Cut	B-NAME
+Nurul	I-NAME
+istri	O
+tangan	B-INJURY
+remuk	I-INJURY
+dekat	O
+Gampong	B-LOC
+Tibang	I-LOC
+lsg!	O
+
+Cepat	O
+bantu!	O
+di belakang	O
+Pasar	B-LOC
+Aceh	I-LOC
+Maghfirah	B-NAME
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+
+Tolong!	O
+ibu	O
+di area	O
+Desa	B-LOC
+Kajhu	I-LOC
+sekarang!	O
+
+Darurat!	O
+Putri	B-NAME
+Nadia	I-NAME
+kakek	O
+napas	B-INJURY
+lemah	I-INJURY
+samping	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+cepat!	O
+
+SOS!	O
+Asmaul	B-NAME
+Husna	I-NAME
+cedera	B-INJURY
+serius	I-INJURY
+segera!	O
+
+Bantu!	O
+tetangga	O
+memar	B-INJURY
+parah	I-INJURY
+sekitar	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+
+SOS!	O
+ibu	O
+
+Gawat!	O
+trauma	B-INJURY
+kepala	I-INJURY
+daerah	O
+Ulee	B-LOC
+Lheue	I-LOC
+
+Emergency!	O
+suami	O
+pingsan	B-INJURY
+
+Kritis!	O
+bapak	O
+area	O
+Ie	B-LOC
+Masen	I-LOC
+butuh	O
+bantuan!	O
+
+Bantu!	O
+kepala	B-INJURY
+berdarah	I-INJURY
+segera!	O
+
+Minta	O
+bantuan!	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+
+Tolong!	O
+Cut	B-NAME
+Nurul	I-NAME
+klg	O
+pingsan	B-INJURY
+dekat	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+
+SOS!	O
+Teuku	B-NAME
+Azhar	I-NAME
+korban	O
+karam	B-INJURY
+cepat!	O
+
+Cepat	O
+bantu!	O
+ayah	O
+luka	B-INJURY
+robek	I-INJURY
+sekarang!	O
+
+Tulong!	O
+ibu	O
+dekat	O
+Gampong	B-LOC
+Kopelma	I-LOC
+Darussalam	I-LOC
+memar	B-INJURY
+parah	I-INJURY
+jinoe!	O
+
+Tolong!	O
+anak	O
+tulang	B-INJURY
+retak	I-INJURY
+lam	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Darurat	O
+berat!	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+lam	O
+Jalan	B-LOC
+Panglima	I-LOC
+Polem	I-LOC
+tolong	O
+datang!	O
+
+Tlg!	O
+pingsan	B-INJURY
+sekitar	O
+Simpang	B-LOC
+Surabaya	I-LOC
+
+Tlg!	O
+ibu	O
+pendarahan	B-INJURY
+di	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+lsg!	O
+
+Help!	O
+istri	O
+luka	B-INJURY
+berat	I-INJURY
+di	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Tolong!	O
+Wahyu	B-NAME
+Pratama	I-NAME
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+harap	O
+cepat!	O
+
+Kritis!	O
+kejang	B-INJURY
+mohon	O
+bantuan!	O
+
+Help!	O
+saudara	O
+lam	O
+Gampong	B-LOC
+Kopelma	I-LOC
+Darussalam	I-LOC
+tulang	B-INJURY
+patah	I-INJURY
+mohon	O
+bantuan!	O
+
+Darurat!	O
+abah	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+
+Cepat	O
+bantu!	O
+Salmiah	B-NAME
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+di kawasan	O
+Gampong	B-LOC
+Lamteumen	I-LOC
+segera!	O
+
+Bantu!	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+
+Minta	O
+bantuan!	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+di area	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+
+SOS!	O
+abah	O
+koma	B-INJURY
+harap	O
+cepat!	O
+
+Tlg!	O
+ayah	O
+memar	B-INJURY
+berat	I-INJURY
+di	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Darurat!	O
+korban	O
+sebelah	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+tolong	O
+datang!	O
+
+Tlg!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+tergencet	B-INJURY
+
+Bantu!	O
+istri	O
+tidak	B-INJURY
+sadar	I-INJURY
+dekat	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Tlg!	O
+ureung	O
+karam	B-INJURY
+lsg!	O
+
+Cepat	O
+bantu!	O
+tulang	B-INJURY
+patah	I-INJURY
+di depan	O
+Blang	B-LOC
+Bintang	I-LOC
+
+Tulong!	O
+Hamdani	B-NAME
+Putra	I-NAME
+samping	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+butuh	O
+bantuan!	O
+
+Gawat!	O
+Abu	B-NAME
+Syukri	I-NAME
+saudara	O
+terluka	B-INJURY
+parah	I-INJURY
+di belakang	O
+Darussalam	B-LOC
+tolong	O
+datang!	O
+
+Tolong	O
+cepat!	O
+ayahanda	O
+belakang	O
+Komplek	B-LOC
+Polisi	I-LOC
+trauma	B-INJURY
+dada	I-INJURY
+butuh	O
+bantuan!	O
+
+Darurat!	O
+anak	O
+tidak	B-INJURY
+bergerak	I-INJURY
+tolong	O
+datang!	O
+
+Kritis!	O
+Safrizal	B-NAME
+ureung	O
+tergencet	B-INJURY
+sebelah	O
+Jalan	B-LOC
+Cut	I-LOC
+Meutia	I-LOC
+segera!	O
+
+Tolong!	O
+Pak	B-NAME
+Bakar	I-NAME
+adek	O
+kaki	B-INJURY
+patah	I-INJURY
+dekat	O
+Gampong	B-LOC
+Lhong	I-LOC
+Raya	I-LOC
+
+Tolong	O
+cepat!	O
+syok	B-INJURY
+di area	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+segera!	O
+
+Tolong!	O
+Abu	B-NAME
+Syukri	I-NAME
+suami	O
+meudarah	B-INJURY
+that	I-INJURY
+lam	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+Emergency!	O
+anak	O
+di	O
+Gampong	B-LOC
+Jawa	I-LOC
+meudarah	B-INJURY
+that	I-INJURY
+
+Tulong!	O
+Suryani	B-NAME
+pendarahan	B-INJURY
+daerah	O
+Simpang	B-LOC
+Lima	I-LOC
+butuh	O
+bantuan!	O
+
+Tolong	O
+cepat!	O
+kawan	O
+luka	B-INJURY
+dalam	I-INJURY
+wilayah	O
+Kopelma	B-LOC
+segera!	O
+
+Tulong!	O
+suami	O
+tangan	B-INJURY
+remuk	I-INJURY
+dekat	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Tlg!	O
+Irwandi	B-NAME
+nenek	O
+tidak	B-INJURY
+sadar	I-INJURY
+harap	O
+cepat!	O
+
+Tlg!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+depan	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+SOS!	O
+adek	O
+terluka	B-INJURY
+parah	I-INJURY
+dalam	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Tlg!	O
+teman	O
+di depan	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+jinoe!	O
+
+Darurat!	O
+kakak	O
+terluka	B-INJURY
+di	O
+Krueng	B-LOC
+Aceh	I-LOC
+cepat!	O
+
+Kritis!	O
+luka	B-INJURY
+terbuka	I-INJURY
+di daerah	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+jinoe!	O
+
+Cepat	O
+bantu!	O
+tidak	B-INJURY
+sadar	I-INJURY
+tolong	O
+datang!	O
+
+Kritis!	O
+tangan	B-INJURY
+patah	I-INJURY
+belakang	O
+Jalan	B-LOC
+S.	I-LOC
+Parman	I-LOC
+
+SOS!	O
+Abi	B-NAME
+Fauzan	I-NAME
+suami	O
+lam	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+
+Tulong!	O
+tertimpa	B-INJURY
+harap	O
+cepat!	O
+
+Tlng!	O
+kritis	B-INJURY
+
+Darurat!	O
+kritis	B-INJURY
+di daerah	O
+Jalan	B-LOC
+Panglima	I-LOC
+Polem	I-LOC
+sekarang!	O
+
+Tlng!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+lam	O
+Kuta	B-LOC
+Raja	I-LOC
+jinoe!	O
+
+Tolong!	O
+Hamdani	B-NAME
+Putra	I-NAME
+belakang	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+Cepat	O
+bantu!	O
+paman	O
+sesak	B-INJURY
+napas	I-INJURY
+di depan	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+tolong	O
+datang!	O
+
+Darurat!	O
+Nek	B-NAME
+Zainab	I-NAME
+ibu	O
+tidak	B-INJURY
+sadar	I-INJURY
+
+Darurat!	O
+Pak	B-NAME
+Bakar	I-NAME
+warga	O
+cedera	B-INJURY
+kepala	I-INJURY
+dalam	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+segera!	O
+
+SOS!	O
+Nek	B-NAME
+Zainab	I-NAME
+istri	O
+patah	B-INJURY
+tulang	I-INJURY
+dekat	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Minta	O
+bantuan!	O
+sekitar	O
+Gampong	B-LOC
+Pande	I-LOC
+Hamdani	B-NAME
+Putra	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+tolong	O
+datang!	O
+
+Gawat!	O
+Nadia	B-NAME
+Safira	I-NAME
+kawasan	O
+Syiah	B-LOC
+Kuala	I-LOC
+mohon	O
+bantuan!	O
+
+Emergency!	O
+Fatimah	B-NAME
+Azzahra	I-NAME
+ibu	O
+luka	B-INJURY
+robek	I-INJURY
+lam	O
+Gampong	B-LOC
+Keudah	I-LOC
+
+Darurat	O
+berat!	O
+ureung	O
+di area	O
+Simpang	B-LOC
+Surabaya	I-LOC
+luka	B-INJURY
+bakar	I-INJURY
+
+Cepat	O
+bantu!	O
+tangan	B-INJURY
+patah	I-INJURY
+sebelah	O
+Jalan	B-LOC
+Imam	I-LOC
+Bonjol	I-LOC
+mohon	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+ibu	O
+cedera	B-INJURY
+serius	I-INJURY
+sekarang!	O
+
+Minta	O
+bantuan!	O
+kritis	B-INJURY
+di depan	O
+Jalan	B-LOC
+Panglima	I-LOC
+Polem	I-LOC
+jinoe!	O
+
+SOS!	O
+Bu	B-NAME
+Sari	I-NAME
+warga	O
+cedera	B-INJURY
+kepala	I-INJURY
+lsg!	O
+
+Tlng!	O
+kawasan	O
+Gampong	B-LOC
+Rukoh	I-LOC
+Faisal	B-NAME
+Hadi	I-NAME
+luka	B-INJURY
+parah	I-INJURY
+
+Tolong!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+kakak	O
+di	O
+Gampong	B-LOC
+Tibang	I-LOC
+segera!	O
+
+Gawat!	O
+koma	B-INJURY
+
+Darurat	O
+berat!	O
+Cut	B-NAME
+Nurul	I-NAME
+daerah	O
+Gampong	B-LOC
+Beurawe	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+tertimpa	B-INJURY
+belakang	O
+Gampong	B-LOC
+Batoh	I-LOC
+segera!	O
+
+Darurat	O
+berat!	O
+Taufik	B-NAME
+Hidayat	I-NAME
+kepala	B-INJURY
+berdarah	I-INJURY
+harap	O
+cepat!	O
+
+Emergency!	O
+Hamdani	B-NAME
+Putra	I-NAME
+istri	O
+luka	B-INJURY
+terbuka	I-INJURY
+lam	O
+Gampong	B-LOC
+Lueng	I-LOC
+Bata	I-LOC
+
+Tolong!	O
+Zulkifli	B-NAME
+Akbar	I-NAME
+luka	B-INJURY
+sayat	I-INJURY
+
+Tolong!	O
+ureung	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+segera!	O
+
+Minta	O
+bantuan!	O
+Rizky	B-NAME
+Pratama	I-NAME
+ayahanda	O
+luka	B-INJURY
+bakar	I-INJURY
+lam	O
+Gampong	B-LOC
+Jawa	I-LOC
+butuh	O
+bantuan!	O
+
+Tulong!	O
+Pak	B-NAME
+Rahman	I-NAME
+ibu	O
+tulang	B-INJURY
+retak	I-INJURY
+lsg!	O
+
+Tulong!	O
+Pak	B-NAME
+Bakar	I-NAME
+klg	O
+meudarah	B-INJURY
+that	I-INJURY
+dekat	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Tolong	O
+cepat!	O
+tulang	B-INJURY
+patah	I-INJURY
+cepat!	O
+
+Tolong	O
+cepat!	O
+bapak	O
+cedera	B-INJURY
+serius	I-INJURY
+jinoe!	O
+
+Help!	O
+Nek	B-NAME
+Zainab	I-NAME
+warga	O
+di	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Tlg!	O
+ureung	O
+dalam	O
+Krueng	B-LOC
+Aceh	I-LOC
+darurat!	O
+
+Darurat	O
+berat!	O
+kawan	O
+luka	B-INJURY
+bakar	I-INJURY
+
+Help!	O
+ayah	O
+tangan	B-INJURY
+remuk	I-INJURY
+dekat	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+lsg!	O
+
+Tulong!	O
+istri	O
+patah	B-INJURY
+tulang	I-INJURY
+dalam	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+segera!	O
+
+Kritis!	O
+tertimpa	B-INJURY
+
+Darurat!	O
+trauma	B-INJURY
+dada	I-INJURY
+di depan	O
+Simpang	B-LOC
+Surabaya	I-LOC
+segera!	O
+
+Emergency!	O
+Khairul	B-NAME
+Anwar	I-NAME
+kepala	B-INJURY
+berdarah	I-INJURY
+di depan	O
+Meuraxa	B-LOC
+butuh	O
+bantuan!	O
+
+Tolong	O
+cepat!	O
+paman	O
+trauma	B-INJURY
+dada	I-INJURY
+
+SOS!	O
+suami	O
+tulang	B-INJURY
+retak	I-INJURY
+lam	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+segera!	O
+
+Help!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+tidak	B-INJURY
+bergerak	I-INJURY
+di depan	O
+Gampong	B-LOC
+Cot	I-LOC
+Mesjid	I-LOC
+sekarang!	O
+
+Help!	O
+Pak	B-NAME
+Harun	I-NAME
+ayah	O
+tangan	B-INJURY
+remuk	I-INJURY
+dalam	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Tolong!	O
+adek	O
+patah	B-INJURY
+tulang	I-INJURY
+dekat	O
+Desa	B-LOC
+Lamdingin	I-LOC
+darurat!	O
+
+Tlg!	O
+ibu	O
+luka	B-INJURY
+parah	I-INJURY
+segera!	O
+
+Tlg!	O
+Abi	B-NAME
+Fauzan	I-NAME
+korban	O
+tidak	B-INJURY
+sadar	I-INJURY
+dekat	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+
+Tolong!	O
+korban	O
+cepat!	O
+
+Tulong!	O
+warga	O
+tidak	B-INJURY
+sadar	I-INJURY
+sekarang!	O
+
+Minta	O
+bantuan!	O
+samping	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+Syahrul	B-NAME
+Ramadhan	I-NAME
+patah	B-INJURY
+tulang	I-INJURY
+
+SOS!	O
+belakang	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+Siti	B-NAME
+Rahma	I-NAME
+patah	B-INJURY
+tulang	I-INJURY
+cepat!	O
+
+Bantu!	O
+ureung	O
+area	O
+Lambaro	B-LOC
+Skep	I-LOC
+
+Tolong!	O
+Siti	B-NAME
+Rahma	I-NAME
+ayah	O
+terluka	B-INJURY
+dekat	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+cepat!	O
+
+Segera	O
+bantu!	O
+ibunda	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+cepat!	O
+
+Emergency!	O
+uma	O
+pendarahan	B-INJURY
+tolong	O
+datang!	O
+
+Tlng!	O
+Baharuddin	B-NAME
+ayahanda	O
+luka	B-INJURY
+berat	I-INJURY
+harap	O
+cepat!	O
+
+Emergency!	O
+pak	O
+sekitar	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+sekarang!	O
+
+Minta	O
+bantuan!	O
+Cut	B-NAME
+Sarah	I-NAME
+kepala	B-INJURY
+berdarah	I-INJURY
+lam	O
+Desa	B-LOC
+Neuheun	I-LOC
+sekarang!	O
+
+Tulong!	O
+korban	O
+sebelah	O
+Jalan	B-LOC
+Sudirman	I-LOC
+perdarahan	B-INJURY
+internal	I-INJURY
+sekarang!	O
+
+Tulong!	O
+korban	O
+cedera	B-INJURY
+kepala	I-INJURY
+di	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+segera!	O
+
+Segera	O
+bantu!	O
+adik	O
+di daerah	O
+Bandar	B-LOC
+Baru	I-LOC
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+tolong	O
+datang!	O
+
+Darurat!	O
+Cut	B-NAME
+Nurul	I-NAME
+klg	O
+lam	O
+Gampong	B-LOC
+Pande	I-LOC
+jinoe!	O
+
+Bantu!	O
+aneuk	O
+loen	O
+luka	B-INJURY
+bakar	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+lsg!	O
+
+Darurat!	O
+warga	O
+di	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+Darurat	O
+berat!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+daerah	O
+Gampong	B-LOC
+Jawa	I-LOC
+
+Bantu!	O
+korban	O
+pendarahan	B-INJURY
+dekat	O
+Gampong	B-LOC
+Pande	I-LOC
+
+Tulong!	O
+abah	O
+luka	B-INJURY
+dalam	I-INJURY
+
+Segera	O
+bantu!	O
+Fitri	B-NAME
+Yanti	I-NAME
+ayahanda	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+kawasan	O
+Simpang	B-LOC
+Surabaya	I-LOC
+butuh	O
+bantuan!	O
+
+Tlng!	O
+warga	O
+di kawasan	O
+Gampong	B-LOC
+Lamteumen	I-LOC
+jinoe!	O
+
+Darurat	O
+berat!	O
+Cut	B-NAME
+Nurul	I-NAME
+penuh	B-INJURY
+darah	I-INJURY
+di sekitar	O
+Simpang	B-LOC
+Lima	I-LOC
+tolong	O
+datang!	O
+
+Bantu!	O
+istri	O
+kepala	B-INJURY
+berdarah	I-INJURY
+di sekitar	O
+Lambaro	B-LOC
+Skep	I-LOC
+
+Tolong!	O
+anak	O
+lam	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+cepat!	O
+
+Darurat!	O
+warga	O
+memar	B-INJURY
+berat	I-INJURY
+di	O
+Meulaboh	B-LOC
+
+Gawat!	O
+adek	O
+belakang	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Bantu!	O
+ayah	O
+di area	O
+Ie	B-LOC
+Masen	I-LOC
+segera!	O
+
+Segera	O
+bantu!	O
+uma	O
+luka	B-INJURY
+sayat	I-INJURY
+sekarang!	O
+
+Tulong!	O
+Abu	B-NAME
+Syukri	I-NAME
+istri	O
+kaki	B-INJURY
+patah	I-INJURY
+di	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Kritis!	O
+Rini	B-NAME
+Wulandari	I-NAME
+ibu	O
+terluka	B-INJURY
+dada	I-INJURY
+di daerah	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+samping	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+Baharuddin	B-NAME
+cedera	B-INJURY
+serius	I-INJURY
+tolong	O
+datang!	O
+
+Bantu!	O
+kakak	O
+depan	O
+Desa	B-LOC
+Kajhu	I-LOC
+memar	B-INJURY
+parah	I-INJURY
+segera!	O
+
+Tulong!	O
+suami	O
+di area	O
+Pasar	B-LOC
+Peunayong	I-LOC
+segera!	O
+
+Tolong!	O
+anak	O
+terluka	B-INJURY
+dekat	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+segera!	O
+
+Tulong!	O
+warga	O
+luka	B-INJURY
+berat	I-INJURY
+dalam	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Gawat!	O
+Wahyu	B-NAME
+Pratama	I-NAME
+meudarah	B-INJURY
+that	I-INJURY
+tolong	O
+datang!	O
+
+Darurat!	O
+Nurhayati	B-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+
+Darurat	O
+berat!	O
+daerah	O
+Gampong	B-LOC
+Beurawe	I-LOC
+Irwandi	B-NAME
+penuh	B-INJURY
+darah	I-INJURY
+cepat!	O
+
+Darurat!	O
+Teuku	B-NAME
+Azhar	I-NAME
+istri	O
+luka	B-INJURY
+parah	I-INJURY
+jinoe!	O
+
+Tlg!	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+segera!	O
+
+Tolong!	O
+adek	O
+dekat	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+segera!	O
+
+Tolong!	O
+Cut	B-NAME
+Sarah	I-NAME
+terluka	B-INJURY
+berat	I-INJURY
+segera!	O
+
+Emergency!	O
+Fitri	B-NAME
+Yanti	I-NAME
+koma	B-INJURY
+wilayah	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+mohon	O
+bantuan!	O
+
+Bantu!	O
+Hasan	B-NAME
+Basri	I-NAME
+kakek	O
+remuk	B-INJURY
+lam	O
+Gampong	B-LOC
+Jawa	I-LOC
+butuh	O
+bantuan!	O
+
+Gawat!	O
+Khairul	B-NAME
+Anwar	I-NAME
+di area	O
+Desa	B-LOC
+Neuheun	I-LOC
+tolong	O
+datang!	O
+
+Segera	O
+bantu!	O
+terluka	B-INJURY
+dada	I-INJURY
+sekarang!	O
+
+Cepat	O
+bantu!	O
+Hamdani	B-NAME
+Putra	I-NAME
+kawasan	O
+Baiturrahman	B-LOC
+
+Help!	O
+adek	O
+kondisi	B-INJURY
+kritis	I-INJURY
+sekarang!	O
+
+Darurat!	O
+Zulfahmi	B-NAME
+bu	O
+tertimpa	B-INJURY
+
+Tolong	O
+cepat!	O
+Suryani	B-NAME
+di daerah	O
+Lueng	B-LOC
+Bata	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+Teuku	B-NAME
+Azhar	I-NAME
+adek	O
+meudarah	B-INJURY
+that	I-INJURY
+lam	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Darurat!	O
+Mukhlis	B-NAME
+Ibrahim	I-NAME
+nenek	O
+luka	B-INJURY
+bakar	I-INJURY
+di area	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+butuh	O
+bantuan!	O
+
+Kritis!	O
+sebelah	O
+Gampong	B-LOC
+Peuniti	I-LOC
+Intan	B-NAME
+Permata	I-NAME
+memar	B-INJURY
+parah	I-INJURY
+
+Tlng!	O
+saudara	O
+trauma	B-INJURY
+kepala	I-INJURY
+tolong	O
+datang!	O
+
+Kritis!	O
+Ahmad	B-NAME
+Fadli	I-NAME
+sebelah	O
+Gampong	B-LOC
+Pande	I-LOC
+segera!	O
+
+Tulong!	O
+anak	O
+terluka	B-INJURY
+di	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Emergency!	O
+samping	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+Safrizal	B-NAME
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+mohon	O
+bantuan!	O
+
+Tolong!	O
+korban	O
+terluka	B-INJURY
+parah	I-INJURY
+dekat	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Tulong!	O
+uma	O
+area	O
+Gampong	B-LOC
+Laksana	I-LOC
+kondisi	B-INJURY
+kritis	I-INJURY
+cepat!	O
+
+Help!	O
+bu	O
+tenggelam	B-INJURY
+cepat!	O
+
+Tulong!	O
+Bu	B-NAME
+Sari	I-NAME
+ureung	O
+meudarah	B-INJURY
+that	I-INJURY
+di	O
+Lhokseumawe	B-LOC
+Kota	I-LOC
+segera!	O
+
+Segera	O
+bantu!	O
+Halimah	B-NAME
+luka	B-INJURY
+parah	I-INJURY
+jinoe!	O
+
+Tlg!	O
+korban	O
+tidak	B-INJURY
+sadar	I-INJURY
+segera!	O
+
+Tulong!	O
+Abi	B-NAME
+Fauzan	I-NAME
+istri	O
+meudarah	B-INJURY
+that	I-INJURY
+
+Tolong!	O
+ayah	O
+karam	B-INJURY
+darurat!	O
+
+Tlg!	O
+ibu	O
+daerah	O
+Meuraxa	B-LOC
+sesak	B-INJURY
+napas	I-INJURY
+sekarang!	O
+
+Tlg!	O
+kakak	O
+koma	B-INJURY
+jinoe!	O
+
+Darurat	O
+berat!	O
+di sekitar	O
+Perumahan	B-LOC
+Griya	I-LOC
+Indah	I-LOC
+Taufik	B-NAME
+Hidayat	I-NAME
+memar	B-INJURY
+parah	I-INJURY
+mohon	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+Cut	B-NAME
+Nurul	I-NAME
+pendarahan	B-INJURY
+hebat	I-INJURY
+kawasan	O
+Jalan	B-LOC
+Prada	I-LOC
+Utama	I-LOC
+jinoe!	O
+
+Gawat!	O
+Zulfahmi	B-NAME
+dekat	O
+Gampong	B-LOC
+Rukoh	I-LOC
+cepat!	O
+
+Tlng!	O
+Abi	B-NAME
+Fauzan	I-NAME
+kondisi	B-INJURY
+kritis	I-INJURY
+cepat!	O
+
+Emergency!	O
+adik	O
+di kawasan	O
+Neusu	B-LOC
+Jaya	I-LOC
+segera!	O
+
+Bantu!	O
+istri	O
+kaki	B-INJURY
+patah	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamdom	I-LOC
+jinoe!	O
+
+Darurat!	O
+ureung	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+lam	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+cepat!	O
+
+Gawat!	O
+memar	B-INJURY
+parah	I-INJURY
+sebelah	O
+Syiah	B-LOC
+Kuala	I-LOC
+
+Tolong	O
+cepat!	O
+syok	B-INJURY
+di daerah	O
+Lambaro	B-LOC
+Skep	I-LOC
+cepat!	O
+
+Darurat!	O
+Nadia	B-NAME
+Safira	I-NAME
+korban	O
+terluka	B-INJURY
+berat	I-INJURY
+
+Gawat!	O
+Maghfirah	B-NAME
+korban	O
+kepala	B-INJURY
+berdarah	I-INJURY
+di kawasan	O
+Gampong	B-LOC
+Seutui	I-LOC
+mohon	O
+bantuan!	O
+
+SOS!	O
+Pak	B-NAME
+Bakar	I-NAME
+anak	O
+karam	B-INJURY
+lam	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+jinoe!	O
+
+Darurat!	O
+Khairul	B-NAME
+Anwar	I-NAME
+bu	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+butuh	O
+bantuan!	O
+
+Darurat!	O
+kejang	B-INJURY
+butuh	O
+bantuan!	O
+
+Cepat	O
+bantu!	O
+Intan	B-NAME
+Permata	I-NAME
+terluka	B-INJURY
+parah	I-INJURY
+sekitar	O
+Pasar	B-LOC
+Peunayong	I-LOC
+sekarang!	O
+
+Tlg!	O
+warga	O
+dalam	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Darurat!	O
+trauma	B-INJURY
+kepala	I-INJURY
+di belakang	O
+Gampong	B-LOC
+Kopelma	I-LOC
+Darussalam	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat	O
+berat!	O
+Siti	B-NAME
+Rahma	I-NAME
+korban	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+di depan	O
+Komplek	B-LOC
+Polisi	I-LOC
+jinoe!	O
+
+Tlg!	O
+Suryani	B-NAME
+luka	B-INJURY
+parah	I-INJURY
+di belakang	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+SOS!	O
+suami	O
+pendarahan	B-INJURY
+
+Tlng!	O
+kritis	B-INJURY
+butuh	O
+bantuan!	O
+
+Tolong!	O
+ureung	O
+kaki	B-INJURY
+patah	I-INJURY
+dekat	O
+Krueng	B-LOC
+Aceh	I-LOC
+jinoe!	O
+
+Minta	O
+bantuan!	O
+Hamdani	B-NAME
+Putra	I-NAME
+dekat	O
+Lampaseh	B-LOC
+Kota	I-LOC
+segera!	O
+
+SOS!	O
+warga	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+di	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+SOS!	O
+adek	O
+luka	B-INJURY
+robek	I-INJURY
+segera!	O
+
+Bantu!	O
+istri	O
+tulang	B-INJURY
+retak	I-INJURY
+dekat	O
+Meulaboh	B-LOC
+segera!	O
+
+Cepat	O
+bantu!	O
+terluka	B-INJURY
+parah	I-INJURY
+butuh	O
+bantuan!	O
+
+Emergency!	O
+tetangga	O
+luka	B-INJURY
+robek	I-INJURY
+jinoe!	O
+
+Tolong	O
+cepat!	O
+anak	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+di belakang	O
+Meuraxa	B-LOC
+
+Segera	O
+bantu!	O
+adik	O
+belakang	O
+Ulee	B-LOC
+Lheue	I-LOC
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+
+Help!	O
+saudara	O
+sesak	B-INJURY
+napas	I-INJURY
+parah	I-INJURY
+jinoe!	O
+
+Gawat!	O
+depan	O
+Jalan	B-LOC
+Sudirman	I-LOC
+Faisal	B-NAME
+Hadi	I-NAME
+kejang	B-INJURY
+cepat!	O
+
+Tulong!	O
+Siti	B-NAME
+Rahma	I-NAME
+klg	O
+kepala	B-INJURY
+bocor	I-INJURY
+dekat	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+lsg!	O
+
+Emergency!	O
+Intan	B-NAME
+Permata	I-NAME
+kaki	B-INJURY
+patah	I-INJURY
+sekarang!	O
+
+Gawat!	O
+Aulia	B-NAME
+Rahman	I-NAME
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+mohon	O
+bantuan!	O
+
+Darurat!	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+
+Cepat	O
+bantu!	O
+samping	O
+Lorong	B-LOC
+Sejahtera	I-LOC
+Mawaddah	B-NAME
+Putri	I-NAME
+luka	B-INJURY
+robek	I-INJURY
+
+Tolong	O
+cepat!	O
+paman	O
+daerah	O
+Gampong	B-LOC
+Batoh	I-LOC
+rusuk	B-INJURY
+patah	I-INJURY
+tolong	O
+datang!	O
+
+Tolong!	O
+Teuku	B-NAME
+Rizal	I-NAME
+kritis	B-INJURY
+samping	O
+Kuta	B-LOC
+Raja	I-LOC
+butuh	O
+bantuan!	O
+
+Gawat!	O
+Teuku	B-NAME
+Rizal	I-NAME
+tangan	B-INJURY
+patah	I-INJURY
+tolong	O
+datang!	O
+
+Tlng!	O
+warga	O
+area	O
+Ulee	B-LOC
+Lheue	I-LOC
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+jinoe!	O
+
+Tolong	O
+cepat!	O
+ibunda	O
+di sekitar	O
+Simpang	B-LOC
+Lima	I-LOC
+harap	O
+cepat!	O
+
+Tulong!	O
+daerah	O
+Jalan	B-LOC
+Sudirman	I-LOC
+Cut	B-NAME
+Sarah	I-NAME
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+segera!	O
+
+Darurat!	O
+kakak	O
+tulang	B-INJURY
+iga	I-INJURY
+patah	I-INJURY
+sebelah	O
+Gampong	B-LOC
+Jeulingke	I-LOC
+tolong	O
+datang!	O
+
+Emergency!	O
+korban	O
+terseret	B-INJURY
+arus	I-INJURY
+cepat!	O
+
+Tulong!	O
+warga	O
+tenggelam	B-INJURY
+di area	O
+Lorong	B-LOC
+Damai	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+adek	O
+terluka	B-INJURY
+parah	I-INJURY
+dekat	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+Cepat	O
+bantu!	O
+meudarah	B-INJURY
+that	I-INJURY
+tolong	O
+datang!	O
+
+Darurat!	O
+ayah	O
+memar	B-INJURY
+berat	I-INJURY
+
+Emergency!	O
+Zulkifli	B-NAME
+Akbar	I-NAME
+lam	O
+Ie	B-LOC
+Masen	I-LOC
+cepat!	O
+
+Help!	O
+tidak	B-INJURY
+sadar	I-INJURY
+dekat	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+sekarang!	O
+
+Darurat!	O
+Pak	B-NAME
+Harun	I-NAME
+ibu	O
+cedera	B-INJURY
+kepala	I-INJURY
+
+Tlng!	O
+Siti	B-NAME
+Rahma	I-NAME
+kakek	O
+remuk	B-INJURY
+sebelah	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Bantu!	O
+kakak	O
+terluka	B-INJURY
+parah	I-INJURY
+dekat	O
+Desa	B-LOC
+Lamdom	I-LOC
+
+Bantu!	O
+ibunda	O
+di kawasan	O
+Gampong	B-LOC
+Rukoh	I-LOC
+
+Tolong!	O
+aneuk	O
+loen	O
+luka	B-INJURY
+berat	I-INJURY
+
+Help!	O
+Pak	B-NAME
+Bakar	I-NAME
+aneuk	O
+loen	O
+luka	B-INJURY
+parah	I-INJURY
+dekat	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Tulong!	O
+adik	O
+belakang	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+kaki	B-INJURY
+patah	I-INJURY
+butuh	O
+bantuan!	O
+
+SOS!	O
+Pak	B-NAME
+Harun	I-NAME
+istri	O
+cedera	B-INJURY
+kepala	I-INJURY
+dekat	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+jinoe!	O
+
+Cepat	O
+bantu!	O
+nenek	O
+tidak	B-INJURY
+bergerak	I-INJURY
+sekarang!	O
+
+Help!	O
+ibu	O
+di	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Segera	O
+bantu!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+penuh	B-INJURY
+darah	I-INJURY
+wilayah	O
+Gampong	B-LOC
+Pande	I-LOC
+
+Tlg!	O
+Abi	B-NAME
+Fauzan	I-NAME
+korban	O
+tidak	B-INJURY
+sadar	I-INJURY
+di	O
+Desa	B-LOC
+Lamdingin	I-LOC
+cepat!	O
+
+Darurat	O
+berat!	O
+di kawasan	O
+Gampong	B-LOC
+Laksana	I-LOC
+Syahrul	B-NAME
+Ramadhan	I-NAME
+penuh	B-INJURY
+darah	I-INJURY
+
+Tlg!	O
+suami	O
+pingsan	B-INJURY
+lam	O
+Krueng	B-LOC
+Aceh	I-LOC
+
+Tlg!	O
+kejang	B-INJURY
+harap	O
+cepat!	O
+
+Tolong	O
+cepat!	O
+abah	O
+wilayah	O
+Gampong	B-LOC
+Lamteumen	I-LOC
+segera!	O
+
+Kritis!	O
+penuh	B-INJURY
+darah	I-INJURY
+cepat!	O
+
+Gawat!	O
+syok	B-INJURY
+sekarang!	O
+
+Darurat!	O
+aneuk	O
+loen	O
+
+Cepat	O
+bantu!	O
+teman	O
+dekat	O
+Gang	B-LOC
+Kenanga	I-LOC
+terluka	B-INJURY
+parah	I-INJURY
+butuh	O
+bantuan!	O
+
+Help!	O
+suami	O
+memar	B-INJURY
+berat	I-INJURY
+di	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+lsg!	O
+
+Emergency!	O
+nenek	O
+wilayah	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+kakak	O
+lam	O
+Desa	B-LOC
+Lamteumen	I-LOC
+segera!	O
+
+Minta	O
+bantuan!	O
+ibu	O
+di daerah	O
+Gampong	B-LOC
+Cot	I-LOC
+Mesjid	I-LOC
+
+Bantu!	O
+Nek	B-NAME
+Zainab	I-NAME
+anak	O
+dekat	O
+Gampong	B-LOC
+Keuramat	I-LOC
+
+SOS!	O
+ayah	O
+luka	B-INJURY
+parah	I-INJURY
+dekat	O
+Meulaboh	B-LOC
+segera!	O
+
+Darurat!	O
+bibi	O
+perlu	B-INJURY
+bantuan	I-INJURY
+medis	I-INJURY
+
+Gawat!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+luka	B-INJURY
+parah	I-INJURY
+harap	O
+cepat!	O
+
+Darurat	O
+berat!	O
+sebelah	O
+Kuta	B-LOC
+Raja	I-LOC
+Hasan	B-NAME
+Basri	I-NAME
+memar	B-INJURY
+parah	I-INJURY
+tolong	O
+datang!	O
+
+Tlg!	O
+kakak	O
+dekat	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+Emergency!	O
+suami	O
+luka	B-INJURY
+sayat	I-INJURY
+di kawasan	O
+Desa	B-LOC
+Tungkop	I-LOC
+butuh	O
+bantuan!	O
+
+Tolong	O
+cepat!	O
+kakak	O
+tulang	B-INJURY
+patah	I-INJURY
+segera!	O
+
+Emergency!	O
+saudara	O
+di area	O
+Desa	B-LOC
+Neuheun	I-LOC
+segera!	O
+
+SOS!	O
+kakak	O
+lam	O
+Gampong	B-LOC
+Pande	I-LOC
+
+Tulong!	O
+terluka	B-INJURY
+dada	I-INJURY
+di kawasan	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+cepat!	O
+
+Darurat!	O
+Abi	B-NAME
+Fauzan	I-NAME
+adek	O
+terluka	B-INJURY
+parah	I-INJURY
+dalam	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Bantu!	O
+Cut	B-NAME
+Nurul	I-NAME
+warga	O
+tulang	B-INJURY
+retak	I-INJURY
+
+Cepat	O
+bantu!	O
+saudara	O
+koma	B-INJURY
+lam	O
+Desa	B-LOC
+Neuheun	I-LOC
+segera!	O
+
+Minta	O
+bantuan!	O
+di area	O
+Lueng	B-LOC
+Bata	I-LOC
+Asmaul	B-NAME
+Husna	I-NAME
+tenggelam	B-INJURY
+
+Tulong!	O
+istri	O
+kepala	B-INJURY
+bocor	I-INJURY
+di	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+darurat!	O
+
+Tlg!	O
+depan	O
+Gampong	B-LOC
+Tibang	I-LOC
+Dewi	B-NAME
+Rahayu	I-NAME
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+tolong	O
+datang!	O
+
+Segera	O
+bantu!	O
+Teuku	B-NAME
+Rizal	I-NAME
+suami	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+di sekitar	O
+Komplek	B-LOC
+Polisi	I-LOC
+
+Tlg!	O
+Nek	B-NAME
+Zainab	I-NAME
+adek	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+dekat	O
+Desa	B-LOC
+Lamdom	I-LOC
+cepat!	O
+
+Gawat!	O
+korban	O
+trauma	B-INJURY
+dada	I-INJURY
+harap	O
+cepat!	O
+
+Segera	O
+bantu!	O
+Rizal	B-NAME
+Akbar	I-NAME
+istri	O
+luka	B-INJURY
+robek	I-INJURY
+jinoe!	O
+
+Darurat!	O
+ayah	O
+di	O
+Gampong	B-LOC
+Kopelma	I-LOC
+Darussalam	I-LOC
+terseret	B-INJURY
+arus	I-INJURY
+butuh	O
+bantuan!	O
+
+Bantu!	O
+anak	O
+tangan	B-INJURY
+patah	I-INJURY
+di	O
+Gampong	B-LOC
+Meunasah	I-LOC
+Blang	I-LOC
+
+Tlg!	O
+Siti	B-NAME
+Rahma	I-NAME
+aneuk	O
+loen	O
+luka	B-INJURY
+berat	I-INJURY
+dalam	O
+Desa	B-LOC
+Lamdom	I-LOC
+jinoe!	O
+
+Darurat	O
+berat!	O
+tetangga	O
+area	O
+Gang	B-LOC
+Kenanga	I-LOC
+cepat!	O
+
+Tolong!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+kawasan	O
+Jalan	B-LOC
+Teuku	I-LOC
+Umar	I-LOC
+jinoe!	O
+
+Segera	O
+bantu!	O
+tulang	B-INJURY
+patah	I-INJURY
+mohon	O
+bantuan!	O
+
+Tulong!	O
+Safrizal	B-NAME
+tergencet	B-INJURY
+di area	O
+Lueng	B-LOC
+Bata	I-LOC
+harap	O
+cepat!	O
+
+Tulong!	O
+Cut	B-NAME
+Nurul	I-NAME
+suami	O
+tidak	B-INJURY
+sadar	I-INJURY
+darurat!	O
+
+Darurat	O
+berat!	O
+Nurul	B-NAME
+Izzah	I-NAME
+uma	O
+tangan	B-INJURY
+patah	I-INJURY
+jinoe!	O
+
+Segera	O
+bantu!	O
+suami	O
+tertimpa	B-INJURY
+wilayah	O
+Pasar	B-LOC
+Peunayong	I-LOC
+
+Tolong!	O
+Pak	B-NAME
+Harun	I-NAME
+warga	O
+meudarah	B-INJURY
+that	I-INJURY
+dalam	O
+Kompleks	B-LOC
+Perumahan	I-LOC
+BPKP	I-LOC
+
+Darurat!	O
+kakak	O
+meudarah	B-INJURY
+that	I-INJURY
+dalam	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+darurat!	O
+
+Gawat!	O
+nenek	O
+luka	B-INJURY
+bakar	I-INJURY
+jinoe!	O
+
+Cepat	O
+bantu!	O
+kondisi	B-INJURY
+kritis	I-INJURY
+
+Segera	O
+bantu!	O
+Nurul	B-NAME
+Izzah	I-NAME
+tertimpa	B-INJURY
+depan	O
+Perumahan	B-LOC
+Lambhuk	I-LOC
+Asri	I-LOC
+
+Minta	O
+bantuan!	O
+Nadia	B-NAME
+Safira	I-NAME
+adik	O
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+
+Tlg!	O
+suami	O
+lam	O
+Desa	B-LOC
+Lamteumen	I-LOC
+
+Emergency!	O
+korban	O
+terkubur	B-INJURY
+di daerah	O
+Jalan	B-LOC
+Sudirman	I-LOC
+cepat!	O
+
+Tlg!	O
+pingsan	B-INJURY
+tidak	I-INJURY
+sadar	I-INJURY
+tolong	O
+datang!	O
+
+Bantu!	O
+adek	O
+luka	B-INJURY
+bakar	I-INJURY
+lam	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Cepat	O
+bantu!	O
+orang	O
+terluka	B-INJURY
+di	I-INJURY
+kaki	I-INJURY
+
+Tlg!	O
+Teuku	B-NAME
+Azhar	I-NAME
+ureung	O
+dekat	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+
+Tlng!	O
+keluarga	O
+syok	B-INJURY
+di kawasan	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+sekarang!	O
+
+Gawat!	O
+kawan	O
+penuh	B-INJURY
+darah	I-INJURY
+jinoe!	O
+
+Emergency!	O
+korban	O
+di sekitar	O
+Simpang	B-LOC
+Lima	I-LOC
+
+SOS!	O
+depan	O
+Gampong	B-LOC
+Meunasah	I-LOC
+Blang	I-LOC
+Zulkifli	B-NAME
+Akbar	I-NAME
+kaki	B-INJURY
+patah	I-INJURY
+harap	O
+cepat!	O
+
+Tulong!	O
+cedera	B-INJURY
+serius	I-INJURY
+tolong	O
+datang!	O
+
+Tulong!	O
+Abi	B-NAME
+Fauzan	I-NAME
+adek	O
+tidak	B-INJURY
+sadar	I-INJURY
+lam	O
+Desa	B-LOC
+Cot	I-LOC
+Irie	I-LOC
+
+Cepat	O
+bantu!	O
+depan	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+Zulkifli	B-NAME
+Akbar	I-NAME
+koma	B-INJURY
+segera!	O
+
+Tlng!	O
+samping	O
+Meuraxa	B-LOC
+Nurhayati	B-NAME
+terluka	B-INJURY
+parah	I-INJURY
+jinoe!	O
+
+SOS!	O
+Fatimah	B-NAME
+Azzahra	I-NAME
+sebelah	O
+Kuta	B-LOC
+Raja	I-LOC
+mohon	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+luka	B-INJURY
+robek	I-INJURY
+wilayah	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+segera!	O
+
+Tlng!	O
+ayahanda	O
+lam	O
+Gampong	B-LOC
+Kopelma	I-LOC
+Darussalam	I-LOC
+kritis	B-INJURY
+butuh	O
+bantuan!	O
+
+Darurat!	O
+Cut	B-NAME
+Nurul	I-NAME
+istri	O
+memar	B-INJURY
+berat	I-INJURY
+dalam	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+
+Darurat!	O
+klg	O
+di	O
+Gang	B-LOC
+Setia	I-LOC
+Budi	I-LOC
+
+Darurat	O
+berat!	O
+di daerah	O
+Gang	B-LOC
+Mawar	I-LOC
+Cut	B-NAME
+Sarah	I-NAME
+tertimpa	B-INJURY
+cepat!	O
+
+Kritis!	O
+Safrizal	B-NAME
+adek	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+
+SOS!	O
+ibu	O
+kaki	B-INJURY
+patah	I-INJURY
+lam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+
+Gawat!	O
+di depan	O
+Blang	B-LOC
+Bintang	I-LOC
+Fathimah	B-NAME
+Zahra	I-NAME
+sesak	B-INJURY
+napas	I-INJURY
+harap	O
+cepat!	O
+
+Darurat!	O
+terluka	B-INJURY
+dada	I-INJURY
+segera!	O
+
+Darurat!	O
+Bu	B-NAME
+Sari	I-NAME
+aneuk	O
+loen	O
+sesak	B-INJURY
+napas	I-INJURY
+lam	O
+Meulaboh	B-LOC
+
+Bantu!	O
+kakak	O
+luka	B-INJURY
+berat	I-INJURY
+dekat	O
+Gampong	B-LOC
+Lambhuk	I-LOC
+
+Tulong!	O
+Teuku	B-NAME
+Azhar	I-NAME
+istri	O
+memar	B-INJURY
+berat	I-INJURY
+lam	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Help!	O
+Cut	B-NAME
+Nurul	I-NAME
+ureung	O
+luka	B-INJURY
+bakar	I-INJURY
+di	O
+Jalan	B-LOC
+T.	I-LOC
+Nyak	I-LOC
+Arief	I-LOC
+
+Bantu!	O
+keluarga	O
+kritis	B-INJURY
+mohon	O
+bantuan!	O
+
+Tolong	O
+cepat!	O
+lam	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+Fadlan	B-NAME
+Mubarak	I-NAME
+napas	B-INJURY
+lemah	I-INJURY
+mohon	O
+bantuan!	O
+
+SOS!	O
+Mak	B-NAME
+Wati	I-NAME
+kakak	O
+luka	B-INJURY
+parah	I-INJURY
+dekat	O
+Krueng	B-LOC
+Aceh	I-LOC
+lsg!	O
+
+SOS!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+di sekitar	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+
+Kritis!	O
+pingsan	B-INJURY
+cepat!	O
+
+SOS!	O
+kawan	O
+di daerah	O
+Krueng	B-LOC
+Aceh	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+anak	O
+hana	B-INJURY
+sanggob	I-INJURY
+meunapas	I-INJURY
+lam	O
+Desa	B-LOC
+Lamdingin	I-LOC
+
+Help!	O
+Mak	B-NAME
+Wati	I-NAME
+suami	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+dekat	O
+Gampong	B-LOC
+Lhong	I-LOC
+Raya	I-LOC
+darurat!	O
+
+Segera	O
+bantu!	O
+Nurhayati	B-NAME
+pingsan	B-INJURY
+mohon	O
+bantuan!	O
+
+Minta	O
+bantuan!	O
+tetangga	O
+sesak	B-INJURY
+napas	I-INJURY
+
+Minta	O
+bantuan!	O
+Abi	B-NAME
+Fauzan	I-NAME
+tidak	B-INJURY
+sadar	I-INJURY
+harap	O
+cepat!	O
+
+Kritis!	O
+terluka	B-INJURY
+berat	I-INJURY
+cepat!	O
+
+SOS!	O
+anak	O
+area	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+trauma	B-INJURY
+dada	I-INJURY
+harap	O
+cepat!	O
+
+Tlg!	O
+ibu	O
+terluka	B-INJURY
+dekat	O
+Gampong	B-LOC
+Pande	I-LOC
+
+Emergency!	O
+Fadlan	B-NAME
+Mubarak	I-NAME
+daerah	O
+Gampong	B-LOC
+Surien	I-LOC
+sekarang!	O
+
+Darurat!	O
+napas	B-INJURY
+lemah	I-INJURY
+di depan	O
+Jalan	B-LOC
+Merduati	I-LOC
+tolong	O
+datang!	O
+
+Segera	O
+bantu!	O
+di daerah	O
+Gampong	B-LOC
+Seutui	I-LOC
+Khairul	B-NAME
+Anwar	I-NAME
+luka	B-INJURY
+bakar	I-INJURY
+
+Gawat!	O
+Abdullah	B-NAME
+Hakim	I-NAME
+area	O
+Perumahan	B-LOC
+Griya	I-LOC
+Indah	I-LOC
+cepat!	O
+
+Darurat!	O
+Teuku	B-NAME
+Azhar	I-NAME
+suami	O
+luka	B-INJURY
+berat	I-INJURY
+dalam	O
+Gampong	B-LOC
+Lhong	I-LOC
+Raya	I-LOC
+
+SOS!	O
+tenggelam	B-INJURY
+di belakang	O
+Komplek	B-LOC
+Polisi	I-LOC
+
+Segera	O
+bantu!	O
+shock	B-INJURY
+di daerah	O
+Gampong	B-LOC
+Ulee	I-LOC
+Kareng	I-LOC
+harap	O
+cepat!	O
+
+Tulong!	O
+Baharuddin	B-NAME
+ureung	O
+kondisi	B-INJURY
+kritis	I-INJURY
+jinoe!	O
+
+Tolong!	O
+Pak	B-NAME
+Harun	I-NAME
+klg	O
+di	O
+Krueng	B-LOC
+Aceh	I-LOC
+cepat!	O
+
+Tlng!	O
+luka	B-INJURY
+dalam	I-INJURY
+dekat	O
+Gang	B-LOC
+Kenanga	I-LOC
+butuh	O
+bantuan!	O
+
+Darurat!	O
+warga	O
+luka	B-INJURY
+bakar	I-INJURY
+di	O
+Gampong	B-LOC
+Tibang	I-LOC
+cepat!	O
+
+Darurat!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+depan	O
+Gampong	B-LOC
+Meunasah	I-LOC
+Blang	I-LOC
+sekarang!	O
+
+Darurat	O
+berat!	O
+Wahyu	B-NAME
+Pratama	I-NAME
+kakak	O
+kepala	B-INJURY
+berdarah	I-INJURY
+segera!	O
+
+Tlng!	O
+orang	O
+cedera	B-INJURY
+di	I-INJURY
+tangan	I-INJURY
+wilayah	O
+Desa	B-LOC
+Lambaro	I-LOC
+segera!	O
+
+Darurat	O
+berat!	O
+warga	O
+samping	O
+Neusu	B-LOC
+Jaya	I-LOC
+
+Tulong!	O
+kakek	O
+luka	B-INJURY
+dalam	I-INJURY
+jinoe!	O
+
+Help!	O
+Rahmat	B-NAME
+Hidayat	I-NAME
+di kawasan	O
+Jalan	B-LOC
+Merduati	I-LOC
+segera!	O
+
+Help!	O
+Abi	B-NAME
+Fauzan	I-NAME
+adek	O
+pingsan	B-INJURY
+di	I-INJURY
+tempat	I-INJURY
+dalam	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+
+Tulong!	O
+Ahmad	B-NAME
+Fadli	I-NAME
+nenek	O
+patah	B-INJURY
+tulang	I-INJURY
+
+Tlng!	O
+Faisal	B-NAME
+Hadi	I-NAME
+di belakang	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+cepat!	O
+
+Tolong	O
+cepat!	O
+Asmaul	B-NAME
+Husna	I-NAME
+rusuk	B-INJURY
+patah	I-INJURY
+
+Emergency!	O
+Syahrul	B-NAME
+Ramadhan	I-NAME
+wilayah	O
+Meuraxa	B-LOC
+harap	O
+cepat!	O
+
+Tulong!	O
+ureung	O
+dalam	O
+Gampong	B-LOC
+Keuramat	I-LOC
+
+Minta	O
+bantuan!	O
+abang	O
+di area	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+cepat!	O
+
+Kritis!	O
+Hasan	B-NAME
+Basri	I-NAME
+wilayah	O
+Lambaro	B-LOC
+Skep	I-LOC
+tolong	O
+datang!	O
+
+Help!	O
+terluka	B-INJURY
+dada	I-INJURY
+di sekitar	O
+Gampong	B-LOC
+Lampulo	I-LOC
+
+Tlg!	O
+korban	O
+dekat	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+
+Tolong!	O
+anak	O
+tangan	B-INJURY
+remuk	I-INJURY
+di	O
+Gampong	B-LOC
+Jawa	I-LOC
+
+Bantu!	O
+Cut	B-NAME
+Nurul	I-NAME
+ureung	O
+memar	B-INJURY
+berat	I-INJURY
+jinoe!	O
+
+Tulong!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+anak	O
+patah	B-INJURY
+tulang	I-INJURY
+di	O
+Meulaboh	B-LOC
+
+Bantu!	O
+depan	O
+Blang	B-LOC
+Bintang	I-LOC
+Hamdani	B-NAME
+Putra	I-NAME
+tidak	B-INJURY
+sadar	I-INJURY
+harap	O
+cepat!	O
+
+Darurat!	O
+Nek	B-NAME
+Zainab	I-NAME
+suami	O
+tidak	B-INJURY
+sadar	I-INJURY
+
+Tolong!	O
+Abi	B-NAME
+Fauzan	I-NAME
+ureung	O
+kaki	B-INJURY
+patah	I-INJURY
+di	O
+Gampong	B-LOC
+Pande	I-LOC
+jinoe!	O
+
+Help!	O
+Bu	B-NAME
+Sari	I-NAME
+kakak	O
+tangan	B-INJURY
+remuk	I-INJURY
+dalam	O
+Gampong	B-LOC
+Tibang	I-LOC
+
+Help!	O
+adek	O
+kepala	B-INJURY
+bocor	I-INJURY
+di	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+lsg!	O
+
+Darurat!	O
+cedera	B-INJURY
+tulang	I-INJURY
+belakang	I-INJURY
+jinoe!	O
+
+Minta	O
+bantuan!	O
+pendarahan	B-INJURY
+hebat	I-INJURY
+lam	O
+Komplek	B-LOC
+TNI	I-LOC
+AL	I-LOC
+
+Tulong!	O
+terkubur	B-INJURY
+di belakang	O
+Gampong	B-LOC
+Lhong	I-LOC
+Cut	I-LOC
+butuh	O
+bantuan!	O
+
+Kritis!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+terluka	B-INJURY
+di	I-INJURY
+kepala	I-INJURY
+butuh	O
+bantuan!	O
+
+Emergency!	O
+Halimah	B-NAME
+abang	O
+syok	B-INJURY
+cepat!	O
+
+Cepat	O
+bantu!	O
+abang	O
+di daerah	O
+Desa	B-LOC
+Neuheun	I-LOC
+tolong	O
+datang!	O
+
+Bantu!	O
+korban	O
+memar	B-INJURY
+berat	I-INJURY
+dalam	O
+Meulaboh	B-LOC
+segera!	O
+
+Bantu!	O
+ayahanda	O
+di sekitar	O
+Desa	B-LOC
+Neuheun	I-LOC
+tidak	B-INJURY
+bergerak	I-INJURY
+jinoe!	O
+
+Tolong!	O
+Pak	B-NAME
+Harun	I-NAME
+ibu	O
+tulang	B-INJURY
+retak	I-INJURY
+lam	O
+Gampong	B-LOC
+Ateuk	I-LOC
+Pahlawan	I-LOC
+lsg!	O
+
+Cepat	O
+bantu!	O
+terseret	B-INJURY
+arus	I-INJURY
+jinoe!	O
+
+Tulong!	O
+Pak	B-NAME
+Rahman	I-NAME
+ureung	O
+tulang	B-INJURY
+retak	I-INJURY
+di	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+
+Darurat!	O
+Siti	B-NAME
+Rahma	I-NAME
+istri	O
+pendarahan	B-INJURY
+lam	O
+Desa	B-LOC
+Lamdom	I-LOC
+cepat!	O
+
+Tolong!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+aneuk	O
+loen	O
+kepala	B-INJURY
+bocor	I-INJURY
+di	O
+Gampong	B-LOC
+Pande	I-LOC
+segera!	O
+
+Tulong!	O
+Muhammad	B-NAME
+Iqbal	I-NAME
+ayah	O
+di	O
+Desa	B-LOC
+Lam	I-LOC
+Ara	I-LOC
+
+Gawat!	O
+anak	O
+kaki	B-INJURY
+patah	I-INJURY
+di belakang	O
+Jalan	B-LOC
+Diponegoro	I-LOC
+harap	O
+cepat!	O
+
+Tolong!	O
+Fathimah	B-NAME
+Zahra	I-NAME
+koma	B-INJURY
+tolong	O
+datang!	O
+
+Kritis!	O
+napas	B-INJURY
+lemah	I-INJURY
+
+Tlg!	O
+tidak	B-INJURY
+sadar	I-INJURY
+dekat	O
+Neusu	B-LOC
+Jaya	I-LOC
+cepat!	O
+
+Kritis!	O
+luka	B-INJURY
+robek	I-INJURY
+lam	O
+Ulee	B-LOC
+Lheue	I-LOC
+butuh	O
+bantuan!	O
+
+Gawat!	O
+adik	O
+terluka	B-INJURY
+berat	I-INJURY
+di kawasan	O
+Jalan	B-LOC
+Krueng	I-LOC
+Aceh	I-LOC
+butuh	O
+bantuan!	O
+
+Tolong!	O
+Khairul	B-NAME
+Anwar	I-NAME
+pingsan	B-INJURY
+butuh	O
+bantuan!	O
+
+SOS!	O
+Taufik	B-NAME
+Hidayat	I-NAME
+samping	O
+Punge	B-LOC
+Blang	I-LOC
+Cut	I-LOC
+
+Bantu!	O
+Aulia	B-NAME
+Rahman	I-NAME
+abah	O
+meudarah	B-INJURY
+that	I-INJURY
+di belakang	O
+Lueng	B-LOC
+Bata	I-LOC
+segera!	O
+
+Darurat!	O
+Safrizal	B-NAME
+penuh	B-INJURY
+darah	I-INJURY
+segera!	O
+
+Help!	O
+korban	O
+kaki	B-INJURY
+patah	I-INJURY
+lam	O
+Gampong	B-LOC
+Blang	I-LOC
+Oi	I-LOC
+segera!	O
+
+Tolong!	O
+Zulfahmi	B-NAME
+di daerah	O
+Jalan	B-LOC
+Gatot	I-LOC
+Subroto	I-LOC
+butuh	O
+bantuan!	O
+
+SOS!	O
+Wahyu	B-NAME
+Pratama	I-NAME
+anak	O
+tulang	B-INJURY
+patah	I-INJURY
+segera!	O
+

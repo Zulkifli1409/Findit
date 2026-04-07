@@ -1,0 +1,1200 @@
+;;
+No;Pesan (Bahasa Aceh / Dialek Lokal);Label
+1;Tulong! Aneuk loen karam di krueng, hana deuh le!;KRITIS
+2;Rumah kamo ka keunong apui, tulong bantu sigra!;KRITIS
+3;Na ureung meukeureuphap lam mobel, darurat di jalan rayeuk!;KRITIS
+4;Ie ka jitamong lam rumoh deungon rayeuk that, kamo teurancam!;KRITIS
+5;Tulong! Ayah loen hana sanggob meunapas le, jinoe ka pingsan!;KRITIS
+6;Tanoh ka luroh di ateuh rumoh, na ureung teuribeit di dalam!;KRITIS
+7;Gempa rayeuk that, rumoh hanco, kamo teusepit lam rhotan!;KRITIS
+8;Peulaku kamo jinoe! Ie laot ka jinaek u darat, tsunami!;KRITIS
+9;Na ureung rhot nibak bak u, jinoe ulee jih meudarah le that!;KRITIS
+10;Tulong, na rampok lam rumoh, kamo jitham deungon parang!;KRITIS
+11;Aneuk miet teureubie lam paret rayeuk, tlg bantu lsg!;KRITIS
+12;Geunireng jalan kamo rhot u paret deungon ureung-ureung jih!;KRITIS
+13;Apui ka rayeuk that di gampong kamo, habih meuluap u rumoh!;KRITIS
+14;Tulong! Mak loen jimeungon nibak uleu piton, hna tukeu le!;KRITIS
+15;Kamo teurungku lam lift, oksigen ka kureung, tlg sigra!;KRITIS
+16;Meulaku kamo! Angen puteng beungiong jiba rumoh kamo!;KRITIS
+17;Na ureung jitembak bak muko mato loen, darurat beude!;KRITIS
+18;Darah jiteubiet ladom-ladom nibak ulee jih, tlg ambulan!;KRITIS
+19;Jambatan putoh, na kureta rhot u dalam krueng, tlg!;KRITIS
+20;Gas meulot di dapu, rumoh kamoe teubaka rayeuk!;KRITIS
+21;Meulaku! Na ureung keunong strum listerik kabel rhot!;KRITIS
+22;Aneuk lon jinoe ka meubuih babah, sang keunong racun!;KRITIS
+23;Tulong na kecelakaan mako, korban hana sadar droe le!;KRITIS
+24;Ie krueng ka meuluap, kamo teukuat di ateuh bumbong!;KRITIS
+25;Peulaku! Na ureung teusepit lam mesen pabrik!;KRITIS
+26;Ulee loen meudarah rayeuk that, tlg kirim bantuan medis!;KRITIS
+27;Na tabrak lari di simpang peuet, korban parah that!;KRITIS
+28;Tulong, kamo jikeupong le ureung jahat pake parang!;KRITIS
+29;Mak loen ka jinoe pingsan, jinoe ka jiteubiet buih!;KRITIS
+30;Kapal kamo karam di teungoh laot, tlg bantu kamo!;KRITIS
+31;Rumoh loen jipueh le angen kencang, kamo teubiet u luah!;KRITIS
+32;Tulong na ledakan rayeuk, ureung luka le that di ranto!;KRITIS
+33;Kamo teugunong bak ranto, ie ka naek u ulee, meulaku!;KRITIS
+34;Na ureung jiseureurang kamo deungon sinjata, darurat!;KRITIS
+35;Ureueng hamel ka jiteubiet darah le that, darurat bak rumoh!;KRITIS
+36;Na ureung tibeit lam rhotan tanoh, mangat bantu jinoe!;KRITIS
+37;Tulong na api rayeuk di pasar, kamo teurungku di dalam!;KRITIS
+38;Aneuk miet jinoe ka jiteuleun guli, hana ek meunapas!;KRITIS
+39;Meulaku! Na begal di jalan seungap, kamo jinoe jipueh!;KRITIS
+40;Ie ka leupah u leuen, kamo teukuat lam kameng!;KRITIS
+41;Tolong! Na ureung diprang le musoh di gampong!;KRITIS
+42;Kamo teukeunong musibah, rumoh hanco le gempa!;KRITIS
+43;Na ureung jinoe kap le uleu baco, tlg ambulan!;KRITIS
+44;Meulaku! Tabrakan lsg mobel deungon lori rayeuk!;KRITIS
+45;Tulong, bak kayee rhot u ateuh kureta, ureung jih teusepit!;KRITIS
+46;Apui ka jameun gampong kamo, kamo hana ek meuluap le!;KRITIS
+47;Na ureung jiteubiet darah nibak hidong hana jiteudo le!;KRITIS
+48;Tolong, na budak teuribeit lam sumu, lsg tlg!;KRITIS
+49;Darurat! Na ureung jicuba bunuh droe, tlg sigra!;KRITIS
+50;Kamo teurancam le banjir bandang, tlg sar di gampong kamo!;KRITIS
+51;Tulong! Ayah lon jinoe ka hana meunapas le, help!;KRITIS
+52;Na tabrakan rayeuk di muko skula, korban le that!;KRITIS
+53;Peulaku kamo! Ie laot ka jinaek rayeuk that!;KRITIS
+54;Rumoh kamo teubaka, tlg pemadam kebakaran jinoe!;KRITIS
+55;Na ureung tibeit lam parit rayeuk, hana tukeu le!;KRITIS
+56;Darurat! Gempa kencang that, kamo lam rumoh hanco!;KRITIS
+57;Tulong na rampok lam toko, kamo jinoe jitham!;KRITIS
+58;Aneuk lon ka pingsan bak binieh krueng, tlg!;KRITIS
+59;Na ledakan tabung gas, ureung lam dapu keunong apui!;KRITIS
+60;Tulong, na ureung jidrop kamo lam meuto, help!;KRITIS
+61;Meulaku! Tanoh rhot bak rot rayeuk, mobel jitamong!;KRITIS
+62;Na ureung keunong tikam, darah jiteubiet le that!;KRITIS
+63;Tolong! Bak kayee rhot u ateuh rumoh, kamo teusepit!;KRITIS
+64;Ie krueng ka meluap sigra, kamo teukuat lam rumoh!;KRITIS
+65;Darurat! Na kecelakaan di jalan Medan, ureung parah!;KRITIS
+66;Tulong! Na ureung teusepit lam rhotan bangunan!;KRITIS
+67;Peulaku! Na ureung jinoe kap le uleu tajam!;KRITIS
+68;Kamo teurancam le angen rayeuk, rumoh ka hanco!;KRITIS
+69;Tulong! Na ureung han ek meunapas, tlg oksigen!;KRITIS
+70;Darurat! Na tabrakan mobel kontra kureta, parah!;KRITIS
+71;Peulaku! Na api rayeuk bak kilang minyeuk!;KRITIS
+72;Tulong! Aneuk miet jinoe rhot lam paret rayeuk!;KRITIS
+73;Na ureung jinoe keunong tembak, tlg polise sigra!;KRITIS
+74;Kamo teurancam le banjir, ie ka naek u bumbong!;KRITIS
+75;Tulong! Na ureung pingsan bak jalan, hana tukeu!;KRITIS
+76;Darurat! Na ledakan di simpang peuet, help!;KRITIS
+77;Peulaku! Na ureung jinoe jitham le rampok!;KRITIS
+78;Tulong! Bak kayee rhot u ateuh mobel, darurat!;KRITIS
+79;Na ureung jinoe jiseureurang le gajah, tlg!;KRITIS
+80;Kamo teurancam le tsunami, ie laot ka putih!;KRITIS
+81;Tulong! Na ureung teuribeit lam tanoh luroh!;KRITIS
+82;Darurat! Na tabrakan rayeuk di jln Lhokseumawe!;KRITIS
+83;Peulaku! Na api rayeuk lam gudang, tlg sigra!;KRITIS
+84;Tulong! Aneuk lon jinoe ka hana tukeu le!;KRITIS
+85;Na ureung jinoe keunong tikam bak dada, tlg!;KRITIS
+86;Kamo teurancam le angen puteng beungiong!;KRITIS
+87;Tulong! Na ureung jinoe rhot nibak bak u, parah!;KRITIS
+88;Darurat! Na ledakan gas di rumoh makan!;KRITIS
+89;Peulaku! Na ureung jinoe jidrop le begal!;KRITIS
+90;Tulong! Bak kayee rhot u ateuh kureta, darurat!;KRITIS
+91;Na ureung jinoe jiseureurang le uleu, tlg!;KRITIS
+92;Kamo teurancam le banjir bandang di gampong!;KRITIS
+93;Tulong! Na ureung teuribeit lam rumoh hanco!;KRITIS
+94;Darurat! Na tabrakan mobel di muko masjid!;KRITIS
+95;Peulaku! Na api rayeuk bak pom bensin!;KRITIS
+96;Tulong! Aneuk miet jinoe ka meubuih babah!;KRITIS
+97;Na ureung jinoe keunong tikam le rampok!;KRITIS
+98;Kamo teurancam le gempa rayeuk, tlg!;KRITIS
+99;Tulong! Na ureung jinoe pingsan bak peukan!;KRITIS
+100;Darurat! Na ledakan rayeuk di kilang padi!;KRITIS
+101;Peulaku! Na ureung jinoe jitham le ureung jahat!;KRITIS
+102;Tulong! Bak kayee rhot u ateuh rumoh, help!;KRITIS
+103;Na ureung jinoe jiseureurang le harimau, tlg!;KRITIS
+104;Kamo teurancam le ie laot naek rayeuk!;KRITIS
+105;Tulong! Na ureung teuribeit lam sumu, darurat!;KRITIS
+106;Darurat! Na tabrakan rayeuk di jalan rayeuk!;KRITIS
+107;Peulaku! Na api rayeuk lam toko baju!;KRITIS
+108;Tulong! Aneuk lon jinoe ka rhot u krueng!;KRITIS
+109;Na ureung jinoe keunong tembak le polise!;KRITIS
+110;Kamo teurancam le tanoh luroh di gunong!;KRITIS
+111;Tulong! Na ureung jinoe pingsan bak jalan!;KRITIS
+112;Darurat! Na ledakan rayeuk bak dapu!;KRITIS
+113;Peulaku! Na ureung jinoe jidrop le rampok!;KRITIS
+114;Tulong! Bak kayee rhot u ateuh mobel, help!;KRITIS
+115;Na ureung jinoe jiseureurang le uleu piton!;KRITIS
+116;Kamo teurancam le angen kencang rayeuk!;KRITIS
+117;Tulong! Na ureung teuribeit lam paret!;KRITIS
+118;Darurat! Na tabrakan mobel kontra mobel!;KRITIS
+119;Peulaku! Na api rayeuk bak rumoh saket!;KRITIS
+120;Tulong! Aneuk miet jinoe ka hana meunapas!;KRITIS
+121;Na ureung jinoe keunong tikam bak ulee!;KRITIS
+122;Kamo teurancam le banjir di gampong kamo!;KRITIS
+123;Tulong! Na ureung jinoe pingsan bak rumoh!;KRITIS
+124;Darurat! Na ledakan rayeuk di pabrik!;KRITIS
+125;Peulaku! Na ureung jinoe jitham le begal!;KRITIS
+126;Tulong! Bak kayee rhot u ateuh kureta!;KRITIS
+127;Na ureung jinoe jiseureurang le gajah!;KRITIS
+128;Kamo teurancam le tsunami di binieh laot!;KRITIS
+129;Tulong! Na ureung teuribeit lam tanoh!;KRITIS
+130;Darurat! Na tabrakan rayeuk di jln Medan!;KRITIS
+131;Peulaku! Na api rayeuk bak gudang minyeuk!;KRITIS
+132;Tulong! Aneuk lon jinoe ka rhot u paret!;KRITIS
+133;Na ureung jinoe keunong tembak le rampok!;KRITIS
+134;Kamo teurancam le gempa rayeuk that!;KRITIS
+135;Tulong! Na ureung jinoe pingsan bak peukan!;KRITIS
+136;Darurat! Na ledakan gas di rumoh!;KRITIS
+137;Peulaku! Na ureung jinoe jidrop le ureung!;KRITIS
+138;Tulong! Bak kayee rhot u ateuh rumoh!;KRITIS
+139;Na ureung jinoe jiseureurang le uleu!;KRITIS
+140;Kamo teurancam le banjir bandang rayeuk!;KRITIS
+141;Tulong! Na ureung teuribeit lam bangunan!;KRITIS
+142;Darurat! Na tabrakan mobel di muko skula!;KRITIS
+143;Peulaku! Na api rayeuk bak pasar!;KRITIS
+144;Tulong! Aneuk miet jinoe ka meubuih!;KRITIS
+145;Na ureung jinoe keunong tikam le rampok!;KRITIS
+146;Kamo teurancam le angen puteng!;KRITIS
+147;Tulong! Na ureung jinoe rhot nibak bak!;KRITIS
+148;Darurat! Na ledakan rayeuk bak dapu!;KRITIS
+149;Peulaku! Na ureung jinoe jitham le begal!;KRITIS
+150;Tulong! Bak kayee rhot u ateuh mobel!;KRITIS
+151;Na ureung jinoe jiseureurang le gajah!;KRITIS
+152;Kamo teurancam le tsunami rayeuk!;KRITIS
+153;Tulong! Na ureung teuribeit lam tanoh!;KRITIS
+154;Darurat! Na tabrakan mobel kontra kureta!;KRITIS
+155;Peulaku! Na api rayeuk bak pom bensin!;KRITIS
+156;Tulong! Aneuk lon jinoe ka rhot u krueng!;KRITIS
+157;Na ureung jinoe keunong tembak le polise!;KRITIS
+158;Kamo teurancam le gempa di gampong!;KRITIS
+159;Tulong! Na ureung jinoe pingsan bak jalan!;KRITIS
+160;Darurat! Na ledakan rayeuk di kilang!;KRITIS
+161;Peulaku! Na ureung jinoe jidrop le begal!;KRITIS
+162;Tulong! Bak kayee rhot u ateuh rumoh!;KRITIS
+163;Na ureung jinoe jiseureurang le uleu!;KRITIS
+164;Kamo teurancam le banjir rayeuk!;KRITIS
+165;Tulong! Na ureung teuribeit lam sumu!;KRITIS
+166;Darurat! Na tabrakan rayeuk di jalan!;KRITIS
+167;Peulaku! Na api rayeuk lam toko!;KRITIS
+168;Tulong! Aneuk miet jinoe ka rhot!;KRITIS
+169;Na ureung jinoe keunong tikam!;KRITIS
+170;Kamo teurancam le angen kencang!;KRITIS
+171;Tulong! Na ureung jinoe pingsan!;KRITIS
+172;Darurat! Na ledakan gas rayeuk!;KRITIS
+173;Peulaku! Na ureung jinoe jidrop!;KRITIS
+174;Tulong! Bak kayee rhot u ateuh mobel!;KRITIS
+175;Na ureung jinoe jiseureurang le gajah!;KRITIS
+176;Kamo teurancam le tsunami!;KRITIS
+177;Tulong! Na ureung teuribeit!;KRITIS
+178;Darurat! Na tabrakan rayeuk!;KRITIS
+179;Peulaku! Na api rayeuk!;KRITIS
+180;Tulong! Aneuk lon rhot u krueng!;KRITIS
+181;Na ureung keunong tembak!;KRITIS
+182;Kamo teurancam gempa!;KRITIS
+183;Tulong! Na ureung pingsan!;KRITIS
+184;Darurat! Ledakan rayeuk!;KRITIS
+185;Peulaku! Ureung jidrop le rampok!;KRITIS
+186;Tulong! Bak kayee rhot!;KRITIS
+187;Na ureung jiseureurang uleu!;KRITIS
+188;Kamo teurancam banjir!;KRITIS
+189;Tulong! Ureung teuribeit lam tanoh!;KRITIS
+190;Darurat! Tabrakan mobel!;KRITIS
+191;Peulaku! Api rayeuk di gampong!;KRITIS
+192;Tulong! Aneuk miet meubuih!;KRITIS
+193;Na ureung keunong tikam parah!;KRITIS
+194;Kamo teurancam angen!;KRITIS
+195;Tulong! Ureung rhot nibak bak u!;KRITIS
+196;Darurat! Gas meulot!;KRITIS
+197;Peulaku! Begal jinoe di jalan!;KRITIS
+198;Tulong! Mobel keunong apui!;KRITIS
+199;Na gajah jiseureurang rumoh!;KRITIS
+200;Darurat! Ie laot ka jinaek!;KRITIS
+201;Ie krueng jinoe ka naek meulapis leuen, waspada gampong!;WASPADA
+202;Angen kencang that di pante, na kureta hance rhot;WASPADA
+203;Na ureung mita masalah bak pante, jinoe ka jimeulumba;WASPADA
+204;Kabot asap jinoe ka tebal that, hati-hati dijalan;WASPADA
+205;Ie ka naek u tumit, sang-sang bak jitamong lam rumoh;WASPADA
+206;Na harimau jimeurandeh bak binieh rot, neuhati-hati;WASPADA
+207;Jambatan jinoe ka goyang that, neu neuk peu-leupah kureta;WASPADA
+208;Hujan hantoe-toe nibak beungoh, waspada tanoh luroh;WASPADA
+209;Na kabel listerik jinoe ka rhot u darat, neu-elak jalur nyan;WASPADA
+210;Ie laot jinoe ka pasang rayeuk, batee binieh laot ka jipulot;WASPADA
+211;Na ureung baro nyan jicuba tamong lam pagar, waspada rampok;WASPADA
+212;Api di bak samah ka jinaek rayeuk, waspada jikeunong rumoh;WASPADA
+213;Geulanteue rayeuk that di langet, neu-mati listerik sigra;WASPADA
+214;Mobel lori jinoe ka hance rhot lam paret di jalan Medan;WASPADA
+215;Jalan jinoe ka licin that keunong minyeuk, neuhati-hati;WASPADA
+216;Tanoh di binieh gunong ka meureunggang, waspada luroh;WASPADA
+217;Na bue le that jinoe jitamong u lam gampong, neu-jaga aneuk miet;WASPADA
+218;Bak kayee di binieh rot ka reumbah, neu-waspada lewat nyan;WASPADA
+219;Ie parit ka hna ek jiteubiet le, jinoe ka meuluap u jalan;WASPADA
+220;Gas di dapu na meubeu, neu-cek sigra neu-buka pinto;WASPADA
+221;Na kureta jinoe meulumba-lumba di simpang, waspada tabrakan;WASPADA
+222;Hujan di gunong ka tebal that, waspada banjir kiriman;WASPADA
+223;Ie ka naek u ateuh mata gaki, waspada jinoe kamo siaga;WASPADA
+224;Na ureung hana taturi jiduek lam toko, neu-pantau sigra;WASPADA
+225;Langet jinoe ka hitam that, waspada angen kencang;WASPADA
+226;Na uleu rayeuk bak binieh parit, neuhati-hati neu-leupah;WASPADA
+227;Gempa ubeut baro nyan na meurasa, neu-waspada gempa susulan;WASPADA
+228;Lampu listerik jinoe ka mat-mat, waspada meulot alat;WASPADA
+229;Ie krueng jinoe ka naek u leuen masjid, neu-waspada;WASPADA
+230;Na mobel jinoe jiduek seungap di jalan seungap, waspada;WASPADA
+231;Tanoh rhot ubeut-ubeut di jalan ranto, neu-waspada;WASPADA
+232;Api lam uteuen jinoe ka deuh asap rayeuk, neu-waspada;WASPADA
+233;Angen jinoe ka jipueh bumbong rumoh ubeut, neu-siaga;WASPADA
+234;Na gajah jinoe ka deuh di ranto padi, neuhati-hati;WASPADA
+235;Ie parit jinoe ka meuluap u rumoh warga, waspada;WASPADA
+236;Na ureung baro taturi jiteumanyong rumoh keuchik, waspada;WASPADA
+237;Jalan di gunong jinoe ka kabot tebal, neu-pelan mobel;WASPADA
+238;Jambatan ubeut ka patah sibeulah, neu-waspada leupah;WASPADA
+239;Ie krueng jinoe ka meubeu lumpu, waspada banjir bandang;WASPADA
+240;Na api ubeut bak tiang listerik, neu-waspada lsg;WASPADA
+241;Hujan jinoe ka hantoe leupah nibak beungoh, waspada;WASPADA
+242;Na uleu jitamong u lam dapu, neu-waspada beu-get;WASPADA
+243;Ie laot jinoe ka meunasab u darat, waspada rob;WASPADA
+244;Na kureta jinoe rhot lam paret, ureung jih na luka ubeut;WASPADA
+245;Tanoh di binieh rot ka meureunggang rayeuk, waspada;WASPADA
+246;Na ureung meuklei di simpang, waspada na seureurang;WASPADA
+247;Ie ka naek u bumbong sumu, waspada jinoe siaga 1;WASPADA
+248;Bak kayee ka reumbah sibeulah jalan, neu-waspada;WASPADA
+249;Na asap rayeuk deuh nibak bumbong rumoh nyan, waspada;WASPADA
+250;Hujan jinoe ka deungon geulanteue rayeuk, neu-waspada;WASPADA
+251;Ie krueng ka naek meuluap leuen, waspada!;WASPADA
+252;Angen jinoe kencang that, batee rhot bak rumoh;WASPADA
+253;Na begal jinoe jiduek bak simpang seungap;WASPADA
+254;Ie ka naek u tumit kamo di gampong;WASPADA
+255;Tanoh luroh ubeut di jalan gunong;WASPADA
+256;Na gajah jinoe lam ranto warga;WASPADA
+257;Jambatan jinoe ka goyang rayeuk;WASPADA
+258;Api lam samah ka jinaek rayeuk;WASPADA
+259;Kabot asap jinoe ka tebal di jalan;WASPADA
+260;Na ureung jicuba tamong lam rumoh;WASPADA
+261;Ie laot jinoe ka pasang rayeuk;WASPADA
+262;Na uleu rayeuk jitamong u leuen;WASPADA
+263;Hujan jinoe ka hantoe nibak beungoh;WASPADA
+264;Na kabel listerik jinoe ka rhot;WASPADA
+265;Mobel lori jinoe ka hance rhot;WASPADA
+266;Jalan jinoe ka licin keunong minyeuk;WASPADA
+267;Tanoh di binieh rot ka meureunggang;WASPADA
+268;Na bue le jitamong u gampong;WASPADA
+269;Bak kayee di binieh rot ka reumbah;WASPADA
+270;Ie parit ka hna ek jiteubiet;WASPADA
+271;Gas di dapu na meubeu darurat;WASPADA
+272;Na kureta jinoe meulumba di jalan;WASPADA
+273;Hujan di gunong ka tebal that;WASPADA
+274;Ie ka naek u ateuh mata gaki;WASPADA
+275;Na ureung jiduek lam toko seungap;WASPADA
+276;Langet jinoe ka hitam that angen;WASPADA
+277;Na uleu jinoe bak binieh parit;WASPADA
+278;Gempa ubeut na meurasa baro nyan;WASPADA
+279;Lampu listerik jinoe ka mat-mat;WASPADA
+280;Ie krueng ka naek u leuen masjid;WASPADA
+281;Na mobel jiduek seungap di jalan;WASPADA
+282;Tanoh rhot ubeut di jalan ranto;WASPADA
+283;Api lam uteuen deuh asap rayeuk;WASPADA
+284;Angen jinoe ka jipueh bumbong;WASPADA
+285;Na gajah deuh di ranto padi;WASPADA
+286;Ie parit jinoe ka meuluap u rumoh;WASPADA
+287;Na ureung taturi jiteumanyong;WASPADA
+288;Jalan gunong kabot tebal that;WASPADA
+289;Jambatan ubeut ka patah sibeulah;WASPADA
+290;Ie krueng ka meubeu lumpu;WASPADA
+291;Na api ubeut bak tiang listerik;WASPADA
+292;Hujan ka hantoe leupah beungoh;WASPADA
+293;Na uleu jitamong u lam dapu;WASPADA
+294;Ie laot jinoe meunasab u darat;WASPADA
+295;Na kureta rhot lam paret ubeut;WASPADA
+296;Tanoh binieh rot ka meureunggang;WASPADA
+297;Na ureung meuklei di simpang;WASPADA
+298;Ie ka naek u bumbong sumu;WASPADA
+299;Bak kayee reumbah sibeulah jalan;WASPADA
+300;Na asap rayeuk nibak bumbong;WASPADA
+301;Hujan deungon geulanteue rayeuk;WASPADA
+302;Ie krueng jinoe ka meuluap;WASPADA
+303;Angen kencang batee rhot;WASPADA
+304;Na begal jiduek bak simpang;WASPADA
+305;Ie ka naek u tumit kamo;WASPADA
+306;Tanoh luroh ubeut di gunong;WASPADA
+307;Na gajah lam ranto warga;WASPADA
+308;Jambatan jinoe ka goyang;WASPADA
+309;Api samah ka jinaek rayeuk;WASPADA
+310;Kabot asap tebal di jalan;WASPADA
+311;Na ureung tamong lam rumoh;WASPADA
+312;Ie laot pasang rayeuk that;WASPADA
+313;Na uleu rayeuk lam leuen;WASPADA
+314;Hujan hantoe nibak beungoh;WASPADA
+315;Na kabel listerik rhot jinoe;WASPADA
+316;Mobel lori ka hance rhot;WASPADA
+317;Jalan licin keunong minyeuk;WASPADA
+318;Tanoh rot ka meureunggang;WASPADA
+319;Na bue jitamong u gampong;WASPADA
+320;Bak kayee rot ka reumbah;WASPADA
+321;Ie parit hna ek jiteubiet;WASPADA
+322;Gas dapu na meubeu jinoe;WASPADA
+323;Na kureta meulumba di jalan;WASPADA
+324;Hujan gunong tebal that;WASPADA
+325;Ie naek u mata gaki kamo;WASPADA
+326;Na ureung duek lam toko;WASPADA
+327;Langet hitam angen kencang;WASPADA
+328;Na uleu bak binieh parit;WASPADA
+329;Gempa ubeut na meurasa;WASPADA
+330;Lampu listerik ka mat-mat;WASPADA
+331;Ie krueng naek u masjid;WASPADA
+332;Na mobel duek seungap;WASPADA
+333;Tanoh rhot ubeut di jalan;WASPADA
+334;Api uteuen deuh asap;WASPADA
+335;Angen pueh bumbong rumoh;WASPADA
+336;Na gajah deuh di ranto;WASPADA
+337;Ie parit luap u rumoh;WASPADA
+338;Na ureung taturi baro nyan;WASPADA
+339;Jalan gunong kabot tebal;WASPADA
+340;Jambatan patah sibeulah;WASPADA
+341;Ie krueng meubeu lumpu;WASPADA
+342;Api ubeut tiang listerik;WASPADA
+343;Hujan hantoe leupah jinoe;WASPADA
+344;Na uleu lam dapu kamo;WASPADA
+345;Ie laot meunasab u darat;WASPADA
+346;Na kureta rhot lam parit;WASPADA
+347;Tanoh rot ka meureunggang;WASPADA
+348;Na ureung meuklei jinoe;WASPADA
+349;Ie naek u bumbong sumu;WASPADA
+350;Bak kayee reumbah jalan;WASPADA
+351;Asap rayeuk bak bumbong;WASPADA
+352;Hujan geulanteue rayeuk;WASPADA
+353;Ie krueng jinoe naek;WASPADA
+354;Angen kencang batee rhot;WASPADA
+355;Na begal bak simpang;WASPADA
+356;Ie naek u tumit jinoe;WASPADA
+357;Tanoh luroh ubeut rot;WASPADA
+358;Na gajah lam ranto;WASPADA
+359;Jambatan jinoe goyang;WASPADA
+360;Api samah na rayeuk;WASPADA
+361;Kabot asap di jalan;WASPADA
+362;Na ureung tamong rumoh;WASPADA
+363;Ie laot pasang jinoe;WASPADA
+364;Na uleu lam leuen;WASPADA
+365;Hujan beungoh hantoe;WASPADA
+366;Kabel listerik rhot;WASPADA
+367;Mobel lori hance rhot;WASPADA
+368;Jalan licin minyeuk;WASPADA
+369;Tanoh rot meureunggang;WASPADA
+370;Na bue jinoe gampong;WASPADA
+371;Bak kayee rot reumbah;WASPADA
+372;Ie parit hna teubiet;WASPADA
+373;Gas dapu na meubeu;WASPADA
+374;Kureta meulumba jalan;WASPADA
+375;Hujan gunong tebal;WASPADA
+376;Ie naek mata gaki;WASPADA
+377;Ureung duek lam toko;WASPADA
+378;Langet hitam angen;WASPADA
+379;Uleu bak binieh parit;WASPADA
+380;Gempa ubeut meurasa;WASPADA
+381;Lampu listerik mat;WASPADA
+382;Ie krueng naek masjid;WASPADA
+383;Mobel duek seungap;WASPADA
+384;Tanoh rhot ubeut rot;WASPADA
+385;Api uteuen deuh asap;WASPADA
+386;Angen pueh bumbong;WASPADA
+387;Gajah deuh di ranto;WASPADA
+388;Ie parit luap rumoh;WASPADA
+389;Ureung taturi baro;WASPADA
+390;Jalan gunong kabot;WASPADA
+391;Jambatan patah belah;WASPADA
+392;Ie krueng meubeu;WASPADA
+393;Api tiang listerik;WASPADA
+394;Hujan hantoe leupah;WASPADA
+395;Uleu tamong lam dapu;WASPADA
+396;Ie laot naek darat;WASPADA
+397;Kureta rhot lam paret;WASPADA
+398;Tanoh rot reunggang;WASPADA
+399;Ureung meuklei simpang;WASPADA
+400;Asap rayeuk bumbong;WASPADA
+401;Posko bantuan di gampong kamo jinoe dipat neuduek?;INFO
+402;Peu na bantuan rasi bak kantoe camat uroe nyoe?;INFO
+403;Padum droe ureung saket jinoe di dlm tenda?;INFO
+404;Ie krueng ka surut, peu ka jeuet kamo gisa u rumoh?;INFO
+405;Dimina na teumpat meudagang nyang aman jinoe?;INFO
+406;Peu na petugas kesehatan nyang neuk tamong u gampong?;INFO
+407;Kamo neuk lakee bantuan ie nyan, dipat kamo cok?;INFO
+408;Situasi di jalan rayeuk jinoe peu ka lancar mobel?;INFO
+409;Pak, peu na listerik ka udep uroe nyoe di Lhokseumawe?;INFO
+410;Berita keu gempa baro nyan dipat jeuet kamo baca?;INFO
+411;Na rombongan gubernur neuk trok uroe nyoe u posko?;INFO
+412;Padum jam lom ie laot pasang nyan surut balik?;INFO
+413;Peu na dapu umum di muko masjid raya jinoe?;INFO
+414;Kamo neuk bantu donasi, syarat jih peu-peu mantong?;INFO
+415;Jalan dipat nyang hna keunong banjir nasehat neuh?;INFO
+416;Peue na posko keu aneuk miet meudeun di gampong?;INFO
+417;Pak, jalan u Banda Aceh peu ka dipupeu-leupah mobel?;INFO
+418;Na berita baro keu cuaca uroe nyoe nibak BMKG?;INFO
+419;Dimina na apotek nyang udep di kuta jinoe?;INFO
+420;Kamo neuk lapor anggota keluarga nyang hna deuh le;INFO
+421;Peu na tenda darurat nyang na AC atawa kipas?;INFO
+422;Padum boh rumoh nyang hanco keunong angen baroe?;INFO
+423;Peu ka jeuet kamo meulaot uroe nyoe, angen peu ka tame?;INFO
+424;Dipat na agen gas nyang na barang jinoe?;INFO
+425;Peu na penyuluhan keu kesehatan bak balai desa?;INFO
+426;Pak, kamo neuk lakee pampers keu aneuk miet, na?;INFO
+427;Ie ledeng jinoe peu ka udep di wilayah kamo?;INFO
+428;Peu na jadwal bus u Medan uroe nyoe nibak terminal?;INFO
+429;Padum go lom gempa susulan nyang ka keunong?;INFO
+430;Peue na relawan nyang neuk bantu poh samah di pante?;INFO
+431;Dipat jeuet kamo lakee bantuan tenda plastik?;INFO
+432;Peu na kegiatan meuguroe keu aneuk miet di posko?;INFO
+433;Pak, peu na nomor tlp ambulan nyang jeuet kamo hubungi?;INFO
+434;Kamo neuk lapor jalan di gampong ka hanco;INFO
+435;Peu na pembagian selimut uroe nyoe bak kantor desa?;INFO
+436;Padum droe jumlah pengungsi jinoe bak meunasah?;INFO
+437;Peu na bantuan modal keu ureung meulaot nyang karam?;INFO
+438;Pak, dapu umum jinoe peu na peulua keu kamo?;INFO
+439;Dipat na tukang jahit tenda nyang bagoih di kuta?;INFO
+440;Peu na rencana jipeugeuet jambatan darurat jinoe?;INFO
+441;Kamo neuk lakee informasi keu beasiswa aneuk korban?;INFO
+442;Peu na listerik ka udep uroe nyoe di gampong?;INFO
+443;Pak, dipat na batee asah nyang murah di peukan?;INFO
+444;Peue na bantuan raskin keu kamo uroe nyoe?;INFO
+445;Dipat na posko SAR nyang paleng to deungon pante?;INFO
+446;Peu na pangkas nyang udep di simpang peuet?;INFO
+447;Pak, padum harga u leuh gempa nyoe di pasar?;INFO
+448;Peue na rencana jipeusijuek posko baro uroe nyoe?;INFO
+449;Dipat na puskesmas nyang melayani 24 jam?;INFO
+450;Pak, peu ka jeuet kamo udepkan api dapu jinoe?;INFO
+451;Posko bantuan dipat neuduek?;INFO
+452;Peu na bantuan rasi uroe nyoe?;INFO
+453;Padum droe ureung saket jinoe?;INFO
+454;Ie krueng peu ka surut jinoe?;INFO
+455;Dipat teumpat meudagang nyang aman?;INFO
+456;Peu na petugas kesehatan trok?;INFO
+457;Kamo neuk lakee bantuan ie;INFO
+458;Situasi jalan peu ka lancar?;INFO
+459;Listerik peu ka udep uroe nyoe?;INFO
+460;Berita gempa dipat kamo baca?;INFO
+461;Na rombongan gubernur trok uroe nyoe?;INFO
+462;Padum jam lom ie laot surut?;INFO
+463;Peu na dapu umum bak masjid?;INFO
+464;Syarat donasi peu-peu mantong?;INFO
+465;Jalan dipat nyang hna banjir?;INFO
+466;Peue na posko keu aneuk miet?;INFO
+467;Jalan u Banda peu ka lancar?;INFO
+468;Na berita cuaca nibak BMKG?;INFO
+469;Dimina na apotek nyang udep?;INFO
+470;Kamo neuk lapor anggota keluarga;INFO
+471;Peu na tenda nyang na kipas?;INFO
+472;Padum boh rumoh nyang hanco?;INFO
+473;Peu ka jeuet kamo meulaot?;INFO
+474;Dipat na agen gas jinoe?;INFO
+475;Peu na penyuluhan bak balai?;INFO
+476;Kamo neuk lakee pampers aneuk;INFO
+477;Ie ledeng peu ka udep jinoe?;INFO
+478;Peu na jadwal bus terminal?;INFO
+479;Padum go gempa susulan jinoe?;INFO
+480;Peue na relawan poh samah?;INFO
+481;Dipat lakee bantuan tenda?;INFO
+482;Peu na kegiatan aneuk miet?;INFO
+483;Na nomor tlp ambulan, pak?;INFO
+484;Kamo lapor jalan gampong hanco;INFO
+485;Peu na pembagian selimut desa?;INFO
+486;Padum droe pengungsi jinoe?;INFO
+487;Peu na bantuan modal laot?;INFO
+488;Dapu umum peu na peulua?;INFO
+489;Dipat na tukang jahit tenda?;INFO
+490;Rencana jipeugeuet jambatan darurat?;INFO
+491;Info beasiswa aneuk korban;INFO
+492;Listerik udep uroe nyoe gampong?;INFO
+493;Dipat batee asah nyang murah?;INFO
+494;Peue na bantuan raskin uroe nyoe?;INFO
+495;Dipat posko SAR paleng to?;INFO
+496;Peu na pangkas udep simpang?;INFO
+497;Padum harga u leuh gempa?;INFO
+498;Rencana peusijuek posko baro?;INFO
+499;Dipat puskesmas udep 24 jam?;INFO
+500;Peu ka jeuet udep api dapu?;INFO
+501;Posko bantuan dipat neuduek?;INFO
+502;Peu na bantuan rasi uroe nyoe?;INFO
+503;Padum droe ureung saket jinoe?;INFO
+504;Ie krueng peu ka surut jinoe?;INFO
+505;Dipat teumpat meudagang aman?;INFO
+506;Peu na petugas kesehatan trok?;INFO
+507;Kamo neuk lakee bantuan ie;INFO
+508;Situasi jalan peu ka lancar?;INFO
+509;Listerik peu ka udep uroe nyoe?;INFO
+510;Berita gempa dipat kamo baca?;INFO
+511;Na rombongan gubernur trok?;INFO
+512;Padum jam lom ie laot surut?;INFO
+513;Peu na dapu umum bak masjid?;INFO
+514;Syarat donasi peu-peu mantong?;INFO
+515;Jalan dipat hna keunong banjir?;INFO
+516;Peue na posko aneuk miet?;INFO
+517;Jalan u Banda ka lancar?;INFO
+518;Na berita cuaca BMKG uroe nyoe?;INFO
+519;Dimina na apotek nyang udep?;INFO
+520;Kamo neuk lapor keluarga hna na;INFO
+521;Peu na tenda nyang na kipas?;INFO
+522;Padum boh rumoh nyang hanco?;INFO
+523;Peu ka jeuet kamo meulaot?;INFO
+524;Dipat na agen gas jinoe?;INFO
+525;Peu na penyuluhan bak balai?;INFO
+526;Kamo neuk lakee pampers aneuk;INFO
+527;Ie ledeng peu ka udep jinoe?;INFO
+528;Peu na jadwal bus terminal?;INFO
+529;Padum go gempa susulan jinoe?;INFO
+530;Peue na relawan poh samah?;INFO
+531;Dipat lakee bantuan tenda?;INFO
+532;Peu na kegiatan aneuk miet?;INFO
+533;Na nomor tlp ambulan, pak?;INFO
+534;Kamo lapor jalan gampong hanco;INFO
+535;Peu na pembagian selimut desa?;INFO
+536;Padum droe pengungsi jinoe?;INFO
+537;Peu na bantuan modal laot?;INFO
+538;Dapu umum peu na peulua?;INFO
+539;Dipat na tukang jahit tenda?;INFO
+540;Rencana jipeugeuet jambatan darurat?;INFO
+541;Info beasiswa aneuk korban;INFO
+542;Listerik udep uroe nyoe gampong?;INFO
+543;Dipat batee asah nyang murah?;INFO
+544;Peue na bantuan raskin uroe nyoe?;INFO
+545;Dipat posko SAR paleng to?;INFO
+546;Peu na pangkas udep simpang?;INFO
+547;Padum harga u leuh gempa?;INFO
+548;Rencana peusijuek posko baro?;INFO
+549;Dipat puskesmas udep 24 jam?;INFO
+550;Peu ka jeuet udep api dapu?;INFO
+551;Posko bantuan dipat neuduek?;INFO
+552;Peu na bantuan rasi uroe nyoe?;INFO
+553;Padum droe ureung saket jinoe?;INFO
+554;Ie krueng peu ka surut jinoe?;INFO
+555;Dipat teumpat meudagang aman?;INFO
+556;Peu na petugas kesehatan trok?;INFO
+557;Kamo neuk lakee bantuan ie;INFO
+558;Situasi jalan peu ka lancar?;INFO
+559;Listerik peu ka udep uroe nyoe?;INFO
+560;Berita gempa dipat kamo baca?;INFO
+561;Na rombongan gubernur trok?;INFO
+562;Padum jam lom ie laot surut?;INFO
+563;Peu na dapu umum bak masjid?;INFO
+564;Syarat donasi peu-peu mantong?;INFO
+565;Jalan dipat hna keunong banjir?;INFO
+566;Peue na posko aneuk miet?;INFO
+567;Jalan u Banda ka lancar?;INFO
+568;Na berita cuaca BMKG uroe nyoe?;INFO
+569;Dimina na apotek nyang udep?;INFO
+570;Kamo neuk lapor keluarga hna na;INFO
+571;Peu na tenda nyang na kipas?;INFO
+572;Padum boh rumoh nyang hanco?;INFO
+573;Peu ka jeuet kamo meulaot?;INFO
+574;Dipat na agen gas jinoe?;INFO
+575;Peu na penyuluhan bak balai?;INFO
+576;Kamo neuk lakee pampers aneuk;INFO
+577;Ie ledeng peu ka udep jinoe?;INFO
+578;Peu na jadwal bus terminal?;INFO
+579;Padum go gempa susulan jinoe?;INFO
+580;Peue na relawan poh samah?;INFO
+581;Dipat lakee bantuan tenda?;INFO
+582;Peu na kegiatan aneuk miet?;INFO
+583;Na nomor tlp ambulan, pak?;INFO
+584;Kamo lapor jalan gampong hanco;INFO
+585;Peu na pembagian selimut desa?;INFO
+586;Padum droe pengungsi jinoe?;INFO
+587;Peu na bantuan modal laot?;INFO
+588;Dapu umum peu na peulua?;INFO
+589;Dipat na tukang jahit tenda?;INFO
+590;Rencana jipeugeuet jambatan darurat?;INFO
+591;Info beasiswa aneuk korban;INFO
+592;Listerik udep uroe nyoe gampong?;INFO
+593;Dipat batee asah nyang murah?;INFO
+594;Peue na bantuan raskin uroe nyoe?;INFO
+595;Dipat posko SAR paleng to?;INFO
+596;Peu na pangkas udep simpang?;INFO
+597;Padum harga u leuh gempa?;INFO
+598;Rencana peusijuek posko baro?;INFO
+599;Dipat puskesmas udep 24 jam?;INFO
+600;Peu ka jeuet udep api dapu?;INFO
+601;Tolong! Anak saya tenggelam di sungai, arus sangat deras!;KRITIS
+602;Rumah kami terbakar hebat, kami terjebak di lantai dua!;KRITIS
+603;Ada kecelakaan beruntun di tol, banyak korban berdarah!;KRITIS
+604;Air bah datang tiba-tiba, kami naik ke atas atap rumah!;KRITIS
+605;Cepat! Ayah saya tidak bisa bernapas, wajahnya membiru!;KRITIS
+606;Tanah longsor menimbun rumah warga, ada orang di dalam!;KRITIS
+607;Gempa besar sekali, bangunan runtuh dan kami tertimbun!;KRITIS
+608;Tolong, air laut naik sangat cepat, ini tsunami!;KRITIS
+609;Tetangga saya jatuh dari pohon, kepalanya bocor dan pingsan!;KRITIS
+610;Ada perampokan bersenjata di rumah saya, tolong kirim polisi!;KRITIS
+611;Anak kecil terseret arus parit besar, tolong bantu segera!;KRITIS
+612;Mobil masuk jurang di tanjakan ini, banyak teriakan minta tolong!;KRITIS
+613;Api merembet ke pemukiman padat, tolong pemadam kebakaran!;KRITIS
+614;Tolong! Ibu saya dipatok ular kobra, badannya kaku!;KRITIS
+615;Kami terjebak di dalam lift yang macet, oksigen mulai habis!;KRITIS
+616;Angin puting beliung menghancurkan rumah, ada yang terluka!;KRITIS
+617;Ada penembakan di depan toko saya, kirim bantuan medis!;KRITIS
+618;Darah keluar terus dari luka di kepalanya, tolong ambulan!;KRITIS
+619;Jembatan putus, sebuah motor jatuh ke dasar sungai!;KRITIS
+620;Tabung gas meledak, satu keluarga terbakar di dalam dapur!;KRITIS
+621;Seseorang tersengat kabel listrik tegangan tinggi, tidak sadar!;KRITIS
+622;Anak saya tidak sengaja minum racun serangga, mulut berbusa!;KRITIS
+623;Tolong ada tabrakan maut di sini, korban tewas di tempat!;KRITIS
+624;Air sungai meluap masuk ke kamar, kami terjepit lemari!;KRITIS
+625;Seseorang terjepit mesin pabrik, lengannya hancur, tolong!;KRITIS
+626;Kepala saya pusing hebat dan langsung muntah darah banyak!;KRITIS
+627;Ada tabrak lari di depan sekolah, anak kecil kritis!;KRITIS
+628;Tolong kami dikepung orang tak dikenal pakai parang!;KRITIS
+629;Ibu saya tiba-tiba pingsan dan dadanya sangat sakit!;KRITIS
+630;Kapal kami karam di tengah laut, tolong kami tenggelam!;KRITIS
+631;Atap rumah saya terbang dibawa angin, kami tertimpa kayu!;KRITIS
+632;Ada ledakan besar di pabrik kimia, banyak orang luka bakar!;KRITIS
+633;Kami terjebak banjir bandang di hutan, air sudah sedada!;KRITIS
+634;Seseorang menyerang kami dengan senjata tajam, darurat!;KRITIS
+635;Ibu hamil pendarahan hebat di rumah, butuh ambulan cepat!;KRITIS
+636;Ada warga tertimbun tanah di lokasi galian, cepat bantu!;KRITIS
+637;Kebakaran di pasar induk, orang-orang terjebak di ruko!;KRITIS
+638;Balita tersedak kelereng, tidak bisa napas sama sekali!;KRITIS
+639;Tolong! Ada begal di jalan sepi, teman saya dibacok!;KRITIS
+640;Banjir masuk ke RS, pasien di ICU butuh evakuasi segera!;KRITIS
+641;Seseorang mencoba bunuh diri dengan melompat dari gedung!;KRITIS
+642;Rumah hancur total karena gempa, kami tertahan di reruntuhan!;KRITIS
+643;Ada orang digigit ular tanah, kakinya hitam dan bengkak!;KRITIS
+644;Tabrakan bus dan truk, banyak korban terjepit kursi!;KRITIS
+645;Pohon tumbang menimpa angkot, sopirnya tidak bernapas!;KRITIS
+646;Kebakaran hutan mendekati desa, api sudah setinggi atap!;KRITIS
+647;Luka tusuk di perut, darah tidak berhenti mengalir!;KRITIS
+648;Tolong, anak saya masuk ke dalam sumur tua!;KRITIS
+649;Darurat! Ada orang mengamuk bawa celurit di jalanan!;KRITIS
+650;Banjir bandang datang, jembatan desa kami roboh!;KRITIS
+651;Tolong! Ayah sesak napas berat, butuh oksigen segera!;KRITIS
+652;Kecelakaan di lampu merah, motor hancur dilindas truk!;KRITIS
+653;Tsunami kecil mulai masuk ke darat, kirim bantuan!;KRITIS
+654;Pemadam kebakaran cepat datang, ruko ini sudah hangus!;KRITIS
+655;Ada orang tercebur ke dalam parit besar saat hujan deras!;KRITIS
+656;Gempa susulan merobohkan masjid, banyak jemaah terjebak!;KRITIS
+657;Tolong ada perampok di toko emas sekarang juga!;KRITIS
+658;Anak saya hanyut di pinggir kali, tolong carikan!;KRITIS
+659;Ledakan kompor gas menghancurkan dinding rumah!;KRITIS
+660;Tolong, kami diculik dan disekap di dalam gudang!;KRITIS
+661;Tanah longsor menutupi jalan utama, kendaraan tertimbun!;KRITIS
+662;Korban penikaman butuh bantuan medis darurat!;KRITIS
+663;Pohon jati besar roboh menimpa rumah, atapnya ambruk!;KRITIS
+664;Debit air sungai naik ekstrem, warga harus evakuasi!;KRITIS
+665;Tabrakan maut di jalur Pantura, kirim banyak ambulans!;KRITIS
+666;Seseorang terjepit di reruntuhan bangunan lama!;KRITIS
+667;Tolong, kaki warga ini dipatok ular berbisa!;KRITIS
+668;Puting beliung menghancurkan tenda pengungsian!;KRITIS
+669;Pasien gagal napas di rumah, butuh pertolongan segera!;KRITIS
+670;Kecelakaan motor vs mobil, korban tidak bergerak!;KRITIS
+671;Api menyambar gudang gas, sangat berbahaya!;KRITIS
+672;Anak sekolah jatuh ke sungai dan hilang terbawa arus!;KRITIS
+673;Seseorang tertembak di kaki, butuh bantuan medis segera!;KRITIS
+674;Banjir sudah mencapai leher, kami butuh perahu karet!;KRITIS
+675;Ada orang pingsan di tengah jalan, wajahnya sangat pucat!;KRITIS
+676;Ledakan di area konstruksi, beberapa pekerja terluka!;KRITIS
+677;Tolong kami ditahan perampok di dalam rumah sendiri!;KRITIS
+678;Pohon tumbang menutup akses, ambulan tidak bisa lewat!;KRITIS
+679;Ada gajah mengamuk masuk pemukiman, rumah hancur!;KRITIS
+680;Gelombang tinggi menghantam dermaga, nelayan hilang!;KRITIS
+681;Orang tertimbun reruntuhan saat sedang renovasi rumah!;KRITIS
+682;Kecelakaan maut di jalan lintas Sumatera, butuh evakuasi!;KRITIS
+683;Gudang tekstil terbakar hebat, api sulit dipadamkan!;KRITIS
+684;Anak saya tidak sadarkan diri setelah jatuh dari tangga!;KRITIS
+685;Korban tusukan butuh darah segera, kondisi sangat lemah!;KRITIS
+686;Badai besar menghancurkan pemukiman warga pesisir!;KRITIS
+687;Ada orang jatuh ke dalam sumur sedalam 10 meter!;KRITIS
+688;Ledakan gas di restoran, banyak pengunjung terluka!;KRITIS
+689;Tolong! Ada begal menodongkan pistol ke warga!;KRITIS
+690;Pohon tumbang menimpa pengendara motor hingga pingsan!;KRITIS
+691;Digigit ular hijau, napas mulai terasa sesak!;KRITIS
+692;Banjir bandang menerjang desa, banyak rumah hanyut!;KRITIS
+693;Seseorang tertimbun puing tembok yang roboh!;KRITIS
+694;Tabrakan beruntun melibatkan 5 mobil di jalan raya!;KRITIS
+695;SPBU terbakar, mohon bantuan unit pemadam segera!;KRITIS
+696;Bayi kejang-kejang dan berhenti napas, tolong!;KRITIS
+697;Ada perkelahian massal bawa senjata tajam, banyak luka!;KRITIS
+698;Gempa dahsyat, warga panik karena banyak rumah rata tanah!;KRITIS
+699;Pria pingsan di pasar, denyut nadi tidak teraba!;KRITIS
+700;Pabrik penggilingan meledak, pekerja terjepit puing!;KRITIS
+701;Ada orang diserang anjing gila, luka di leher sangat dalam!;KRITIS
+702;Pohon tumbang menimpa atap rumah warga yang sedang tidur!;KRITIS
+703;Serangan harimau di kebun, satu warga terluka parah!;KRITIS
+704;Air laut meluap tiba-tiba ke jalan raya, darurat tsunami!;KRITIS
+705;Tolong! Ada warga terjatuh ke sumur kering!;KRITIS
+706;Kecelakaan tragis, mobil terbakar setelah menabrak tiang!;KRITIS
+707;Kebakaran besar di mal, asap hitam pekat menutupi jalan!;KRITIS
+708;Anak saya hanyut di selokan besar saat hujan deras!;KRITIS
+709;Polisi tolong! Ada orang ditembak oleh orang misterius!;KRITIS
+710;Longsor susulan menimpa tenda relawan di lereng!;KRITIS
+711;Pasien jantung kritis, butuh ambulans sekarang juga!;KRITIS
+712;Ledakan gas di dapur rumah sakit, mohon bantuan!;KRITIS
+713;Rampok masuk bank dan menyandera nasabah, kirim tim!;KRITIS
+714;Mobil tertimpa pohon besar, penumpangnya terjepit!;KRITIS
+715;Digigit ular piton besar, warga tidak bisa lepas!;KRITIS
+716;Angin topan menerjang dermaga, banyak perahu hancur!;KRITIS
+717;Pekerja galian tertimbun tanah sedalam 3 meter!;KRITIS
+718;Tabrakan bus antar kota, banyak korban jiwa!;KRITIS
+719;Rumah sakit terbakar, evakuasi pasien butuh bantuan!;KRITIS
+720;Anak sesak napas karena tersedak uang koin!;KRITIS
+721;Ada orang ditusuk di halte bus, darah mengalir deras!;KRITIS
+722;Banjir di desa makin tinggi, warga butuh bantuan medis!;KRITIS
+723;Ayah saya jatuh pingsan dan tidak bangun-bangun!;KRITIS
+724;Ledakan di laboratorium kimia, banyak korban terpapar!;KRITIS
+725;Ada begal di simpang jalan, warga sedang dikeroyok!;KRITIS
+726;Motor tertimpa pohon tumbang, pengendara kritis!;KRITIS
+727;Gajah liar masuk ke sekolah, semua murid terjebak!;KRITIS
+728;Air laut naik ke rumah-rumah warga pesisir, panik!;KRITIS
+729;Tolong! Ada orang tertimbun tumpukan pasir!;KRITIS
+730;Kecelakaan di jalan tol, mobil terguling berkali-kali!;KRITIS
+731;Kebakaran hebat di gudang ban, api membumbung tinggi!;KRITIS
+732;Anak kecil jatuh ke dalam selokan yang dalam!;KRITIS
+733;Ada tembakan di area perkantoran, tolong segera!;KRITIS
+734;Gempa susulan merusak gedung bertingkat!;KRITIS
+735;Warga pingsan di keramaian, butuh pertolongan pertama!;KRITIS
+736;Ledakan kompor di pemukiman warga, api merembet!;KRITIS
+737;Tolong! Seseorang diculik di depan rumah saya!;KRITIS
+738;Atap rumah ambruk menimpa satu keluarga yang tidur!;KRITIS
+739;Ada ular berbisa masuk ke dalam tempat tidur anak!;KRITIS
+740;Banjir bandang menerjang pasar, banyak orang terseret!;KRITIS
+741;Pekerja bangunan jatuh dari lantai 5, butuh medis!;KRITIS
+742;Tabrakan truk bermuatan gas, sangat rawan ledakan!;KRITIS
+743;Kebakaran di ruko perbelanjaan, tolong segera datang!;KRITIS
+744;Anak saya kejang dan busa keluar dari mulutnya!;KRITIS
+745;Rampok bersenjata tajam menyekap penjaga toko!;KRITIS
+746;Angin kencang merobohkan tower listrik ke rumah!;KRITIS
+747;Seseorang jatuh dari jembatan ke sungai deras!;KRITIS
+748;Ledakan pipa gas bawah tanah, tanah terbelah!;KRITIS
+749;Begal membawa senjata tajam melukai warga desa!;KRITIS
+750;Mobil tertimpa pohon jati, penumpang berdarah-darah!;KRITIS
+751;Serangan babi hutan di ladang, warga luka robek!;KRITIS
+752;Tsunami kecil mulai menghantam pemukiman pantai!;KRITIS
+753;Warga tertimbun longsoran sampah di TPA!;KRITIS
+754;Kecelakaan motor vs truk, kaki korban putus!;KRITIS
+755;Pom bensin meledak, tolong kirim pemadam segera!;KRITIS
+756;Anak terseret arus sungai saat mandi-mandi!;KRITIS
+757;Penembakan misterius di pasar malam, warga panik!;KRITIS
+758;Gempa bumi meluluhlantakkan desa kami, butuh SAR!;KRITIS
+759;Ibu saya pingsan dan napasnya sangat pendek!;KRITIS
+760;Ledakan boiler pabrik, banyak pekerja luka bakar!;KRITIS
+761;Begal merampas motor dan membacok korban!;KRITIS
+762;Pohon tumbang menutup jalan dan menimpa warga!;KRITIS
+763;Ada ular piton melilit warga di kebun!;KRITIS
+764;Banjir bandang menghanyutkan jembatan penghubung!;KRITIS
+765;Seseorang terjatuh ke dalam mesin penggiling padi!;KRITIS
+766;Tabrakan kereta api dan mobil di perlintasan!;KRITIS
+767;Kebakaran toko mebel, api sudah merambat ke rumah!;KRITIS
+768;Anak pingsan setelah tersengat arus listrik!;KRITIS
+769;Luka tusuk di leher, kirim ambulans sekarang!;KRITIS
+770;Angin kencang menghancurkan pasar darurat!;KRITIS
+771;Orang tidak sadarkan diri di dalam angkot!;KRITIS
+772;Ledakan kimia di sekolah, banyak murid sesak napas!;KRITIS
+773;Rampok bersenjata api masuk ke rumah pejabat!;KRITIS
+774;Mobil masuk ke dalam waduk, penumpang terjebak!;KRITIS
+775;Gajah liar menghancurkan puskesmas desa!;KRITIS
+776;Gelombang pasang menghancurkan rumah nelayan!;KRITIS
+777;Seseorang terjepit di dalam lift yang jatuh!;KRITIS
+778;Kecelakaan beruntun di puncak, mobil masuk jurang!;KRITIS
+779;Kebakaran tangki bensin, tolong cepat bantu!;KRITIS
+780;Anak jatuh ke sungai dan terbawa arus deras!;KRITIS
+781;Warga tertembak peluru nyasar, kondisi kritis!;KRITIS
+782;Rumah rata dengan tanah akibat gempa bumi!;KRITIS
+783;Seseorang pingsan dengan mulut mengeluarkan busa!;KRITIS
+784;Ledakan trafo listrik menyebabkan kebakaran rumah!;KRITIS
+785;Penjambret melukai leher korban dengan pisau!;KRITIS
+786;Pohon tumbang menimpa gedung sekolah saat belajar!;KRITIS
+787;Warga digigit ular kobra saat di sawah!;KRITIS
+788;Banjir bandang masuk ke desa, tolong evakuasi!;KRITIS
+789;Seseorang tertimbun pasir di lokasi proyek!;KRITIS
+790;Tabrakan adu kambing antara dua bus besar!;KRITIS
+791;Kebakaran ruko grosir, banyak orang terjebak!;KRITIS
+792;Anak kecil sesak napas karena alergi parah!;KRITIS
+793;Luka bacok di kepala, darah sangat banyak!;KRITIS
+794;Angin kencang membawa atap seng ke jalanan!;KRITIS
+795;Orang jatuh dari pohon kelapa, tidak sadar diri!;KRITIS
+796;Ledakan kompor gas menyebabkan satu rumah hancur!;KRITIS
+797;Ada begal di jalur sepi membawa samurai!;KRITIS
+798;Mobil pemadam kebakaran kecelakaan saat bertugas!;KRITIS
+799;Serangan binatang buas di ladang penduduk!;KRITIS
+800;Air laut naik ke darat, ini peringatan tsunami!;KRITIS
+801;Debit air sungai mulai naik melewati batas normal, siaga!;WASPADA
+802;Angin sangat kencang di pinggir pantai, dilarang melaut.;WASPADA
+803;Ada orang mencurigakan mondar-mandir di depan rumah warga.;WASPADA
+804;Kabut asap mulai tebal di jalan lintas, jarak pandang terbatas.;WASPADA
+805;Air hujan mulai masuk ke halaman rumah, siapkan barang-barang.;WASPADA
+806;Ada laporan harimau terlihat di pinggir hutan dekat desa.;WASPADA
+807;Jembatan desa mulai retak dan bergoyang saat dilewati kendaraan.;WASPADA
+808;Hujan deras tidak berhenti sejak pagi, potensi longsor tinggi.;WASPADA
+809;Kabel listrik terkelupas menjuntai ke jalan, mohon dihindari.;WASPADA
+810;Air laut pasang tinggi merendam dermaga nelayan.;WASPADA
+811;Ada percobaan pencurian motor di parkiran masjid, harap hati-hati.;WASPADA
+812;Sampah yang dibakar mulai membesar apinya dekat dinding ruko.;WASPADA
+813;Petir sangat kuat, harap matikan semua alat elektronik.;WASPADA
+814;Truk mogok di tengah tanjakan, rawan kecelakaan beruntun.;WASPADA
+815;Tumpahan minyak di jalan raya membuat aspal sangat licin.;WASPADA
+816;Tanah di lereng bukit mulai bergeser sedikit demi sedikit.;WASPADA
+817;Gerombolan monyet liar masuk ke pemukiman mencari makanan.;WASPADA
+818;Dahan pohon besar mulai patah dan menghalangi separuh jalan.;WASPADA
+819;Saluran drainase tersumbat total, air meluap ke aspal jalan.;WASPADA
+820;Tercium bau gas menyengat dari arah gudang belakang.;WASPADA
+821;Balap liar mulai marak di jalan utama, rawan tabrakan.;WASPADA
+822;Curah hujan di hulu sangat tinggi, waspada banjir kiriman.;WASPADA
+823;Air sungai sudah berwarna keruh pekat dan membawa material kayu.;WASPADA
+824;Ada orang asing tidak dikenal bertanya-tanya alamat rumah kosong.;WASPADA
+825;Langit sangat gelap dan awan hitam pekat, potensi angin kencang.;WASPADA
+826;Ular piton terlihat di dalam saluran air pemukiman warga.;WASPADA
+827;Gempa kecil terasa dua kali, mohon waspada gempa susulan.;WASPADA
+828;Voltase listrik di rumah naik turun, lampu berkedip terus.;WASPADA
+829;Air mulai menggenangi area parkir sekolah setinggi mata kaki.;WASPADA
+830;Mobil boks terparkir lama di tempat sepi dengan mesin menyala.;WASPADA
+831;Retakan tanah muncul di jalan raya setelah hujan deras.;WASPADA
+832;Titik api (hotspot) mulai terlihat di lahan kosong seberang desa.;WASPADA
+833;Atap seng mulai goyang terkena angin badai di lantai atas.;WASPADA
+834;Ada kawanan gajah mendekati kebun warga, harap waspada.;WASPADA
+835;Drainase penuh, air mulai masuk ke teras rumah warga.;WASPADA
+836;Orang tidak dikenal mencoba membuka pintu pagar rumah.;WASPADA
+837;Jalanan di pegunungan sangat berkabut, lampu jauh harus dinyalakan.;WASPADA
+838;Jembatan kayu di pelosok sudah lapuk dan hampir patah.;WASPADA
+839;Air sumur warga berubah keruh dan berbau, tanda air tanah tercemar.;WASPADA
+840;Percikan api muncul di tiang listrik saat terkena gesekan dahan.;WASPADA
+841;Peringatan dini BMKG: cuaca ekstrem untuk 3 hari ke depan.;WASPADA
+842;Ular hijau ditemukan di dapur rumah, warga harap waspada.;WASPADA
+843;Banjir rob mulai merendam jalan-jalan di pesisir pantai.;WASPADA
+844;Kecelakaan motor ringan, pengendara lecet namun motor di tengah jalan.;WASPADA
+845;Dinding penahan tanah (talud) di belakang rumah mulai retak.;WASPADA
+846;Kerumunan massa di simpang jalan mulai memanas, harap hindari.;WASPADA
+847;Status air sungai siaga dua, warga diminta mengungsi mandiri.;WASPADA
+848;Pohon tua di pinggir jalan sudah miring ke arah kabel listrik.;WASPADA
+849;Asap mengepul dari bawah kap mesin mobil di pinggir jalan.;WASPADA
+850;Guntur dan petir menyambar berkali-kali di area terbuka.;WASPADA
+851;Aliran air parit tersumbat sampah, air mulai meluber ke teras.;WASPADA
+852;Kawat pagar pembatas di tol ada yang putus, rawan hewan masuk.;WASPADA
+853;Begal dilaporkan beraksi di daerah sepi semalam, tingkatkan ronda.;WASPADA
+854;Ketinggian air sungai sudah menyentuh bibir tanggul.;WASPADA
+855;Longsor kecil menutup sebagian akses jalan menuju desa.;WASPADA
+856;Babi hutan masuk ke lahan pertanian warga, merusak tanaman.;WASPADA
+857;Tiang telepon miring setelah diterjang angin puting beliung.;WASPADA
+858;Sampah di TPA mulai terbakar sendiri karena panas menyengat.;WASPADA
+859;Jarak pandang di jalan raya hanya 10 meter karena kabut pekat.;WASPADA
+860;Ada laporan penipuan masuk ke rumah-rumah warga bermodus sales.;WASPADA
+861;Gelombang laut mencapai ketinggian 3 meter, nelayan dilarang melaut.;WASPADA
+862;Ular masuk ke kandang ayam warga, warga diminta hati-hati.;WASPADA
+863;Hujan disertai angin kencang berpotensi merobohkan papan reklame.;WASPADA
+864;Kabel listrik yang putus masih dialiri arus, jangan didekati.;WASPADA
+865;Mobil mogok di perlintasan kereta api, segera evakuasi!;WASPADA
+866;Jalan aspal terkelupas parah akibat genangan air berkepanjangan.;WASPADA
+867;Tanah di bawah fondasi rumah mulai tergerus air hujan.;WASPADA
+868;Kawanan monyet liar merusak kebun pisang penduduk.;WASPADA
+869;Pohon pelindung jalan banyak yang sudah keropos, rawan tumbang.;WASPADA
+870;Selokan penuh sampah, air hujan meluap ke dalam warung.;WASPADA
+871;Bau bahan kimia menyengat dari pabrik sebelah pemukiman.;WASPADA
+872;Aksi balap liar di jalan baru sangat membahayakan warga.;WASPADA
+873;Curah hujan di wilayah pegunungan terpantau sangat lebat.;WASPADA
+874;Ketinggian genangan di pemukiman sudah mencapai 20 cm.;WASPADA
+875;Orang tidak dikenal mondar-mandir membawa tas besar di pos ronda.;WASPADA
+876;Awan berbentuk pusaran terlihat di langit, waspada puting beliung.;WASPADA
+877;Ular sanca terlihat merayap di plafon rumah warga.;WASPADA
+878;Getaran gempa terasa pelan namun durasinya cukup lama.;WASPADA
+879;Listrik di lingkungan ini sering padam secara mendadak.;WASPADA
+880;Air sungai mulai masuk ke area persawahan penduduk.;WASPADA
+881;Kendaraan tanpa plat nomor berhenti lama di depan rumah.;WASPADA
+882;Kerikil dari truk pengangkut berserakan di jalanan, rawan licin.;WASPADA
+883;Semak belukar di pinggir jalan terbakar akibat puntung rokok.;WASPADA
+884;Angin kencang mulai menggoyang papan nama toko yang besar.;WASPADA
+885;Gajah liar merusak pagar pembatas perkebunan kelapa sawit.;WASPADA
+886;Got depan rumah sudah mulai luber ke jalan aspal.;WASPADA
+887;Ada orang mencurigakan memotret rumah-rumah warga secara diam-diam.;WASPADA
+888;Jalanan tertutup asap tebal dari pembakaran lahan di seberang.;WASPADA
+889;Jembatan gantung penghubung desa bautnya mulai ada yang lepas.;WASPADA
+890;Tercium bau gas LPG dari arah warung tetangga yang tutup.;WASPADA
+891;Korsleting listrik pada tiang lampu jalan, muncul percikan api.;WASPADA
+892;Hujan lebat disertai angin diprediksi terjadi siang hari ini.;WASPADA
+893;Ular berbisa masuk ke area sekolah, harap waspada saat bermain.;WASPADA
+894;Tanggul laut mulai rembes saat air laut sedang pasang.;WASPADA
+895;Motor jatuh karena menginjak lubang jalan yang tergenang air.;WASPADA
+896;Tanah di area pemakaman mulai amblas akibat hujan terus-menerus.;WASPADA
+897;Ada kerumunan remaja yang mulai berselisih paham di lapangan.;WASPADA
+898;Asap hitam tebal muncul dari arah belakang ruko kosong.;WASPADA
+899;Tanggul sungai di blok A mulai retak sepanjang 5 meter.;WASPADA
+900;Angin kencang membuat tiang jemuran warga berjatuhan.;WASPADA
+901;Orang mabuk berteriak-teriak di simpang jalan, warga resah.;WASPADA
+902;Air banjir mulai menggenangi lantai rumah warga di RT 05.;WASPADA
+903;Longsor kecil di bahu jalan lintas, harap kurangi kecepatan.;WASPADA
+904;Gajah liar merusak gudang penyimpanan pupuk milik petani.;WASPADA
+905;Jembatan utama desa mulai miring karena fondasi tergerus.;WASPADA
+906;Tumpukan sampah plastik terbakar di pinggir pemukiman.;WASPADA
+907;Jarak pandang berkurang akibat polusi asap yang masuk ke kota.;WASPADA
+908;Ada laporan pencurian jemuran yang sering terjadi di malam hari.;WASPADA
+909;Pasang air laut meluap hingga ke jalan protokol dekat pantai.;WASPADA
+910;Ular kobra terlihat bersembunyi di tumpukan kayu bekas.;WASPADA
+911;Hujan lebat diperkirakan akan berlangsung sampai dini hari.;WASPADA
+912;Kabel internet menjuntai sangat rendah, bisa menjerat pengendara.;WASPADA
+913;Ban mobil pecah di jalan tol, posisi mobil menghalangi jalan.;WASPADA
+914;Aspal jalan retak setelah dilalui truk bermuatan berat.;WASPADA
+915;Dinding rumah warga mulai retak akibat pergeseran tanah.;WASPADA
+916;Kawanan monyet mulai masuk ke dapur warga untuk mencuri makanan.;WASPADA
+917;Pohon di dekat sekolah sudah sangat tua dan rawan patah.;WASPADA
+918;Air parit pembuangan mulai terhambat oleh kiriman lumpur.;WASPADA
+919;Tercium bau bensin bocor dari tangki kendaraan yang diparkir.;WASPADA
+920;Motor balap liar mulai berkumpul di jalan lintas provinsi.;WASPADA
+921;Langit mendung sangat pekat disertai kilat di kejauhan.;WASPADA
+922;Air sungai sudah menyentuh lantai jembatan penghubung.;WASPADA
+923;Ada orang mengetuk-ngetuk jendela rumah di tengah malam.;WASPADA
+924;Jalan lintas utama sangat licin karena hujan gerimis pertama.;WASPADA
+925;Gempa terasa ringan tetapi lampu gantung bergoyang-goyang.;WASPADA
+926;Lampu lalu lintas di perempatan besar mati total, jalan semrawut.;WASPADA
+927;Air masuk ke area pemukiman warga melalui celah dinding sungai.;WASPADA
+928;Kendaraan misterius parkir di depan gerbang gudang bahan kimia.;WASPADA
+929;Longsor tanah merah menutupi separuh jalan di tanjakan gunung.;WASPADA
+930;Lahan gambut mulai mengeluarkan asap di titik-titik tertentu.;WASPADA
+931;Angin puting beliung terlihat dari kejauhan di area persawahan.;WASPADA
+932;Gajah liar merusak pipa air bersih menuju ke desa.;WASPADA
+933;Air got meluap masuk ke teras rumah saat hujan sebentar.;WASPADA
+934;Orang mencurigakan menawarkan bantuan namun meminta data pribadi.;WASPADA
+935;Kabut sangat tebal di jalur wisata, harap berhati-hati.;WASPADA
+936;Fondasi jembatan gantung mulai keropos dimakan usia.;WASPADA
+937;Air sungai keruh pekat, waspada jika ada material kayu terbawa.;WASPADA
+938;Api kecil menyala di tumpukan ban bekas pinggir jalan.;WASPADA
+939;Cuaca buruk: angin kencang berpotensi menumbangkan pohon.;WASPADA
+940;Ular piton masuk ke bawah kolong mobil yang diparkir warga.;WASPADA
+941;Banjir rob merendam rumah warga di pinggir pantai setinggi 10 cm.;WASPADA
+942;Kureta rhot lam paret ubeut, warga minta bantuan evakuasi motor.;WASPADA
+943;Pagar rumah warga terlihat dirusak oleh orang tak dikenal.;WASPADA
+944;Tawuran remaja antar gang mulai berkumpul membawa kayu.;WASPADA
+945;Ketinggian air di bendungan sudah mencapai level siaga.;WASPADA
+946;Dahan pohon besar menutupi kabel listrik tegangan menengah.;WASPADA
+947;Asap keluar dari salah satu toko pakaian yang terkunci.;WASPADA
+948;Hujan lebat disertai kilat kuat, dilarang berteduh di bawah pohon.;WASPADA
+949;Tanggul sungai rembes, air mulai membasahi jalan setapak.;WASPADA
+950;Kawat duri pembatas lahan ada yang sengaja dipotong.;WASPADA
+951;Laporan begal motor di dekat hutan karet semalam.;WASPADA
+952;Air sungai naik perlahan tapi pasti merendam persawahan.;WASPADA
+953;Longsoran batu kecil mulai jatuh dari atas bukit ke jalan.;WASPADA
+954;Harimau terekam kamera warga sedang menyeberang jalan setapak.;WASPADA
+955;Tiang listrik miring ke arah pemukiman setelah diterjang badai.;WASPADA
+956;Lahan alang-alang terbakar dekat dengan kabel jaringan internet.;WASPADA
+957;Polusi asap kiriman membuat mata perih dan napas sesak.;WASPADA
+958;Ada sales menawarkan barang dengan memaksa masuk rumah.;WASPADA
+959;Pasang air laut masuk sampai ke halaman sekolah dekat laut.;WASPADA
+960;Ular berbisa masuk ke dalam tas kerja warga di kantor.;WASPADA
+961;Hujan badai berpotensi terjadi sore ini, amankan atap seng.;WASPADA
+962;Kabel listrik menjuntai ke genangan air, sangat berbahaya!;WASPADA
+963;Mobil pick-up terperosok ke selokan di pinggir jalan desa.;WASPADA
+964;Lubang di tengah jalan tol sangat dalam, rawan kecelakaan.;WASPADA
+965;Tanah di halaman rumah mulai amblas sedalam setengah meter.;WASPADA
+966;Kawanan babi hutan merusak tanaman singkong milik warga.;WASPADA
+967;Pohon beringin besar di depan balai desa sudah keropos akarnya.;WASPADA
+968;Air parit tersumbat endapan lumpur tebal, rawan banjir luapan.;WASPADA
+969;Tercium bau bensin yang sangat kuat di area parkir motor.;WASPADA
+970;Geng motor mulai berkumpul di jalan lingkar kota.;WASPADA
+971;Langit sangat gelap di siang hari, tanda badai besar akan datang.;WASPADA
+972;Air sungai meluap membasahi badan jalan raya antar desa.;WASPADA
+973;Orang mencurigakan memanjat pagar sekolah di jam malam.;WASPADA
+974;Jalan aspal di lereng gunung mulai pecah dan miring.;WASPADA
+975;Gempa terasa pelan tapi membuat air dalam gelas bergoyang.;WASPADA
+976;Trafo listrik meledak kecil dan mengeluarkan asap di RT 03.;WASPADA
+977;Debit air di saluran irigasi utama naik sangat signifikan.;WASPADA
+978;Kendaraan misterius mematikan lampu saat melewati pos ronda.;WASPADA
+979;Tanah longsor menutupi saluran drainase utama desa.;WASPADA
+980;Muncul titik api baru di lahan gambut bekas terbakar.;WASPADA
+981;Angin sangat kencang, banyak genteng rumah warga terbang.;WASPADA
+982;Gajah liar masuk ke gudang pakan ternak di pinggir desa.;WASPADA
+983;Air selokan masuk ke warung makan saat hujan lebat.;WASPADA
+984;Ada orang tak dikenal menempelkan stiker mencurigakan di pintu.;WASPADA
+985;Kabut sangat pekat di pagi hari, lampu kendaraan harus menyala.;WASPADA
+986;Jembatan beton mulai retak pada bagian penyangga tengah.;WASPADA
+987;Air sungai sudah berwarna hitam dan berbusa, tanda limbah.;WASPADA
+988;Api sampah di pinggir jalan raya menghalangi pandangan sopir.;WASPADA
+989;Peringatan cuaca ekstrem: hujan es mungkin terjadi.;WASPADA
+990;Ular sanca terlihat di dahan pohon tepat di atas jalan warga.;WASPADA
+991;Banjir rob masuk ke area perkantoran dekat pelabuhan.;WASPADA
+992;Kureta rhot lam paret akibat jalan licin kena oli.;WASPADA
+993;Retakan dinding rumah bertambah lebar setelah hujan semalam.;WASPADA
+994;Keributan kecil antar pemuda di lapangan, rawan meluas.;WASPADA
+995;Status bendungan naik ke level siaga satu malam ini.;WASPADA
+996;Dahan pohon menimpa kabel telepon hingga hampir putus.;WASPADA
+997;Muncul asap tipis dari tumpukan kardus di gudang minimarket.;WASPADA
+998;Guntur sangat keras berkali-kali, hindari tempat tinggi.;WASPADA
+999;Di mana lokasi posko bantuan pengungsian yang terdekat?;INFO
+1000;Apakah ada pembagian sembako gratis di kantor camat hari ini?;INFO
+1001;Berapa jumlah korban luka yang saat ini dirawat di tenda medis?;INFO
+1002;Air sungai sudah surut, apakah warga sudah boleh kembali ke rumah?;INFO
+1003;Mohon info tempat mengungsi yang masih tersedia ruang kosong.;INFO
+1004;Kapan petugas kesehatan akan datang memeriksa warga di desa kami?;INFO
+1005;Kami butuh bantuan air bersih, ke mana kami harus melapor?;INFO
+1006;Bagaimana kondisi lalu lintas di jalur lintas timur saat ini?;INFO
+1007;Pak, apakah aliran listrik di area Lhokseumawe sudah kembali normal?;INFO
+1008;Di mana saya bisa membaca data terbaru mengenai dampak gempa tadi?;INFO
+1009;Apakah benar ada kunjungan pejabat ke posko hari ini?;INFO
+1010;Pukul berapa diperkirakan air laut pasang akan mulai surut?;INFO
+1011;Apakah ada dapur umum yang dibuka di dekat Masjid Raya?;INFO
+1012;Saya ingin menyalurkan donasi pakaian layak pakai, apa prosedurnya?;INFO
+1013;Mohon info jalur alternatif yang tidak terkena genangan banjir.;INFO
+1014;Apakah tersedia posko trauma healing untuk anak-anak di pengungsian?;INFO
+1015;Pak, apakah jalan menuju Banda Aceh sudah dibuka untuk truk logistik?;INFO
+1016;Bagaimana prakiraan cuaca dari BMKG untuk wilayah pesisir sore nanti?;INFO
+1017;Di mana apotek yang masih buka 24 jam di sekitar pusat kota?;INFO
+1018;Saya ingin melaporkan anggota keluarga yang belum pulang sejak kemarin.;INFO
+1019;Apakah di tenda darurat tersedia fasilitas kipas angin atau pendingin?;INFO
+1020;Berapa total rumah yang mengalami kerusakan akibat angin puting beliung?;INFO
+1021;Apakah nelayan sudah diizinkan melaut pagi ini oleh pihak syahbandar?;INFO
+1022;Di mana agen gas LPG yang masih memiliki stok barang hari ini?;INFO
+1023;Apakah ada jadwal penyuluhan kesehatan di balai desa besok pagi?;INFO
+1024;Kami membutuhkan bantuan pampers dan susu bayi, mohon informasinya.;INFO
+1025;Apakah air bersih dari PDAM sudah mulai mengalir di wilayah kami?;INFO
+1026;Mohon info jadwal bus di terminal untuk keberangkatan malam ini.;INFO
+1027;Sudah berapa kali terjadi gempa susulan menurut data resmi pemerintah?;INFO
+1028;Apakah ada relawan yang bisa membantu membersihkan sisa lumpur banjir?;INFO
+1029;Di mana tempat pengambilan bantuan terpal atau tenda plastik?;INFO
+1030;Apakah ada kegiatan belajar mengajar darurat untuk anak-anak sekolah?;INFO
+1031;Pak, minta nomor telepon ambulans atau layanan darurat yang aktif.;INFO
+1032;Saya ingin melaporkan kerusakan jalan akibat abrasi di bibir pantai.;INFO
+1033;Kapan jadwal pembagian selimut dan perlengkapan tidur di kantor desa?;INFO
+1034;Berapa jumlah pengungsi yang saat ini menempati balai desa?;INFO
+1035;Apakah ada skim bantuan modal bagi nelayan yang perahunya hancur?;INFO
+1036;Pak, apakah dapur umum masih melayani makan malam untuk warga?;INFO
+1037;Di mana lokasi kantor SAR yang bisa dihubungi untuk koordinasi?;INFO
+1038;Apakah ada rencana pembangunan jembatan darurat dalam waktu dekat?;INFO
+1039;Mohon info terkait beasiswa bagi anak-anak korban bencana alam.;INFO
+1040;Kapan rencananya perbaikan tiang listrik yang roboh akan selesai?;INFO
+1041;Di mana tempat pengisian ulang baterai HP massal di pengungsian?;INFO
+1042;Apakah bantuan sosial dari pemerintah sudah mulai didistribusikan?;INFO
+1043;Di mana posko kesehatan yang memiliki stok obat-obatan lengkap?;INFO
+1044;Apakah layanan perbankan atau ATM di pusat kota sudah berfungsi?;INFO
+1045;Pak, berapa harga rata-rata bahan pokok di pasar saat ini?;INFO
+1046;Apakah ada rencana peresmian hunian tetap bagi korban tsunami?;INFO
+1047;Di mana Puskesmas yang melayani rawat inap darurat saat ini?;INFO
+1048;Pak, apakah warga sudah diizinkan menyalakan kompor di dalam rumah?;INFO
+1049;Di mana saya bisa mendapatkan informasi data korban hilang?;INFO
+1050;Apakah ada bantuan untuk perbaikan atap rumah yang terbang?;INFO
+1051;Berapa kapasitas maksimal tenda pengungsian di lapangan bola?;INFO
+1052;Air sungai sudah normal kembali, mohon info pembersihan gorong-gorong.;INFO
+1053;Di mana lokasi pasar murah yang diadakan pemerintah kabupaten?;INFO
+1054;Apakah ada tim medis yang berkeliling ke rumah-rumah warga?;INFO
+1055;Mohon kirimkan jadwal pengiriman bantuan air bersih hari ini.;INFO
+1056;Jalur utama apakah sudah bisa dilewati oleh kendaraan roda dua?;INFO
+1057;Kapan jadwal pemadaman listrik bergilir berakhir hari ini?;INFO
+1058;Di media mana saya bisa memantau pergerakan tinggi muka air?;INFO
+1059;Apakah ada kunjungan menteri ke lokasi bencana besok pagi?;INFO
+1060;Berapa lama lagi estimasi air pasang akan mencapai puncaknya?;INFO
+1061;Apakah dapur umum membutuhkan relawan tambahan untuk memasak?;INFO
+1062;Bagaimana cara mendaftar jadi relawan penanggulangan bencana?;INFO
+1063;Mohon info jalan tikus yang aman dari kemacetan di simpang pusat.;INFO
+1064;Apakah tersedia popok dewasa di posko kesehatan pengungsian?;INFO
+1065;Jalan lintas kabupaten apakah aman dari potensi tanah longsor?;INFO
+1066;Di mana saya bisa mendapatkan masker untuk melindungi dari abu?;INFO
+1067;Toko bangunan mana yang sudah buka dan memiliki stok semen?;INFO
+1068;Saya ingin melaporkan bahwa dokumen penting saya hanyut banjir.;INFO
+1069;Apakah tenda keluarga sudah mulai dibagikan kepada warga RT 03?;INFO
+1070;Berapa jumlah kepala keluarga yang terdampak kebakaran semalam?;INFO
+1071;Apakah cuaca hari ini mendukung untuk aktivitas di luar ruangan?;INFO
+1072;Di mana agen air mineral galon yang masih beroperasi?;INFO
+1073;Apakah ada sosialisasi mitigasi bencana gempa di balai desa?;INFO
+1074;Kami butuh sabun dan perlengkapan mandi, mohon bantuannya.;INFO
+1075;Kapan perbaikan saluran pipa air bersih yang bocor dilakukan?;INFO
+1076;Mohon info rute angkutan umum yang masih melayani penumpang.;INFO
+1077;Sudah berapa magnitudo kekuatan gempa yang terjadi barusan?;INFO
+1078;Apakah ada kegiatan gotong royong warga hari Minggu besok?;INFO
+1079;Di mana saya bisa meminjam alat pertukangan untuk perbaiki pagar?;INFO
+1080;Apakah ada taman bacaan untuk anak-anak di sekitar pengungsian?;INFO
+1081;Pak, tolong berikan nomor layanan pelanggan PLN yang bisa di-SMS.;INFO
+1082;Saya melapor bahwa lampu jalan di depan rumah padam total.;INFO
+1083;Kapan pembagian kelengkapan sekolah untuk anak-anak dimulai?;INFO
+1084;Berapa persen kerusakan fasilitas umum menurut data BPBD?;INFO
+1085;Apakah ada bantuan bibit padi bagi petani yang gagal panen?;INFO
+1086;Mohon izin apakah dapu umum boleh digunakan untuk umum?;INFO
+1087;Di mana lokasi bengkel motor yang sudah buka di sekitar sini?;INFO
+1088;Apakah ada rencana relokasi bagi warga yang tinggal di bantaran?;INFO
+1089;Info terkait jadwal vaksinasi rutin di Puskesmas pembantu.;INFO
+1090;Apakah jaringan internet di kelurahan ini sudah stabil kembali?;INFO
+1091;Di mana tempat penjualan bahan bakar minyak yang tidak antre?;INFO
+1092;Apakah ada pembagian nasi bungkus untuk makan siang hari ini?;INFO
+1093;Di mana posko relawan pengatur lalu lintas yang paling dekat?;INFO
+1094;Apakah tempat cukur rambut di dekat pasar sudah mulai buka?;INFO
+1095;Pak, berapa biaya sewa alat berat untuk membersihkan puing?;INFO
+1096;Kapan upacara adat peusijuek untuk korban bencana dilaksanakan?;INFO
+1097;Di mana rumah sakit yang menerima pasien BPJS tanpa rujukan?;INFO
+1098;Apakah sudah boleh masuk ke area pantai untuk berwisata?;INFO
+1099;Di mana lokasi posko logistik untuk drop barang bantuan?;INFO
+1100;Apakah ada jadwal pembagian kompor bagi korban kebakaran?;INFO
+1101;Berapa jumlah lansia yang berada di pengungsian saat ini?;INFO
+1102;Air sudah surut total, apakah pembersihan sisa lumpur dimulai?;INFO
+1103;Di mana tempat aman untuk memarkir kendaraan saat banjir datang?;INFO
+1104;Apakah ada dokter spesialis anak yang bertugas di posko kesehatan?;INFO
+1105;Mohon bantuan informasi pengiriman logistik ke desa terisolir.;INFO
+1106;Apakah jalan raya utama sudah bersih dari sisa batang pohon?;INFO
+1107;Kapan bantuan perbaikan rumah (RTLH) akan dicairkan?;INFO
+1108;Di kanal YouTube mana kita bisa menonton siaran pers BPBD?;INFO
+1109;Apakah ada instruksi khusus bagi warga yang tinggal di perbukitan?;INFO
+1110;Berapa liter estimasi air bersih yang dibagikan per kepala keluarga?;INFO
+1111;Apakah dapur lapangan membutuhkan stok sayur-sayuran segar?;INFO
+1112;Bagaimana mekanisme klaim asuransi kesehatan bagi korban bencana?;INFO
+1113;Mohon informasi nomor WhatsApp pusat bantuan bencana nasional.;INFO
+1114;Apakah sekolah-sekolah di wilayah terdampak diliburkan hari ini?;INFO
+1115;Di mana saya bisa membeli obat nyamuk elektrik yang ampuh?;INFO
+1116;Apakah jalur kereta api dari Medan sudah beroperasi normal?;INFO
+1117;Bagaimana cara mendapatkan kartu identitas darurat karena hilang?;INFO
+1118;Saya ingin menginfokan bahwa bantuan sudah diterima di RW 02.;INFO
+1119;Apakah tenda pengungsian menyediakan area khusus ibu menyusui?;INFO
+1120;Berapa banyak hewan ternak warga yang berhasil diselamatkan?;INFO
+1121;Apakah cuaca hari ini cerah untuk menjemur perlengkapan rumah?;INFO
+1122;Di mana toko kelontong yang menjual lilin dan senter di dekat sini?;INFO
+1123;Apakah ada kelas pelatihan keterampilan bagi warga di posko?;INFO
+1124;Kami membutuhkan perlengkapan ibadah, seperti mukena dan sarung.;INFO
+1125;Kapan teknisi internet akan memperbaiki kabel yang menjuntai?;INFO
+1126;Mohon rute jalan yang bisa dilewati kendaraan berat hari ini.;INFO
+1127;Berapa skala Richter guncangan gempa yang baru saja terjadi?;INFO
+1128;Apakah ada rencana renovasi masjid gampong yang retak?;INFO
+1129;Di mana saya bisa meminjam alat penyemprot desinfektan?;INFO
+1130;Apakah tersedia buku cerita untuk hiburan anak di pengungsian?;INFO
+1131;Pak, tolong info nomor telepon Call Center 112 untuk daerah ini.;INFO
+1132;Saya melapor bahwa kondisi posko kami sudah penuh sesak.;INFO
+1133;Kapan pembagian tas sekolah dan buku tulis dimulai?;INFO
+1134;Berapa persen jumlah pengungsi yang sudah pulang ke rumah?;INFO
+1135;Apakah ada bantuan pakan ternak bagi sapi-sapi warga?;INFO
+1136;Mohon izin apakah boleh mengambil air di tangki milik desa?;INFO
+1137;Di mana lokasi bengkel las yang bisa memperbaiki pagar rusak?;INFO
+1138;Apakah ada program pembangunan huntara (hunian sementara)?;INFO
+1139;Info terkait pendaftaran sekolah darurat bagi korban gempa.;INFO
+1140;Apakah jaringan telepon seluler di desa seberang sudah aktif?;INFO
+1141;Di mana tempat pengungsian yang ramah bagi penyandang disabilitas?;INFO
+1142;Apakah ada pembagian paket makanan siap saji sore nanti?;INFO
+1143;Di mana posko TNI/Polri yang paling dekat dengan lokasi kejadian?;INFO
+1144;Apakah tukang bangunan di desa sudah mulai bisa bekerja kembali?;INFO
+1145;Pak, berapa biaya jasa angkut puing bangunan ke tempat sampah?;INFO
+1146;Kapan rencana doa bersama untuk para korban bencana diadakan?;INFO
+1147;Di mana rumah sakit yang masih memiliki ruang ICU yang kosong?;INFO
+1148;Apakah sudah diizinkan menggunakan kendaraan di area lereng?;INFO
+1149;Di mana titik kumpul evakuasi utama jika terjadi gempa lagi?;INFO
+1150;Apakah ada bantuan untuk mengganti perabot yang rusak kena banjir?;INFO
+1151;Berapa total kerugian materil akibat kebakaran ruko kemarin?;INFO
+1152;Air genangan sudah surut, mohon bantuan mobil tangki penyemprot.;INFO
+1153;Di mana tempat membeli kayu dan seng yang harganya murah?;INFO
+1154;Apakah ada psikiater yang bertugas mendampingi korban trauma?;INFO
+1155;Mohon info bantuan logistik untuk daerah yang masih terendam.;INFO
+1156;Apakah jalan menuju pasar sudah bebas dari genangan air?;INFO
+1157;Kapan dana bantuan sosial dari Kemensos akan segera cair?;INFO
+1158;Di akun Instagram mana kita bisa melihat foto-foto korban?;INFO
+1159;Apakah ada instruksi bagi warga untuk kembali ke rumah masing-masing?;INFO
+1160;Berapa kali pengiriman bantuan makanan dilakukan dalam sehari?;INFO
+1161;Apakah dapur darurat membutuhkan tabung gas melon tambahan?;INFO
+1162;Bagaimana cara mengajukan permohonan bantuan tenda keluarga?;INFO
+1163;Mohon info nomor telepon darurat bagi warga yang sakit mendadak.;INFO
+1164;Apakah sekolah PAUD juga diliburkan sampai akhir minggu ini?;INFO
+1165;Di mana saya bisa membeli obat-obatan untuk gatal-gatal (salep)?;INFO
+1166;Apakah operasional bandara sudah kembali normal hari ini?;INFO
+1167;Bagaimana alur pendaftaran relawan medis bagi mahasiswa tingkat akhir?;INFO
+1168;Saya ingin menginformasikan bahwa stok obat di posko kami habis.;INFO
+1169;Apakah pengungsian menyediakan tempat tidur lipat untuk lansia?;INFO
+1170;Berapa ekor sapi yang hilang menurut laporan petugas peternakan?;INFO
+1171;Apakah cuaca besok diprediksi hujan lebat lagi?;INFO
+1172;Di mana toko yang menjual perlengkapan penerangan selain lilin?;INFO
+1173;Apakah ada pelatihan tanggap bencana bagi pemuda di desa?;INFO
+1174;Kami membutuhkan perlengkapan kebersihan, seperti sapu dan pel.;INFO
+1175;Kapan perbaikan kabel telepon yang putus akan dikerjakan?;INFO
+1176;Mohon rute jalan lingkar yang aman untuk dilewati motor pagi ini.;INFO
+1177;Berapa kekuatan guncangan gempa utama menurut rilis BMKG?;INFO
+1178;Apakah ada rencana renovasi balai desa yang roboh?;INFO
+1179;Di mana saya bisa meminjam tangki air portable untuk rumah?;INFO
+1180;Apakah tersedia majalah atau koran untuk bacaan di pengungsian?;INFO
+1181;Pak, tolong bagikan nomor WhatsApp BPBD kabupaten.;INFO
+1182;Saya melapor bahwa sampah pasca-banjir di depan RW belum diangkut.;INFO
+1183;Kapan pembagian baju layak pakai untuk warga dimulai?;INFO
+1184;Berapa persen jumlah pengungsi yang sudah mendapatkan tenda?;INFO
+1185;Apakah ada subsidi pupuk bagi lahan yang rusak akibat longsor?;INFO
+1186;Mohon izin apakah warga boleh memancing di waduk sekarang?;INFO
+1187;Di mana lokasi tukang servis kompor gas yang buka di pusat kota?;INFO
+1188;Apakah ada rencana perbaikan tanggul sungai secara permanen?;INFO
+1189;Info terkait jadwal pendaftaran sekolah darurat tingkat SMP.;INFO
+1190;Apakah sinyal telepon dari provider Telkomsel sudah normal?;INFO
+1191;Di mana pengungsian yang menyediakan fasilitas air hangat?;INFO
+1192;Apakah ada pembagian takjil gratis di posko selama Ramadhan?;INFO
+1193;Di mana posko pengaduan jika bantuan tidak merata?;INFO
+1194;Apakah tukang bangunan sudah mulai menaikkan tarif jasa mereka?;INFO
+1195;Pak, berapa tarif sewa mobil pickup untuk pindahan barang?;INFO
+1196;Kapan rencana doa istighosah untuk keselamatan warga diadakan?;INFO
+1197;Di mana rumah sakit yang melayani pengobatan gratis bagi pengungsi?;INFO
+1198;Apakah warga sudah diperbolehkan beraktivitas di kebun lereng?;INFO

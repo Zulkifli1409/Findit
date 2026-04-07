@@ -1,0 +1,39 @@
+# Pustaka Python / Lingkungan Virtual
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# File Model Machine Learning Besar (Jangan di-push ke GitHub, pakai HuggingFace)
+*.safetensors
+*.ckpt
+*.h5
+*.pb
+*.bin
+*.pt
+
+# Direktori Hasil Training agar tidak membebani GitHub (Sudah di-upload ke HF)
+pesan_klasifikasi/hasil/
+pesan_klasifikasi/checkpoint-*/
+Named_Entity_Recognition/model_ner2/
+Named_Entity_Recognition/hasil_training_ner/
+Named_Entity_Recognition/logs_ner/
+Sentiment_Panic_Detection/panic_model/
+Sentiment_Panic_Detection/panic_dataset/
+
+# Log & Output
+*.log
+output.txt
+
+# Streamlit
+.streamlit/
+
+# OS Dependencies
+.DS_Store
+Thumbs.db
